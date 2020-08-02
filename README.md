@@ -3,9 +3,11 @@
 **Thank you for Visiting my Github Profile!**
 <div>
   
-![GitHub followers](https://img.shields.io/github/followers/CodexLink?label=Follow%20Me&style=social)
-  
- </div>
+[![GitHub Followers](https://img.shields.io/github/followers/CodexLink?label=Follow%20Me&style=social)](http://github.com/CodexLink?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/CodexLink/CodexLink?style=social)](https://github.com/CodexLink/CodexLink/stargazers)
+
+</div>
+ 
  
 ```c++
 // My User Information / About Me, Written in C++ Format. (CPP11 is Love)
