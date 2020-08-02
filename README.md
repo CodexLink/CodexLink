@@ -117,17 +117,6 @@ class AboutMeFrontPage : private MyUserInformation {
 <div align="center">
   
 <!--START_SECTION:waka-->
-```text
-Python       29 hrs 49 mins  █████████████████████████   99.80 % 
-
-JSX          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
 <!--END_SECTION:waka-->
 
 ![CodexLink's Github Stats](https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=21)
