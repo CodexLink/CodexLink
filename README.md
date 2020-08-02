@@ -1,11 +1,13 @@
 ## Hello! I'm Janrey `CodexLink` Licas 👋
+
+**Thank you for Visiting my Github Profile!**
 <div>
   
 ![GitHub followers](https://img.shields.io/github/followers/CodexLink?label=Follow%20Me&style=social)
   
  </div>
  
-**Thank you for Visiting my Github Profile!**
+**Here's all of my information, written in C++11 format.**
 
 ```c++
 // Me MySelf and I. Written in C++11.
@@ -132,3 +134,4 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink&layout=compact&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
