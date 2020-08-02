@@ -28,4 +28,11 @@ Keep in mind, most of my projects that I recently learned while in the process i
 
 WakaTime Dev Metric
 <!--START_SECTION:waka-->
+```text
+Python       29 hrs 49 mins  █████████████████████████   99.80 % 
+JSX          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
 <!--END_SECTION:waka-->
