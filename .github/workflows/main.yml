@@ -1,8 +1,9 @@
 name: README Dev Metric Updater
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '* 1/1 * * *'
+    - cron: '30 1/2 * * *'
 
 jobs:
   update-readme:
