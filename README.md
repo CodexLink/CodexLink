@@ -7,10 +7,8 @@
   
  </div>
  
-**Here's all of my information, written in C++11 format.**
-
 ```c++
-// Me MySelf and I. Written in C++11.
+// My User Information / About Me, Written in C++ Format. (CPP11 is Love)
 
 #pragma once
 
