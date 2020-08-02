@@ -12,17 +12,14 @@ Those repositories contains much more than what I have as usual and they represe
 ### About Other Repositories
 Keep in mind, most of my projects that I recently learned while in the process in making those project were quite flawed and has some logic errors. And some of them are incomplete as well. You might be too surprised the fact that the detail of my repository feels like I did finished **ALL** of them. But they were not. But has a plans for them soon. Keep in mind that, some implementations were forcibly different than what might others think. I always try to make things quite difficult to compensate the ability of reusing them or based from what I see. Some parts were suck and some parts were quite fine but requires improvement / iteration.
 
-<!--
-**CodexLink/CodexLink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Proof of Work Experience / Evidence of Hardwork
+- Website / Portfolio: https://inst-typed.works
+- CodeStats: https://codestats.net/users/CodexLink
+- WakaTime: https://wakatime.com/@CodexLink
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+*You may contact me in one of the following platforms.*
+- Twitter: @CodexLink
+- Discord: CodexLink #5848
+- Email: codexlink@gmail.com (Not Available Yet.)
