@@ -113,14 +113,19 @@ class AboutMeFrontPage : private MyUserInformation {
 }
 
 ```
-
+-------
 <div align="center">
-  
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+-------
 ![CodexLink's Github Stats](https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=21)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink&layout=compact&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+-------
 
+****This Profile README Updates 3 Hours and 30 Minutes Everyday!****<br>
+<br>
+
+![README Workflow Status](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Dev%20Metric%20README%20Update/badge.svg)
 </div>
 
