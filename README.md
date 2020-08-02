@@ -15,14 +15,17 @@ Those repositories contains much more than what I have as usual and they represe
 ### About Other Repositories
 Keep in mind, most of my projects that I recently learned while in the process in making those project were quite flawed and has some logic errors. So expect messy code but it works on multiple parts of the codebase.
 
-## Proof of Work Experience / Evidence of Hardwork
-- Website / Portfolio: https://inst-typed.works
-- CodeStats: https://codestats.net/users/CodexLink
-- WakaTime: https://wakatime.com/@CodexLink
-
-
 ## Contact
 *You may contact me in one of the following platforms.*
 - Twitter: @CodexLink
 - Discord: CodexLink #5848
 - Email: codexlink@gmail.com (Not Available Yet.)
+
+## Proof of Work Experience / Evidence of Hardwork
+- Website / Portfolio: https://inst-typed.works
+- CodeStats: https://codestats.net/users/CodexLink
+- WakaTime: https://wakatime.com/@CodexLink
+
+WakaTime Dev Metric
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
