@@ -2,12 +2,11 @@ name: WakaTime Dev Metric README Update
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    - cron: '30,30,30,30,30 0,6,12,18,0 * * *'
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update README with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
