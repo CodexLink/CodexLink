@@ -1,7 +1,6 @@
 name: README Dev Metric Updater
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: '30 1/2 * * *'
 
@@ -19,3 +18,4 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_PROJECTS: "False"
