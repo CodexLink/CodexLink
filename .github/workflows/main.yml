@@ -1,4 +1,4 @@
-name: WakaTime Dev Metric README Update
+name: README Dev Metric Updater
 
 on:
   schedule:
