@@ -130,4 +130,4 @@ class AboutMeFrontPage : private MyUserInformation {
 ![README Workflow Status](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Dev%20Metric%20README%20Update/badge.svg)
 </div>
 
-<small>Credits to [anmol098](https://github.com/anmol098/waka-readme-stats), [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and their contributors for their amazing work!!!</small>
+<small><i>Credits to [anmol098](https://github.com/anmol098/waka-readme-stats), [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and their contributors for their amazing work!!!<i/></small>
