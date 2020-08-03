@@ -10,11 +10,11 @@
  
  
 ```c++
-// My User Information / About Me, Written in C++ Format. (CPP11 is Love)
+// user/CodexLink/README.h |  User Information Declaration with Definitions
+// My User Information / About Me, Written in C++ Format. (C++11 is Love)
 
 #pragma once
 
-#include "user/CodexLink/README.h"
 #include "user/CodexLink/LICENSES.h"
 #include "user/CodexLink/KNOWN_PLs.h"
 #include "user/CodexLink/KNOWN_FRAMEWORK_MODULES.h"
