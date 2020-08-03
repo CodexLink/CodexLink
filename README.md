@@ -180,9 +180,9 @@ QML          1 repos        █░░░░░░░░░░░░░░░░�
 
 <br>
 
-****This Profile README Updates 3 Hours and 30 Minutes Everyday!****
+****This Profile README Updates 2 Hours and 30 Minutes Everyday!****
 
-![README Workflow Status](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Dev%20Metric%20README%20Update/badge.svg)
+![README Dev Metric Updater](https://github.com/CodexLink/CodexLink/workflows/README%20Dev%20Metric%20Updater/badge.svg)
 
 <small><i>Credits to [anmol098](https://github.com/anmol098/waka-readme-stats), [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and their contributors for their amazing work!!!<i/></small>
 </div>
