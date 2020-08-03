@@ -53,14 +53,14 @@ class AboutMeFrontPage : private MyUserInformation {
 
     typedef struct _LEARNED_PLS {
 
-        static std::map<std::string, PL_KNOWLEDGE_LEVEL> plswLevel = {
-            {   PL::ARDUINO_IN_CPP,   EXACT_INTERMEDIATE    },
-            {   PL::C,                DISCONTINUED          },
-            {   PL::CPLUSPLUS,        QUITE_INTERMEDIATE    },
-            {   PL::FLUTTER,          INITIALLY LEARNING    },
-            {   PL::JS,               BEGINNER              },
-            {   PL::PYTHON,           ABOVE_INTERMEDIATE    },
-            {   PL::RUBY,             DEPRECATED            },
+        static std::map<PL, PL_KNOWLEDGE_LEVEL> plswLevel = {
+            {   ARDUINO_IN_CPP,   EXACT_INTERMEDIATE    },
+            {   C,                DISCONTINUED          },
+            {   CPLUSPLUS,        QUITE_INTERMEDIATE    },
+            {   FLUTTER,          INITIALLY LEARNING    },
+            {   JS,               BEGINNER              },
+            {   PYTHON,           ABOVE_INTERMEDIATE    },
+            {   RUBY,             DEPRECATED            },
 
             const std::string _warningMsg = "I really don't have any forte-like programming languages. I instantiate labelled 'self' as a quite average. I have potential but lazy af."
         }
@@ -69,12 +69,12 @@ class AboutMeFrontPage : private MyUserInformation {
 
     typedef struct _LEARNED_MODULES_FRAMEWORKS {
 
-        static std::map<std::string, LMF_KNOWLEDGE_LEVEL> lmfwLevel = {
-            {   PL::JS::LIBRARY::NODE_JS,                     SLOWLY_LEARNING                     },
-            {   PL::JS::LIBRARY::VUE_JS,                      SLOWLY_LEARNING_CURRENTLY_STOPPED   },
-            {   PL::CPLUSPLUS::API::WIN32_VCPLUSPLUS,         TYPICALLY_LEARNING_ON_THE_SPOT      },
-            {   PL::PYTHON::FRAMEWORK::MVC::DJANGO,           FAST_PROGRESSING_AT_THE_MOMENT      },
-            {   PL::PYTHON::FRAMEWORK::MVC::DJANGO_REST_API,  CURRENTLY_LEARNING_AS_A_WHOLE       }
+        static std::map<PL, LMF_KNOWLEDGE_LEVEL> lmfwLevel = {
+            {   JS::LIBRARY::NODE_JS,                     SLOWLY_LEARNING                     },
+            {   JS::LIBRARY::VUE_JS,                      SLOWLY_LEARNING_CURRENTLY_STOPPED   },
+            {   CPLUSPLUS::API::WIN32_VCPLUSPLUS,         TYPICALLY_LEARNING_ON_THE_SPOT      },
+            {   PYTHON::FRAMEWORK::MVC::DJANGO,           FAST_PROGRESSING_AT_THE_MOMENT      },
+            {   PYTHON::FRAMEWORK::MVC::DJANGO_REST_API,  CURRENTLY_LEARNING_AS_A_WHOLE       }
         }
     } LEARNED_SIDE_REQUIREMENTS_MODULE_FRAMEWORK;
 
