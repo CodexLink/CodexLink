@@ -31,13 +31,13 @@
 class AboutMeFrontPage : private MyUserInformation {
 
     typedef struct _USER_INFORMATION {
+    
         std::string whoamI = "I'm Janrey Licas, known as CodexLink. (as usual)"
         std::string academicState = "Currently a 3rd Year Embedded-Focused Computer Engineering Student. (On-going Status)"
         std::string academicSchool = "Technological Institute of the Philippines"
         std::string workNature = "A develop what I need, and what I want. I can't learn new things unless it's really needed even FORCE_LEARN_SOMETHING_FOR_NO_REASON=true"
         
         bool soloDeveloper = !(METADATA::CONSTRAINTS::IS_GROUP_COOPERATIVE) ? true : false // ! It's situational dependent.
-
 
     } MY_GITHUB_INFORMATION;
 
@@ -76,6 +76,7 @@ class AboutMeFrontPage : private MyUserInformation {
             {   PYTHON::FRAMEWORK::MVC::DJANGO,           FAST_PROGRESSING_AT_THE_MOMENT      },
             {   PYTHON::FRAMEWORK::MVC::DJANGO_REST_API,  CURRENTLY_LEARNING_AS_A_WHOLE       }
         }
+        
     } LEARNED_SIDE_REQUIREMENTS_MODULE_FRAMEWORK;
 
     typedef struct _EXTRA_NOTES {
@@ -92,7 +93,7 @@ class AboutMeFrontPage : private MyUserInformation {
         static std::map<SOCIAL_MEDIA_PLATFORMS, std::string> platformwContact = {
             {   TWITTER,                    "@CodexLink"                                },
             {   DISCORD,                    "CodexLink #5848"                           },
-            {   TYPICAL_METHODS::EMAIL,     "codexlink@gmail.com (Not Available Yet.)"  }
+            {   TYPICAL_METHODS::EMAIL,     "self.codexlink@gmail.com"                  }
         }
 
         template<typename contactConcerns>
