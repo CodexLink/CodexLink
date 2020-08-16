@@ -122,7 +122,7 @@ class AboutMeFrontPage : private MyUserInformation {
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-3.1%20million%20Lines%20of%20code-blue)
 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.4% 
@@ -145,7 +145,7 @@ Sunday       105 commits    ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Timezone: Asia/Manila
@@ -157,7 +157,7 @@ Git Config               0 secs              ░░░░░░░░░░░�
 
 ```
 
-**I mostly code in Python** 
+**I Mostly Code in Python** 
 
 ```text
 Python                   9 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
