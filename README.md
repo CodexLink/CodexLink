@@ -60,6 +60,6 @@ This README Profile is not possible without the following mentioned repositories
 
 <div align="center">
 
-![Dev Metric Updater Status](https://github.com/CodexLink/CodexLink/workflows/README%20Dev%20Metric%20Updater/badge.svg)
-
+![README Activity Updater](https://github.com/CodexLink/CodexLink/workflows/README%20Activity%20Updater/badge.svg)
+![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
 </div>
