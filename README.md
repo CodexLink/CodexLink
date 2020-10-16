@@ -10,15 +10,12 @@
 [![GitHub Followers](https://img.shields.io/github/followers/CodexLink?label=Follow%20Me&style=social)](http://github.com/CodexLink?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/CodexLink/CodexLink?style=social)](https://github.com/CodexLink/CodexLink/stargazers)
 
-
-
 ### Stats
 
 <div align="center">
 
-[![Janrey Licas StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5353223&layout=compact)](https://stackoverflow.com/users/5353223/codexlink)
+<img src="https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=21" width="350"/>
 
-![CodexLink's Github Stats](https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=21)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink&layout=compact&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
