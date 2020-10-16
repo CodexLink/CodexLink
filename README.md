@@ -39,6 +39,12 @@ Arduino    16 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#28](https://github.com/CodexLink/MESCDS/issues/28) in [CodexLink/MESCDS](https://github.com/CodexLink/MESCDS)
+2. 🗣 Commented on [#28](https://github.com/CodexLink/MESCDS/issues/28) in [CodexLink/MESCDS](https://github.com/CodexLink/MESCDS)
+3. 🎉 Merged PR [#31](https://github.com/CodexLink/MESCDS/pull/31) in [CodexLink/MESCDS](https://github.com/CodexLink/MESCDS)
+4. 🗣 Commented on [#31](https://github.com/CodexLink/MESCDS/issues/31) in [CodexLink/MESCDS](https://github.com/CodexLink/MESCDS)
+5. 💪 Opened PR [#31](https://github.com/CodexLink/MESCDS/pull/31) in [CodexLink/MESCDS](https://github.com/CodexLink/MESCDS)
+<!--END_SECTION:activity-->
 
 </div>
 
