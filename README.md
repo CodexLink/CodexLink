@@ -2,19 +2,15 @@
 
 <div align="center">
 
-**Thank you for Visiting my Github Profile!**
+**...**
 
 </div>
 
+![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)
 [![GitHub Followers](https://img.shields.io/github/followers/CodexLink?label=Follow%20Me&style=social)](http://github.com/CodexLink?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/CodexLink/CodexLink?style=social)](https://github.com/CodexLink/CodexLink/stargazers)
-![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Profile%20Count%20View&color=blueviolet)
 
-"Create Activity Status Here"
 
-<div>
-
-</div>
 
 ### Stats
 
