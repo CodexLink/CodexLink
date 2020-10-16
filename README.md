@@ -14,11 +14,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=21" width="350"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=21" width="350" height="350"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink&layout=compact&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<table border="0">
+ <tr>
+    <td>  
 <!--START_SECTION:waka-->
+
 ```text
 Week: 08 October, 2020 - 15 October, 2020
 
@@ -29,9 +34,9 @@ C++        39 mins         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Arduino    16 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.86 % 
 ```
 <!--END_SECTION:waka-->
-
-### Recent Commits
-
+    </td>
+    
+    <td>
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#28](https://github.com/CodexLink/MESCDS/issues/28) in [CodexLink/MESCDS](https://github.com/CodexLink/MESCDS)
 2. 🗣 Commented on [#28](https://github.com/CodexLink/MESCDS/issues/28) in [CodexLink/MESCDS](https://github.com/CodexLink/MESCDS)
@@ -39,6 +44,12 @@ Arduino    16 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 4. 🗣 Commented on [#31](https://github.com/CodexLink/MESCDS/issues/31) in [CodexLink/MESCDS](https://github.com/CodexLink/MESCDS)
 5. 💪 Opened PR [#31](https://github.com/CodexLink/MESCDS/pull/31) in [CodexLink/MESCDS](https://github.com/CodexLink/MESCDS)
 <!--END_SECTION:activity-->
+    </td>
+ </tr>
+</table>
+
+
+
 
 </div>
 
