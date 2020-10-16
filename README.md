@@ -23,7 +23,7 @@
 [![Janrey Licas StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5353223&layout=compact)](https://stackoverflow.com/users/5353223/codexlink)
 
 ![CodexLink's Github Stats](https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=21)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink&layout=compact&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink&layout=compact&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ```text
@@ -37,6 +37,7 @@ Arduino    16 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 <!--END_SECTION:waka-->
 
+### Recent Commits
 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#28](https://github.com/CodexLink/MESCDS/issues/28) in [CodexLink/MESCDS](https://github.com/CodexLink/MESCDS)
