@@ -2,7 +2,7 @@
 
 I'm a 3rd Computer Engineering Student in **Technological Institute of the Philippines** specializing in **Intelligent Systems** ***(Generally Known as Embedded Systems)*** whose passion was to create anything that is personally beneficial as best possible with complex implementations that would certainly follows certain standards in code patterns and abstraction methods in any other way.
 
-![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)
+[![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
 [![GitHub Followers](https://img.shields.io/github/followers/CodexLink?label=Follow%20Me&style=social)](http://github.com/CodexLink?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/CodexLink/CodexLink?style=social)](https://github.com/CodexLink/CodexLink/stargazers)
 
@@ -14,15 +14,72 @@ Most of the repositories that I have are (will be) fully documented so check the
 
 I also do help/contribute in some repositories that I found interesting or I found as one of my needs that may require some help by offering unusual solutions that could solve particular problems on the codebase but **very rarely**.
 
-### Known Programming Languages, Role and Contribution and Knowledge Stats
+### Known Technologies
 
-So far, I have coded with the following technologies / programming languages / frameworks:
+The following table shows what I used / have experienced with. It also includes the technologies that I currently still need to learn.
 
-[React](https://img.shields.io/badge/React-45b8d8?logo=react&logoColor=white&style=flat)
+<div class="center">
+<table>
+  <tr>
+    <td>
+      <b>Has Experienced on Using Technologies</b>
+    </td>
+    <td>
+      <b>Currently Learning</b>
+    </td>
+    <td>
+      <b>On Halt</b>
+    </td>
+    <td>
+      <b>To Be Planned</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+        <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B11-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+        <img alt="Codacy" src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=codacy&logoColor=white"/>
+        <img alt="CodeFactor" src="https://img.shields.io/badge/-CodeFactor-F44A6A?style=flat-square&logo=codefactor&logoColor=white"/>
+        <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat"/>
+        <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+        <img alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?style=flat-square&logo=git&logoColor=white"/>
+        <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+        <img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white"/>
+        <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+        <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853d?style=flat-square&logo=Node.JS&logoColor=white"/>
+        <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/>
+        <img alt="Python" src="https://img.shields.io/badge/-Python-33776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
+        <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+        <img alt="Vue.JS" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
+    </td>
+    <td>
+        <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat"/>
+        <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white&style=flat"/>
+        <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853D?style=flat-square&logo=Node.JS&logoColor=white"/>
+        <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
+    </td>
+    <td>
+        <img alt="Docker" src="https://img.shields.io/badge/-Docker-46A2F1?style=flat-square&logo=docker&logoColor=white"/>
+        <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+        <img alt="Quasar" src="https://img.shields.io/badge/Quasar-1976E2?logo=quasar&logoColor=white&style=flat"/>
+        <img alt="Vue.JS" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
+    </td>
+    <td>
+        <img alt="Docker" src="https://img.shields.io/badge/-Docker-46A2F1?style=flat-square&logo=docker&logoColor=white"/>
+        <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
+        <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat"/>
+        <img alt="Google Cloud" src="https://img.shields.io/badge/Goggle_Cloud-4285F4?logo=google%20cloud&logoColor=white&style=flat"/>
+        <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+        <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
+        <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
+    </td>
+  </tr>
+</table>
+</div>
 
-I'm also currently focusing the following:
-
-
+In my past experience, I was able to have the role of **Backend Lead Developer** and **Frontend Lead Developer**. In my projects that were in academic-related has got me into the role of **Full-Stack Developer** (Not Fully on Web Technologies).
 
 To support my set of skills indicated from the table. Here's my stats for my used languages and contribution statistics.
 
@@ -39,7 +96,7 @@ To support my set of skills indicated from the table. Here's my stats for my use
 
 <details>
 <summary>Do you want me to know more? Check this C++ 11 Header Profile Introduction I built earlier.</summary>
-  
+
 ```c++
 // user/CodexLink/README.h |  User Information Declaration with Definitions
 // My User Information / About Me, Written in C++ Format. (C++11 is Love)
@@ -62,12 +119,12 @@ To support my set of skills indicated from the table. Here's my stats for my use
 class AboutMeFrontPage : private MyUserInformation {
 
     typedef struct _USER_INFORMATION {
-    
+
         std::string whoamI = "I'm Janrey Licas, known as CodexLink. (as usual)"
         std::string academicState = "Currently a 3rd Year Embedded-Focused Computer Engineering Student. (On-going Status)"
         std::string academicSchool = "Technological Institute of the Philippines"
         std::string workNature = "A develop what I need, and what I want. I can't learn new things unless it's really needed even FORCE_LEARN_SOMETHING_FOR_NO_REASON=true"
-        
+
         bool soloDeveloper = !(METADATA::CONSTRAINTS::IS_GROUP_COOPERATIVE) ? true : false // ! It's situational dependent.
 
     } MY_GITHUB_INFORMATION;
@@ -107,7 +164,7 @@ class AboutMeFrontPage : private MyUserInformation {
             {   PYTHON::FRAMEWORK::MVC::DJANGO,           FAST_PROGRESSING_AT_THE_MOMENT      },
             {   PYTHON::FRAMEWORK::MVC::DJANGO_REST_API,  CURRENTLY_LEARNING_AS_A_WHOLE       }
         }
-        
+
     } LEARNED_SIDE_REQUIREMENTS_MODULE_FRAMEWORK;
 
     typedef struct _EXTRA_NOTES {
@@ -158,11 +215,11 @@ Here, lies my certain set of activities that are pretty much useless but interes
 ```text
 Week: 10 October, 2020 - 17 October, 2020
 
-VHDL       1 hr 54 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.61 % 
-Markdown   1 hr 49 mins    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.20 % 
-Python     58 mins         ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.71 % 
-YAML       20 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.77 % 
-JSON       13 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.84 % 
+VHDL       1 hr 54 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.61 %
+Markdown   1 hr 49 mins    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.20 %
+Python     58 mins         ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.71 %
+YAML       20 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.77 %
+JSON       13 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.84 %
 ```
 
 <!--END_SECTION:waka-->
@@ -191,7 +248,7 @@ This README Profile is not possible without the following mentioned repositories
 * [Dev Metrics in Readme](https://github.com/athul/waka-readme) — asda
 * [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) — asda
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) — asdas
-* [thmsgbrt](https://github.com/thmsgbrt)'s [README.md](https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md) — 
+* [thmsgbrt](https://github.com/thmsgbrt)'s [README.md](https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md) —
 ---
 
 ### Automation Statuses

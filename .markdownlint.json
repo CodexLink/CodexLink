@@ -1,6 +1,6 @@
 {
     "MD033": {
-        "allowed_elements": ["div", "h1", "h4", "small", "i", "table", "tr", "td", "img", "b"]
+        "allowed_elements": ["div", "h1", "h4", "small", "i", "table", "tr", "td", "img", "b", "summary", "details"]
     },
     "MD013": false,
     "MD041": false,
