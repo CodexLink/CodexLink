@@ -45,8 +45,11 @@ The following table shows what I used / have experienced with. It also includes 
         <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
         <img alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?style=flat-square&logo=git&logoColor=white"/>
         <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
         <img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white"/>
+        <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
         <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+        <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white&style=flat"/>
         <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853d?style=flat-square&logo=Node.JS&logoColor=white"/>
         <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/>
         <img alt="Python" src="https://img.shields.io/badge/-Python-33776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -208,7 +211,7 @@ class AboutMeFrontPage : private MyUserInformation {
 
 Here, lies my certain set of activities that are pretty much useless but interesting to see.
 
-#### Development Consumption Total Time In Weeks Scale
+#### Development Consumption Total Time In Today's Week Scale
 
 <!--START_SECTION:waka-->
 
@@ -248,7 +251,9 @@ This README Profile is not possible without the following mentioned repositories
 * [Dev Metrics in Readme](https://github.com/athul/waka-readme) — asda
 * [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) — asda
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) — asdas
-* [thmsgbrt](https://github.com/thmsgbrt)'s [README.md](https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md) —
+* [Simple Icons](https://simpleicons.org/) — asd
+* [Shields.io](https://shields.io/) — asd
+* [thmsgbrt](https://github.com/thmsgbrt)'s [README.md](https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md) — asd
 ---
 
 ### Automation Statuses
