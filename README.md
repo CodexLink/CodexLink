@@ -21,7 +21,7 @@ So far, I have coded with the following technologies / programming languages / f
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
 
-To support my set of skills indicated from the table. Here's my stats for my used languages.
+To support my set of skills indicated from the table. Here's my stats for my used languages and contribution statistics.
 
 <table>
   <tr>
@@ -33,10 +33,8 @@ To support my set of skills indicated from the table. Here's my stats for my use
     </td>
   </tr>
 </table>
-
-
 <details>
-<summary>C++ 11 Header Profile Introduction</summary>
+<summary>Do you want me to know more? Check this C++ 11 Header Profile Introduction I built earlier.</summary>
   
 ```c++
 // user/CodexLink/README.h |  User Information Declaration with Definitions
@@ -172,6 +170,11 @@ JSON       13 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:activity-->
 
+### Where To Find Me
+
+You can reach me in the following platforms:
+
+
 ### 🎆 Credits
 
 This README Profile is not possible without the following mentioned repositories, which I used to build this README:
@@ -179,11 +182,10 @@ This README Profile is not possible without the following mentioned repositories
 * [Dev Metrics in Readme](https://github.com/athul/waka-readme) — asda
 * [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) — asda
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) — asdas
-
+* (thmsgbrt)[https://github.com/thmsgbrt]'s [README.md](https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md) — 
 ---
 
 ### Automation Statuses
-
 
 ![README Activity Updater](https://github.com/CodexLink/CodexLink/workflows/README%20Activity%20Updater/badge.svg)
 ![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
