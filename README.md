@@ -46,6 +46,7 @@ Here, lies my certain set of activities that are pretty much useless but interes
 <div>
 
 <div>
+  
 <!--START_SECTION:waka-->
 ```text
 Week: 10 October, 2020 - 17 October, 2020
@@ -57,8 +58,7 @@ YAML       20 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 JSON       13 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.84 % 
 ```
 
-<!--END_SECTION:waka-->|
-
+<!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
 
