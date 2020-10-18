@@ -18,7 +18,10 @@ I also do help/contribute in some repositories that I found interesting or I fou
 
 So far, I have coded with the following technologies / programming languages / frameworks:
 
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+[React](https://img.shields.io/badge/React-45b8d8?logo=react&logoColor=white&style=flat)
+
+I'm also currently focusing the following:
+
 
 
 To support my set of skills indicated from the table. Here's my stats for my used languages and contribution statistics.
@@ -29,10 +32,11 @@ To support my set of skills indicated from the table. Here's my stats for my use
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink&layout=compact&card_width=350"/>
     </td>
     <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=21" />
+        <img src="https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=21" />
     </td>
   </tr>
 </table>
+
 <details>
 <summary>Do you want me to know more? Check this C++ 11 Header Profile Introduction I built earlier.</summary>
   
@@ -140,13 +144,17 @@ class AboutMeFrontPage : private MyUserInformation {
 
 }
 ```
+
 </details>
 
 ### Activity Stats
 
 Here, lies my certain set of activities that are pretty much useless but interesting to see.
 
+#### Development Consumption Total Time In Weeks Scale
+
 <!--START_SECTION:waka-->
+
 ```text
 Week: 10 October, 2020 - 17 October, 2020
 
@@ -159,6 +167,7 @@ JSON       13 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+#### Recent Commits
 
 <!--START_SECTION:activity-->
 
@@ -182,7 +191,7 @@ This README Profile is not possible without the following mentioned repositories
 * [Dev Metrics in Readme](https://github.com/athul/waka-readme) — asda
 * [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) — asda
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) — asdas
-* (thmsgbrt)[https://github.com/thmsgbrt]'s [README.md](https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md) — 
+* [thmsgbrt](https://github.com/thmsgbrt)'s [README.md](https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md) — 
 ---
 
 ### Automation Statuses
