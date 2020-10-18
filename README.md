@@ -6,7 +6,7 @@ I'm a 3rd Computer Engineering Student in **Technological Institute of the Phili
 [![GitHub Followers](https://img.shields.io/github/followers/CodexLink?label=Follow%20Me&style=social)](http://github.com/CodexLink?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/CodexLink/CodexLink?style=social)](https://github.com/CodexLink/CodexLink/stargazers)
 
-### What do I do in the Open-Source Environment?
+### What do I do in the Open-Source Environment? 📖
 
 Generally nothing in the first place. But I do share my stuff that will certainly be stored-ridden somewhere in my hard drive. I share my works via repositories so that other people might learn (**hopefully**) something from it.
 
@@ -14,7 +14,7 @@ Most of the repositories that I have are (will be) fully documented so check the
 
 I also do help/contribute in some repositories that I found interesting or I found as one of my needs that may require some help by offering unusual solutions that could solve particular problems on the codebase but **very rarely**.
 
-### Known Technologies
+### Known Technologies 👨‍💻
 
 The following table shows what I used / have experienced with. It also includes the technologies that I currently still need to learn.
 
@@ -22,7 +22,7 @@ The following table shows what I used / have experienced with. It also includes 
 <table>
   <tr>
     <td>
-      <b>Has Experienced on Using Technologies</b>
+      <b>Has Experience (Even on Slightest Case) On The Following Technologies</b>
     </td>
     <td>
       <b>Currently Learning</b>
@@ -98,7 +98,7 @@ To support my set of skills indicated from the table. Here's my stats for my use
 </table>
 
 <details>
-<summary>Do you want me to know more? Check this C++ 11 Header Profile Introduction I built earlier.</summary>
+<summary><i>Do you want me to know more❓ Check this C++ 11 Header Profile 🎬 Introduction I built earlier.</i></summary>
 
 ```c++
 // user/CodexLink/README.h |  User Information Declaration with Definitions
@@ -207,11 +207,11 @@ class AboutMeFrontPage : private MyUserInformation {
 
 </details>
 
-### Activity Stats
+### Activity Stats 📊
 
 Here, lies my certain set of activities that are pretty much useless but interesting to see.
 
-#### Development Consumption Total Time In Today's Week Scale
+#### Development Consumption Total Time In Today's Week Scale ⚖️
 
 <!--START_SECTION:waka-->
 
@@ -227,7 +227,7 @@ JSON       13 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-#### Recent Commits
+#### Recent Commits 📝
 
 <!--START_SECTION:activity-->
 
@@ -239,12 +239,13 @@ JSON       13 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:activity-->
 
-### Where To Find Me
+### Where To Find Me ❓🛐❓
 
 You can reach me in the following platforms:
 
+Coming Soon. I'm planning to create an external program that could possibly detects my activity along with particular platforms.
 
-### 🎆 Credits
+### Credits 🎆🥇🙏
 
 This README Profile is not possible without the following mentioned repositories, which I used to build this README:
 
@@ -256,7 +257,7 @@ This README Profile is not possible without the following mentioned repositories
 * [thmsgbrt](https://github.com/thmsgbrt)'s [README.md](https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md) — asd
 ---
 
-### Automation Statuses
+### Automation Statuses 🚑🚉🚨
 
 ![README Activity Updater](https://github.com/CodexLink/CodexLink/workflows/README%20Activity%20Updater/badge.svg)
 ![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
