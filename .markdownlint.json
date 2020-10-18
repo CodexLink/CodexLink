@@ -1,7 +1,8 @@
 {
     "MD033": {
-        "allowed_elements": ["div", "h1", "h4"]
+        "allowed_elements": ["div", "h1", "h4", "small", "i", "table", "tr", "td", "img", "b"]
     },
     "MD013": false,
-    "MD041": false
+    "MD041": false,
+    "MD026": false
 }
