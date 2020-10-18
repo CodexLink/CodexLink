@@ -14,20 +14,16 @@ Most of the repositories that I have are (will be) fully documented so check the
 
 I also do help/contribute in some repositories that I found interesting or I found as one of my needs that may require some help by offering unusual solutions that could solve particular problems on the codebase but **very rarely**.
 
-### Technical Information and Stats
+### Known Programming Languages, Role and Contribution and Knowledge Stats
 
-| Non Technical | Technical |
-| ---       | :-: |
-| Header    | Title |
-| Paragraph | Text |
+So far, I have coded with the following technologies / programming languages / frameworks:
+
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+
 
 To support my set of skills indicated from the table. Here's my stats for my used languages.
 
 <table>
-  <tr>
-    <td>Commonly Used PLs</td>
-    <td>Contributions and Statistics</td>
-  </tr>
   <tr>
     <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink&layout=compact&card_width=350"/>
@@ -39,14 +35,119 @@ To support my set of skills indicated from the table. Here's my stats for my use
 </table>
 
 
+<details>
+<summary>C++ 11 Header Profile Introduction</summary>
+  
+```c++
+// user/CodexLink/README.h |  User Information Declaration with Definitions
+// My User Information / About Me, Written in C++ Format. (C++11 is Love)
+
+#pragma once
+
+#include "user/CodexLink/LICENSES.h"
+#include "user/CodexLink/KNOWN_PLs.h"
+#include "user/CodexLink/KNOWN_FRAMEWORK_MODULES.h"
+#include "user/CodexLink/EXTRA_NOTES.h"
+#include "user/CodexLink/CONTACT_PLATFORMS.h"
+#include "user/CodexLink/PROOF_OF_EXP.h"
+#include "user/CodexLink/METADATA.h"
+
+#include <iostream>
+#include <map>
+
+#define TYPICAL_CPLUSPLUS 201103L
+
+class AboutMeFrontPage : private MyUserInformation {
+
+    typedef struct _USER_INFORMATION {
+    
+        std::string whoamI = "I'm Janrey Licas, known as CodexLink. (as usual)"
+        std::string academicState = "Currently a 3rd Year Embedded-Focused Computer Engineering Student. (On-going Status)"
+        std::string academicSchool = "Technological Institute of the Philippines"
+        std::string workNature = "A develop what I need, and what I want. I can't learn new things unless it's really needed even FORCE_LEARN_SOMETHING_FOR_NO_REASON=true"
+        
+        bool soloDeveloper = !(METADATA::CONSTRAINTS::IS_GROUP_COOPERATIVE) ? true : false // ! It's situational dependent.
+
+    } MY_GITHUB_INFORMATION;
+
+    typedef struct _REPOSITORY_USUAL_LICENSES {
+
+        const std::string RARELY_USED       =   REPO_LICENSE::BSD_3_CLAUSE,
+        const std::string OFTEN_USED        =   REPO_LICENSE::GNU_V3,
+        const std::string TYPICALLY_USED    =   REPO_LICENSE::MIT_LICENSE
+
+        const std::string _noteInMind = "Feel free to check them and make impressions about it, they don't bite :)"
+
+    } REPOSITORY_LICENSED;
+
+    typedef struct _LEARNED_PLS {
+
+        static std::map<PL, PL_KNOWLEDGE_LEVEL> plswLevel = {
+            {   ARDUINO_IN_CPP,   EXACT_INTERMEDIATE    },
+            {   C,                DISCONTINUED          },
+            {   CPLUSPLUS,        QUITE_INTERMEDIATE    },
+            {   FLUTTER,          INITIALLY LEARNING    },
+            {   JS,               BEGINNER              },
+            {   PYTHON,           ABOVE_INTERMEDIATE    },
+            {   RUBY,             DEPRECATED            },
+
+            const std::string _warningMsg = "I really don't have any forte-like programming languages. I instantiate labelled 'self' as a quite average. I have potential but lazy af."
+        }
+
+    } LEARNED_PROGRAMMING_LANGUAGES;
+
+    typedef struct _LEARNED_MODULES_FRAMEWORKS {
+
+        static std::map<PL, LMF_KNOWLEDGE_LEVEL> lmfwLevel = {
+            {   JS::LIBRARY::NODE_JS,                     SLOWLY_LEARNING                     },
+            {   JS::LIBRARY::VUE_JS,                      SLOWLY_LEARNING_CURRENTLY_STOPPED   },
+            {   CPLUSPLUS::API::WIN32_VCPLUSPLUS,         TYPICALLY_LEARNING_ON_THE_SPOT      },
+            {   PYTHON::FRAMEWORK::MVC::DJANGO,           FAST_PROGRESSING_AT_THE_MOMENT      },
+            {   PYTHON::FRAMEWORK::MVC::DJANGO_REST_API,  CURRENTLY_LEARNING_AS_A_WHOLE       }
+        }
+        
+    } LEARNED_SIDE_REQUIREMENTS_MODULE_FRAMEWORK;
+
+    typedef struct _EXTRA_NOTES {
+
+        const std::string CODEBASE_ISSUE_CONCERNS = "All of my projects that is in the repository right now were all of my projects since I was a freshmen. All of them will receive optimizations or reworks."
+        const std::string PINNED_REPOS_INFO = "Most of these pinned repository contains much more than what I have as usual and they represent the things that I learned from the day I made them. (I do on the spots and its mentally threatening. Not advisable :) )"
+
+    } EXTRA_INFORMATION_FOR_VISITOR;
+
+    typedef struct _CONTACT_PLATFORMS {
+
+        const std::string _attention = "You may contact me at the following: "
+
+        static std::map<SOCIAL_MEDIA_PLATFORMS, std::string> platformwContact = {
+            {   TWITTER,                    "@CodexLink"                                },
+            {   DISCORD,                    "CodexLink #5848"                           },
+            {   TYPICAL_METHODS::EMAIL,     "self.codexlink@gmail.com"                  }
+        }
+
+        template<typename contactConcerns>
+        IssueConcernsContactContent contactMe(contactConcerns atAnyContext, std::string requiresLabel, bool shouldBeImportant= bool(true || false));
+
+    } CONTACT_ME_AT_THE_FF_PLATFORMS;
+
+    typedef struct _PROOF_OF_EXP {
+
+        static std::map<CONTENT_PROOF_TYPE, URL_CONTEXT> poeContext = {
+            {   WEBSITE::PERSONAL,  "https://inst-typed.works"                  }
+            {   WEBSITE::STATS,     "https://codestats.net/users/CodexLink"     }
+            {   WEBSITE::STATS,     "https://wakatime.com/@CodexLink"           }
+        }
+
+    } PROOF_OF_WORK_OR_STATS;
+
+}
+```
+</details>
+
 ### Activity Stats
 
 Here, lies my certain set of activities that are pretty much useless but interesting to see.
 
-<div>
-
-<div>
-  
 <!--START_SECTION:waka-->
 ```text
 Week: 10 October, 2020 - 17 October, 2020
@@ -60,6 +161,7 @@ JSON       13 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+
 <!--START_SECTION:activity-->
 
 1. ❗️ Closed issue [#28](https://github.com/CodexLink/MESCDS/issues/28) in [CodexLink/MESCDS](https://github.com/CodexLink/MESCDS)
@@ -69,8 +171,6 @@ JSON       13 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 5. 💪 Opened PR [#31](https://github.com/CodexLink/MESCDS/pull/31) in [CodexLink/MESCDS](https://github.com/CodexLink/MESCDS)
 
 <!--END_SECTION:activity-->
-
-</div>
 
 ### 🎆 Credits
 
