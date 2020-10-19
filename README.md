@@ -217,11 +217,11 @@ Here, lies my certain set of activities that are pretty much useless but interes
 ```text
 Week: 11 October, 2020 - 18 October, 2020
 
-Markdown   3 hrs 38 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.22 % 
-VHDL       1 hr 54 mins    ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.83 % 
-Python     58 mins         ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.73 % 
-YAML       20 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.40 % 
-JSON       15 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.32 % 
+Markdown   3 hrs 38 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.22 %
+VHDL       1 hr 54 mins    ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.83 %
+Python     58 mins         ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.73 %
+YAML       20 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.40 %
+JSON       15 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.32 %
 ```
 <!--END_SECTION:waka-->
 
@@ -237,11 +237,21 @@ JSON       15 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:activity-->
 
-### Where To Find Me ❓🛐❓
+### Where To Find Me / Where You Can Find Me ❓🛐❓
 
 You can reach me in the following platforms:
 
-Coming Soon. I'm planning to create an external program that could possibly detects my activity along with particular platforms.
+[![Discord](https://img.shields.io/badge/Discord-CodexLink_5848-7289DA?logo=discord&logoColor=white&style=flat)](https://shields.io/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/CodexLink)
+[![E-mail](https://img.shields.io/badge/GMail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:self.codexlink@gmail.com)
+
+I'm currently scanning all of them daily, so expect me to reply in instant or 2 days.
+
+### Hirable? 🕴️
+
+This message was intended for recruiters who might try to hire me in any occasion for the time being.
+
+**Not Yet**, because I'm still under in University and I'm scared of losing my time. Negotiable but we can talk about it. *If you think I have capabilities or potential hehe (No I'm not doubting with myself)*
 
 ### Credits 🎆🥇🙏
 
