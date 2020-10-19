@@ -1,9 +1,0 @@
-name: User Activity Known Time Updater
-
-on:
-  workflow_dispatch:
-  schedule:
-      - cron: ""
-
-
-jobs:
