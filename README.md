@@ -247,12 +247,14 @@ Coming Soon. I'm planning to create an external program that could possibly dete
 
 This README Profile is not possible without the following mentioned repositories, which I used to build this README:
 
-* [Dev Metrics in Readme](https://github.com/athul/waka-readme) — asda
-* [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) — asda
-* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) — asdas
-* [Simple Icons](https://simpleicons.org/) — asd
-* [Shields.io](https://shields.io/) — asd
-* [thmsgbrt](https://github.com/thmsgbrt)'s [README.md](https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md) — asd
+* [Dev Metrics in Readme](https://github.com/athul/waka-readme) — Wakatime Weekly Metrics on your Profile Readme.
+* [Discord.py](https://github.com/athul/waka-readme) — Wakatime Weekly Metrics on your Profile Readme.
+* [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) — It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
+* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) — ⚡ Dynamically generated stats for your GitHub READMEs.
+* [Simple Icons](https://simpleicons.org/) — SVG icons for popular brands.
+* [Shields.io](https://shields.io/) — Concise, consistent, and legible badges in SVG and raster format.
+* [thmsgbrt](https://github.com/thmsgbrt)'s [README.md](https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md) — Huge Thanks to thmsgbrt's README for giving me a layout idea based from the layout of the README itself.
+
 ---
 
 ### Automation Statuses 🚑🚉🚨

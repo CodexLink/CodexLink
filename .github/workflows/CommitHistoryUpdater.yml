@@ -1,4 +1,4 @@
-name: README Activity Updater
+name: README Commit Activity Updater
 
 on:
   schedule:
@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: README Update on Recent Activity
+    name: README Update on Recent Commit Activity
 
     steps:
       - uses: actions/checkout@v2
@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'README Activity History Has Been Updated! :'
+          COMMIT_MSG: 'README Recent Commit Activities Has Been Updated!'
