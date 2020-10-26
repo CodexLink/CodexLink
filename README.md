@@ -82,8 +82,6 @@ The following table shows what I used / have experienced with. It also includes 
 </table>
 </div>
 
-In my past experience, I was able to have the role of **Backend Lead Developer** and **Frontend Lead Developer**. In my projects that were in academic-related has got me into the role of **Full-Stack Developer** (Not Fully on Web Technologies).
-
 To support my set of skills indicated from the table. Here's my stats for my used languages and contribution statistics.
 
 <table>
@@ -225,7 +223,7 @@ TOML       27 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 <!--END_SECTION:waka-->
 
-#### Recent Commits 📝
+#### Recent Activities 📝
 
 <!--START_SECTION:activity-->
 
@@ -245,13 +243,8 @@ You can reach me in the following platforms:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/CodexLink)
 [![E-mail](https://img.shields.io/badge/GMail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:self.codexlink@gmail.com)
 
-I'm currently scanning all of them daily, so expect me to reply in instant or 2 days.
+I'm currently scanning all of them daily, so expect me to reply in **instant or 2 days**.
 
-### Hirable? 🕴️
-
-This message was intended for recruiters who might try to hire me in any occasion for the time being.
-
-**Not Yet**, because I'm still under in University and I'm scared of losing my time. Negotiable but we can talk about it. *If you think I have capabilities or potential hehe (No I'm not doubting with myself)*
 
 ### Credits 🎆🥇🙏
 
