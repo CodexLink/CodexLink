@@ -58,16 +58,17 @@ The following table shows what I used / have experienced with. It also includes 
         <img alt="Vue.JS" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
     </td>
     <td>
-        <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat"/>
-        <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white&style=flat"/>
-        <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853D?style=flat-square&logo=Node.JS&logoColor=white"/>
-        <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
+      <img alt="VHDL" src="https://img.shields.io/badge/-VHDL-46A2F1?style=flat-square&logoColor=white"/>
     </td>
     <td>
         <img alt="Docker" src="https://img.shields.io/badge/-Docker-46A2F1?style=flat-square&logo=docker&logoColor=white"/>
         <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat-square&logo=kubernetes&logoColor=white"/>
         <img alt="Quasar" src="https://img.shields.io/badge/Quasar-1976E2?logo=quasar&logoColor=white&style=flat"/>
         <img alt="Vue.JS" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
+        <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat"/>
+        <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white&style=flat"/>
+        <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853D?style=flat-square&logo=Node.JS&logoColor=white"/>
+        <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
     </td>
     <td>
         <img alt="Docker" src="https://img.shields.io/badge/-Docker-46A2F1?style=flat-square&logo=docker&logoColor=white"/>
