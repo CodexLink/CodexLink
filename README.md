@@ -1,6 +1,6 @@
 ## Hello! I'm Janrey `CodexLink` Licas 👋
 
-I'm a 3rd Computer Engineering Student in **Technological Institute of the Philippines** specializing in **Intelligent Systems** ***(Generally Known as Embedded Systems)*** whose passion was to create anything that is personally beneficial as best possible with complex implementations that would certainly follows certain standards in code patterns and abstraction methods in any other way.
+I'm a **Self-Taught** 3rd Computer Engineering Student in **Technological Institute of the Philippines** specializing in **Intelligent Systems** ***(Generally Known as Embedded Systems)*** who like to code in Object Oriented and has a passion to create something that is personally beneficial as best possible with complex implementations that would certainly follows certain standards in code patterns and abstraction methods in any other way.
 
 [![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
 [![GitHub Followers](https://img.shields.io/github/followers/CodexLink?label=Follow%20Me&style=social)](http://github.com/CodexLink?tab=followers)
@@ -8,21 +8,19 @@ I'm a 3rd Computer Engineering Student in **Technological Institute of the Phili
 
 ### What do I do in the Open-Source Environment? 📖
 
-Generally nothing in the first place. But I do share my stuff that will certainly be stored-ridden somewhere in my hard drive. I share my works via repositories so that other people might learn (**hopefully**) something from it.
+Generally nothing in the first place. In rare occasions, I also help/contribute in some repositories that I found interesting or may require immediate corrections. But, most of the time, just exploring. Also, I share my stuff / works in any form in a repository so that other people might learn (**hopefully**) from it.
 
-Most of the repositories that I have are (will be) fully documented so check them out along with my findings and conclusions. Such as this [repository](https://github.com/CodexLink/SmartClassroomSystem).
-
-I also do help/contribute in some repositories that I found interesting or I found as one of my needs that may require some help by offering unusual solutions that could solve particular problems on the codebase but **very rarely**.
+Most of my works are somewhat in fully documented state, so check them out, just like this [repository.](https://github.com/CodexLink/SmartClassroomSystem).
 
 ### Known Technologies 👨‍💻
 
-The following table shows what I used / have experienced with. It also includes the technologies that I currently still need to learn.
+The following table indicates the technologies that I used / have experienced with. It also includes the technologies that I currently still need to learn.
 
 <div class="center">
 <table>
   <tr>
     <td>
-      <b>Has Experience (Even on Slightest Case) On The Following Technologies</b>
+      <b>Has Experience (Even on Slight / Short Time Case)</b>
     </td>
     <td>
       <b>Currently Learning</b>
@@ -36,47 +34,49 @@ The following table shows what I used / have experienced with. It also includes 
   </tr>
   <tr>
     <td>
-        <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-        <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B11-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-        <img alt="Codacy" src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=codacy&logoColor=white"/>
-        <img alt="CodeFactor" src="https://img.shields.io/badge/-CodeFactor-F44A6A?style=flat-square&logo=codefactor&logoColor=white"/>
-        <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
+        <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B11-00599C?style=flat-&logo=c%2B%2B&logoColor=white"/>
+        <img alt="Codacy" src="https://img.shields.io/badge/-Codacy-222F29?style=flat-&logo=codacy&logoColor=white"/>
+        <img alt="CodeFactor" src="https://img.shields.io/badge/-CodeFactor-F44A6A?style=flat&logo=codefactor&logoColor=white"/>
+        <img alt="Discord.py" src="https://img.shields.io/badge/-Discord.py-7289DA?style=flat&logo=discord&logoColor=white"/>
+        <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
+        <img alt="Docker" src="https://img.shields.io/badge/-Docker-46A2F1?style=flat&logo=docker&logoColor=white"/>
         <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat"/>
-        <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-        <img alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?style=flat-square&logo=git&logoColor=white"/>
-        <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
-        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-        <img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white"/>
-        <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
-        <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+        <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+        <img alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?style=flat&logo=git&logoColor=white"/>
+        <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+        <img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white"/>
+        <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
+        <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
         <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white&style=flat"/>
-        <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853d?style=flat-square&logo=Node.JS&logoColor=white"/>
-        <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/>
-        <img alt="Python" src="https://img.shields.io/badge/-Python-33776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853d?style=flat&logo=Node.JS&logoColor=white"/>
+        <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white"/>
+        <img alt="Python" src="https://img.shields.io/badge/-Python-33776AB?style=flat&logo=python&logoColor=white"/>
         <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
-        <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+        <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white"/>
+        <img alt="VHDL" src="https://img.shields.io/badge/-VHDL-46A2F1?style=flat&logoColor=white"/>
         <img alt="Vue.JS" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
     </td>
     <td>
-      <img alt="VHDL" src="https://img.shields.io/badge/-VHDL-46A2F1?style=flat-square&logoColor=white"/>
+      <img alt="Discord.py" src="https://img.shields.io/badge/-Discord.py-7289DA?style=flat&logo=discord&logoColor=white"/>
+      <img alt="Docker" src="https://img.shields.io/badge/-Docker-46A2F1?style=flat&logo=docker&logoColor=white"/>
+      <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
+      <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat"/>
     </td>
     <td>
-        <img alt="Docker" src="https://img.shields.io/badge/-Docker-46A2F1?style=flat-square&logo=docker&logoColor=white"/>
-        <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat-square&logo=kubernetes&logoColor=white"/>
         <img alt="Quasar" src="https://img.shields.io/badge/Quasar-1976E2?logo=quasar&logoColor=white&style=flat"/>
         <img alt="Vue.JS" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
         <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat"/>
+        <img alt="Google Cloud" src="https://img.shields.io/badge/Goggle_Cloud-4285F4?logo=google%20cloud&logoColor=white&style=flat"/>
         <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white&style=flat"/>
-        <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853D?style=flat-square&logo=Node.JS&logoColor=white"/>
+        <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853D?style=flat&logo=Node.JS&logoColor=white"/>
         <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
     </td>
     <td>
-        <img alt="Docker" src="https://img.shields.io/badge/-Docker-46A2F1?style=flat-square&logo=docker&logoColor=white"/>
-        <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
         <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat"/>
-        <img alt="Google Cloud" src="https://img.shields.io/badge/Goggle_Cloud-4285F4?logo=google%20cloud&logoColor=white&style=flat"/>
-        <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-        <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
+        <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat&logo=kubernetes&logoColor=white"/>
+        <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
         <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
     </td>
   </tr>
