@@ -1,6 +1,6 @@
 ## Hello! I'm Janrey `CodexLink` Licas 👋
 
-I'm a **Self-Taught** 3rd Computer Engineering Student in **Technological Institute of the Philippines** specializing in **Intelligent Systems** ***(Generally Known as Embedded Systems)*** who like to code in Object Oriented and has a passion to create something that is personally beneficial as best possible with complex implementations that would certainly follows certain standards in code patterns and abstraction methods in any other way.
+I'm a 3rd Year **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines** specializing in **Intelligent Systems**. ***(Generally Known as Embedded Systems)*** who likes to code in Object Oriented Approach and has a passion to create something that is personally beneficial as best as possible with complex implementations that would certainly follows certain standards in code patterns and methods in any other way.
 
 [![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
 [![GitHub Followers](https://img.shields.io/github/followers/CodexLink?label=Follow%20Me&style=social)](http://github.com/CodexLink?tab=followers)
@@ -210,7 +210,7 @@ class AboutMeFrontPage : private MyUserInformation {
 
 Here, lies my certain set of activities that are pretty much useless but interesting to see.
 
-#### Development Consumption Total Time In Today's Week Scale ⚖️
+#### Development Consumption Total Time In Week's Scale ⚖️
 
 <!--START_SECTION:waka-->
 ```text
@@ -236,7 +236,7 @@ TypeScript   14 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:activity-->
 
-### Where To Find Me / Where You Can Find Me ❓🛐❓
+### Where To Find Me / Where Can You Find Me ❓🛐❓
 
 You can reach me in the following platforms:
 
@@ -265,7 +265,3 @@ This README Profile is not possible without the following mentioned repositories
 
 ![README Activity Updater](https://github.com/CodexLink/CodexLink/workflows/README%20Activity%20Updater/badge.svg)
 ![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
-
-<div align="center">
-<small><i>README Not Updating? <b>Please contact me.</b></i></small>
-</div>
