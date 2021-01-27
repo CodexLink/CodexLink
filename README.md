@@ -228,11 +228,11 @@ TOML         10 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com/CodexLink/OpenCV_Python_Archives/issues/1) in [CodexLink/OpenCV_Python_Archives](https://github.com/CodexLink/OpenCV_Python_Archives)
-2. 🗣 Commented on [#28](https://github.com/CodexLink/MESCDS/issues/28) in [CodexLink/MESCDS](https://github.com/CodexLink/MESCDS)
-3. 🎉 Merged PR [#31](https://github.com/CodexLink/MESCDS/pull/31) in [CodexLink/MESCDS](https://github.com/CodexLink/MESCDS)
-4. 🗣 Commented on [#31](https://github.com/CodexLink/MESCDS/issues/31) in [CodexLink/MESCDS](https://github.com/CodexLink/MESCDS)
-5. 💪 Opened PR [#31](https://github.com/CodexLink/MESCDS/pull/31) in [CodexLink/MESCDS](https://github.com/CodexLink/MESCDS)
+1. 💪 Opened PR [#178](https://github.com/CodexLink/codexlink.github.io/pull/178) in [CodexLink/codexlink.github.io](https://github.com/CodexLink/codexlink.github.io)
+2. ❌ Closed PR [#162](https://github.com/CodexLink/codexlink.github.io/pull/162) in [CodexLink/codexlink.github.io](https://github.com/CodexLink/codexlink.github.io)
+3. ❌ Closed PR [#164](https://github.com/CodexLink/codexlink.github.io/pull/164) in [CodexLink/codexlink.github.io](https://github.com/CodexLink/codexlink.github.io)
+4. ❌ Closed PR [#166](https://github.com/CodexLink/codexlink.github.io/pull/166) in [CodexLink/codexlink.github.io](https://github.com/CodexLink/codexlink.github.io)
+5. ❌ Closed PR [#168](https://github.com/CodexLink/codexlink.github.io/pull/168) in [CodexLink/codexlink.github.io](https://github.com/CodexLink/codexlink.github.io)
 
 <!--END_SECTION:activity-->
 
