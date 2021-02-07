@@ -1,6 +1,6 @@
-## Hello! I'm Janrey `CodexLink` Licas 👋
+## 👋 Hello! I'm Janrey `CodexLink` Licas
 
-I'm a 3rd Year **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines** specializing in **Intelligent Systems**. ***(Generally Known as Embedded Systems)*** who likes to code in Object Oriented Approach and has a passion to create something that is personally beneficial as best as possible with complex implementations that would certainly follows certain standards in code patterns and methods in any other way.
+I'm a 3rd Year **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines** specializing in **Intelligent Systems / Embedded Systems** who likes to code in Object-Oriented Approach in any way (**Currently Functional in Web Development**) and has a passion to create something that is personally beneficial as best as possible with complex implementations that would certainly follow certain standards in code patterns and methods in any other way.
 
 [![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
 [![GitHub Followers](https://img.shields.io/github/followers/CodexLink?label=Follow%20Me&style=social)](http://github.com/CodexLink?tab=followers)
@@ -8,25 +8,22 @@ I'm a 3rd Year **Self-Taught** Computer Engineering Student in **Technological I
 
 ### What do I do in the Open-Source Environment? 📖
 
-Generally nothing in the first place. In rare occasions, I also help/contribute in some repositories that I found interesting or may require immediate corrections. But, most of the time, just exploring. Also, I share my stuff / works in any form in a repository so that other people might learn (**hopefully**) from it.
+I explore in Open-Source to learn more most of the time. I also post my personal and academic projects here and on rare occasions, I help/contribute in some repositories that I found interesting that may require immediate corrections/help.
 
-Most of my works are somewhat in fully documented state, so check them out, just like this [repository.](https://github.com/CodexLink/SmartClassroomSystem).
+Most of my works are somewhat in a fully documented state, so check them out, just like this [**repository.**](https://github.com/CodexLink/SmartClassroomSystem)
 
 ### Known Technologies 👨‍💻
 
-The following table indicates the technologies that I used / have experienced with. It also includes the technologies that I currently still need to learn.
+The following table indicates the technologies that I used/have experienced with. It also includes the technologies that I still currently need to learn.
 
 <div class="center">
 <table>
   <tr>
     <td>
-      <b>Has Experience (Even on Slight / Short Time Case)</b>
+      <b>Has Experience (Slight / Short Time Case Included)</b>
     </td>
     <td>
       <b>Currently Learning</b>
-    </td>
-    <td>
-      <b>On Halt</b>
     </td>
     <td>
       <b>To Be Planned</b>
@@ -63,27 +60,24 @@ The following table indicates the technologies that I used / have experienced wi
       <img alt="Docker" src="https://img.shields.io/badge/-Docker-46A2F1?style=flat&logo=docker&logoColor=white"/>
       <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
       <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat"/>
-    </td>
-    <td>
-        <img alt="Quasar" src="https://img.shields.io/badge/Quasar-1976E2?logo=quasar&logoColor=white&style=flat"/>
-        <img alt="Vue.JS" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
-        <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat"/>
-        <img alt="Google Cloud" src="https://img.shields.io/badge/Goggle_Cloud-4285F4?logo=google%20cloud&logoColor=white&style=flat"/>
+      <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat"/>
         <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white&style=flat"/>
         <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853D?style=flat&logo=Node.JS&logoColor=white"/>
         <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
     </td>
     <td>
-        <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat"/>
-        <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat&logo=kubernetes&logoColor=white"/>
-        <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
-        <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
+      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat"/>
+      <img alt="Google Cloud" src="https://img.shields.io/badge/Goggle_Cloud-4285F4?logo=google%20cloud&logoColor=white&style=flat"/>
+      <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
+      <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat&logo=kubernetes&logoColor=white"/>
+      <img alt="Quasar" src="https://img.shields.io/badge/Quasar-1976E2?logo=quasar&logoColor=white&style=flat"/>
+      <img alt="Vue.JS" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
     </td>
   </tr>
 </table>
 </div>
 
-To support my set of skills indicated from the table. Here's my stats for my used languages and contribution statistics.
+To support my set of skills indicated from the table, my statistics will show the most used languages, github contributions, activities and so on.
 
 <table>
   <tr>
@@ -97,7 +91,7 @@ To support my set of skills indicated from the table. Here's my stats for my use
 </table>
 
 <details>
-<summary><i>Do you want me to know more❓ Check this C++ 11 Header Profile 🎬 Introduction I built earlier.</i></summary>
+<summary><i>Hidden Info for C++ Nerds [ May Include Errors as Fallback Info Profile ]</i></summary>
 
 ```c++
 // user/CodexLink/README.h |  User Information Declaration with Definitions
@@ -208,7 +202,7 @@ class AboutMeFrontPage : private MyUserInformation {
 
 ### Activity Stats 📊
 
-Here, lies my certain set of activities that are pretty much useless but interesting to see.
+The following are my stats for the week and the PR Activities that I made from any public repositories.
 
 #### Development Consumption Total Time In Week's Scale ⚖️
 
@@ -216,11 +210,19 @@ Here, lies my certain set of activities that are pretty much useless but interes
 ```text
 Week: 14 January, 2021 - 21 January, 2021
 
+<<<<<<< HEAD
 Python       7 hrs 15 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀   80.58 % 
 TypeScript   48 mins         ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.96 % 
 Other        25 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.72 % 
 JSON         11 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.14 % 
 TOML         10 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.90 % 
+=======
+Python       1 hr 46 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.42 %
+PowerShell   43 mins         ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.18 %
+Markdown     38 mins         ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.36 %
+JSON         29 mins         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.67 %
+Git          13 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.31 %
+>>>>>>> e36fee1 (Info | Updated.)
 ```
 <!--END_SECTION:waka-->
 
@@ -238,7 +240,7 @@ TOML         10 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### Where To Find Me / Where Can You Find Me ❓🛐❓
 
-You can reach me in the following platforms:
+You can reach me on the following platforms:
 
 [![Discord](https://img.shields.io/badge/Discord-CodexLink_5848-7289DA?logo=discord&logoColor=white&style=flat)](https://shields.io/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/CodexLink)
@@ -249,7 +251,7 @@ I'm currently scanning all of them daily, so expect me to reply in **instant or 
 
 ### Credits 🎆🥇🙏
 
-This README Profile is not possible without the following mentioned repositories, which I used to build this README:
+**This README Profile is not possible** without the following mentioned repositories, which I used to build this README:
 
 * [Dev Metrics in Readme](https://github.com/athul/waka-readme) — Wakatime Weekly Metrics on your Profile Readme.
 * [Discord.py](https://github.com/athul/waka-readme) — Wakatime Weekly Metrics on your Profile Readme.
@@ -257,7 +259,7 @@ This README Profile is not possible without the following mentioned repositories
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) — ⚡ Dynamically generated stats for your GitHub READMEs.
 * [Simple Icons](https://simpleicons.org/) — SVG icons for popular brands.
 * [Shields.io](https://shields.io/) — Concise, consistent, and legible badges in SVG and raster format.
-* [thmsgbrt](https://github.com/thmsgbrt)'s [README.md](https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md) — Huge Thanks to thmsgbrt's README for giving me a layout idea based from the layout of the README itself.
+* [thmsgbrt](https://github.com/thmsgbrt)'s [README.md](https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md) — Huge Thanks to thmsgbrt's README for giving me a layout idea based on the layout of the README itself.
 
 ---
 
