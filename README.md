@@ -1,17 +1,13 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
-<div class="center">
-  
+
 [![E-mail](https://img.shields.io/badge/GMail-self.codexlink-D14836?logo=gmail&logoColor=white&style=flat)](mailto:self.codexlink@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-CodexLink_5848-7289DA?logo=discord&logoColor=white&style=flat)](https://shields.io/)
 [![Steam](https://img.shields.io/badge/Steam-PrismaticLunatic-1c241e?logo=steam&logoColor=lightblack&style=flat)](https://steamcommunity.com/id/PrismaticLunatic/)
-
-![README Activity Updater](https://github.com/CodexLink/CodexLink/workflows/README%20Activity%20Updater/badge.svg)
-![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
-
 [![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
 [![GitHub Followers](https://img.shields.io/github/followers/CodexLink?label=Follow%20Me&style=social)](http://github.com/CodexLink?tab=followers)
 
-</div>
+![README Activity Updater](https://github.com/CodexLink/CodexLink/workflows/README%20Activity%20Updater/badge.svg)
+![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
 
 I'm a 3rd Year **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines** specializing in **Intelligent Systems / Embedded Systems** who likes to code in Object-Oriented Approach in any way (**Currently Functional in Web Development**) and has a passion to create something that is personally beneficial as best as possible with complex implementations that would certainly follow certain standards in code patterns and methods in any other way.
 
