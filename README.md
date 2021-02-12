@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
 
 [![E-mail](https://img.shields.io/badge/GMail-self.codexlink-D14836?logo=gmail&logoColor=white&style=flat)](mailto:self.codexlink@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-CodexLink_5848-7289DA?logo=discord&logoColor=white&style=flat)](https://shields.io/)
+[![Discord](https://img.shields.io/badge/Discord-CodexLink_5848-7289DA?logo=discord&logoColor=white&style=flat)](https://discord.com/channels/@me/799166063753035776)
 [![Steam](https://img.shields.io/badge/Steam-PrismaticLunatic-1c241e?logo=steam&logoColor=lightblack&style=flat)](https://steamcommunity.com/id/PrismaticLunatic/)
 [![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
 [![GitHub Followers](https://img.shields.io/github/followers/CodexLink?label=Follow%20Me&style=social)](http://github.com/CodexLink?tab=followers)
