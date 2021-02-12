@@ -1,4 +1,9 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
+[![E-mail](https://img.shields.io/badge/GMail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:self.codexlink@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-CodexLink_5848-7289DA?logo=discord&logoColor=white&style=flat)](https://shields.io/)
+[![Steam](https://img.shields.io/badge/Steam-PrismaticLunatic-1c241e?logo=steam&logoColor=lightblack&style=flat)](https://steamcommunity.com/id/PrismaticLunatic/)
+![README Activity Updater](https://github.com/CodexLink/CodexLink/workflows/README%20Activity%20Updater/badge.svg)
+![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
 
 I'm a 3rd Year **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines** specializing in **Intelligent Systems / Embedded Systems** who likes to code in Object-Oriented Approach in any way (**Currently Functional in Web Development**) and has a passion to create something that is personally beneficial as best as possible with complex implementations that would certainly follow certain standards in code patterns and methods in any other way.
 
@@ -230,17 +235,6 @@ TOML         10 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:activity-->
 
-### Where To Find Me / Where Can You Find Me ❓🛐❓
-
-You can reach me on the following platforms:
-
-[![Discord](https://img.shields.io/badge/Discord-CodexLink_5848-7289DA?logo=discord&logoColor=white&style=flat)](https://shields.io/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/CodexLink)
-[![E-mail](https://img.shields.io/badge/GMail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:self.codexlink@gmail.com)
-
-I'm currently scanning all of them daily, so expect me to reply in **instant or 2 days**.
-
-
 ### Credits 🎆🥇🙏
 
 **This README Profile is not possible** without the following mentioned repositories, which I used to build this README:
@@ -252,10 +246,3 @@ I'm currently scanning all of them daily, so expect me to reply in **instant or 
 * [Simple Icons](https://simpleicons.org/) — SVG icons for popular brands.
 * [Shields.io](https://shields.io/) — Concise, consistent, and legible badges in SVG and raster format.
 * [thmsgbrt](https://github.com/thmsgbrt)'s [README.md](https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md) — Huge Thanks to thmsgbrt's README for giving me a layout idea based on the layout of the README itself.
-
----
-
-### Automation Statuses 🚑🚉🚨
-
-![README Activity Updater](https://github.com/CodexLink/CodexLink/workflows/README%20Activity%20Updater/badge.svg)
-![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
