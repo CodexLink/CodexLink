@@ -229,11 +229,11 @@ TOML         10 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#25](https://github.com/CodexLink/MESCDS-ESP32/issues/25) in [CodexLink/MESCDS-ESP32](https://github.com/CodexLink/MESCDS-ESP32)
-2. 🗣 Commented on [#25](https://github.com/CodexLink/MESCDS-ESP32/issues/25) in [CodexLink/MESCDS-ESP32](https://github.com/CodexLink/MESCDS-ESP32)
-3. ❗️ Opened issue [#32](https://github.com/CodexLink/MESCDS-ESP32/issues/32) in [CodexLink/MESCDS-ESP32](https://github.com/CodexLink/MESCDS-ESP32)
-4. 💪 Opened PR [#179](https://github.com/CodexLink/codexlink.github.io/pull/179) in [CodexLink/codexlink.github.io](https://github.com/CodexLink/codexlink.github.io)
-5. ❌ Closed PR [#178](https://github.com/CodexLink/codexlink.github.io/pull/178) in [CodexLink/codexlink.github.io](https://github.com/CodexLink/codexlink.github.io)
+1. 🎉 Merged PR [#4](https://github.com/CodexLink/Django_Single_Page_CRUD/pull/4) in [CodexLink/Django_Single_Page_CRUD](https://github.com/CodexLink/Django_Single_Page_CRUD)
+2. ❗️ Closed issue [#25](https://github.com/CodexLink/MESCDS-ESP32/issues/25) in [CodexLink/MESCDS-ESP32](https://github.com/CodexLink/MESCDS-ESP32)
+3. 🗣 Commented on [#25](https://github.com/CodexLink/MESCDS-ESP32/issues/25) in [CodexLink/MESCDS-ESP32](https://github.com/CodexLink/MESCDS-ESP32)
+4. ❗️ Opened issue [#32](https://github.com/CodexLink/MESCDS-ESP32/issues/32) in [CodexLink/MESCDS-ESP32](https://github.com/CodexLink/MESCDS-ESP32)
+5. 💪 Opened PR [#179](https://github.com/CodexLink/codexlink.github.io/pull/179) in [CodexLink/codexlink.github.io](https://github.com/CodexLink/codexlink.github.io)
 
 <!--END_SECTION:activity-->
 
