@@ -2,11 +2,12 @@
 
 [![Discord](https://img.shields.io/badge/Discord-CodexLink_5848-7289DA?logo=discord&logoColor=white&style=flat)](https://discord.com/channels/@me/799166063753035776)
 [![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
-
 ![README Activity Updater](https://github.com/CodexLink/CodexLink/workflows/README%20Activity%20Updater/badge.svg)
 ![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
 
-I'm a 3rd Year **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines** specializing in **Intelligent Systems / Embedded Systems** who likes to code in Object-Oriented Approach in any way (**Currently Functional in Web Development**) and has a passion to create something that is personally beneficial as best as possible with complex implementations that would certainly follow certain standards in code patterns and methods in any other way.
+I'm a 3rd Year **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines** specializing in **Intelligent Systems / Embedded Systems**. 
+
+I like to code in Object-Oriented Approach in any way (**Currently Functional in Web Development**) and has a passion to create something that is personally beneficial to myself. I also like to semi-comform with basic standards and likes to implement everything in complex; which would certainly follow certain standards in code patterns and methods in any other way.
 
 
 
@@ -17,8 +18,6 @@ I explore in Open-Source to learn more most of the time. I also post my personal
 Most of my works are somewhat in a fully documented state, so check them out, just like this [**repository.**](https://github.com/CodexLink/SmartClassroomSystem)
 
 ### Known Technologies 👨‍💻
-
-The following table indicates the technologies that I used/have experienced with. It also includes the technologies that I still currently need to learn.
 
 <div class="center">
 <table>
@@ -85,11 +84,7 @@ To support my set of skills indicated from the table, my statistics will show th
   </tr>
 </table>
 
-### Activity Stats 📊
-
-The following are my stats for the week and the PR Activities that I made from any public repositories.
-
-#### Development Consumption Total Time In Week's Scale ⚖️
+#### Activity Stats 📊 — Development Consumption Total Time In Week's Scale ⚖️
 
 <!--START_SECTION:waka-->
 ```text
@@ -100,7 +95,7 @@ C++       1 hr 32 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀
 ```
 <!--END_SECTION:waka-->
 
-#### Recent Activities 📝
+#### Activity Stats 📊 — Recent Activities 📝
 
 <!--START_SECTION:activity-->
 
@@ -114,7 +109,7 @@ C++       1 hr 32 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀
 
 ### Credits 🎆🥇🙏
 
-**This README Profile is not possible** without the following mentioned repositories, which I used to build this README:
+**This README Profile is not possible** without the following aforementioned repositories:
 
 * [Dev Metrics in Readme](https://github.com/athul/waka-readme) — Wakatime Weekly Metrics on your Profile Readme.
 * [Discord.py](https://github.com/athul/waka-readme) — Wakatime Weekly Metrics on your Profile Readme.
@@ -122,4 +117,4 @@ C++       1 hr 32 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) — ⚡ Dynamically generated stats for your GitHub READMEs.
 * [Simple Icons](https://simpleicons.org/) — SVG icons for popular brands.
 * [Shields.io](https://shields.io/) — Concise, consistent, and legible badges in SVG and raster format.
-* [thmsgbrt](https://github.com/thmsgbrt)'s [README.md](https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md) — Huge Thanks to thmsgbrt's README for giving me a layout idea based on the layout of the README itself.
+* [thmsgbrt](https://github.com/thmsgbrt)'s [README.md](https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md) — Huge Thanks to thmsgbrt's README as it was one of my layout reference when I started reworking my profile.
