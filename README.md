@@ -35,7 +35,7 @@ Most of my works are somewhat in a fully documented state, so check them out, ju
   <tr>
     <td>
         <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
-        <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B11-00599C?style=flat-&logo=c%2B%2B&logoColor=white"/>
+        <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-&logo=c%2B%2B&logoColor=white"/>
         <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
         <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat"/>
         <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
