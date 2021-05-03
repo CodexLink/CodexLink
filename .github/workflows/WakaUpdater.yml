@@ -14,5 +14,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          COMMIT_MESSAGE: "README WakaTime Stats Updated :emoji:"
+          COMMIT_MESSAGE: "WakaTime Data is Updated for @CodexLink"
           SHOW_TITLE: true
