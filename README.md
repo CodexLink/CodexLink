@@ -88,10 +88,10 @@ To support my set of skills indicated from the table, my statistics will show th
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 May, 2021 - 24 May, 2021
+Week: 18 May, 2021 - 25 May, 2021
 
-Assembly   14 hrs 14 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.05 % 
-Other      7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.92 % 
+Assembly   15 hrs 17 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.06 % 
+Other      8 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.91 % 
 ```
 <!--END_SECTION:waka-->
 
