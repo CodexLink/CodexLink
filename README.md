@@ -5,19 +5,18 @@
 ![README Activity Updater](https://github.com/CodexLink/CodexLink/workflows/README%20Activity%20Updater/badge.svg)
 ![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
 
-I'm a 3rd Year **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines** specializing in **Intelligent Systems / Embedded Systems**. 
+I'm a 3rd Year **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines**.
 
-I like to code in Object-Oriented Approach in any way (**Currently Functional in Web Development**) and has a passion to create something that is personally beneficial to myself. I also like to semi-comform with basic standards and likes to implement everything in complex; which would certainly follow certain standards in code patterns and methods in any other way.
-
+I like to code and explore libraries, implementations of certain systems, etc; and has a passion to create something that is personally beneficial. I'm a semi-conformist whose having a hard time on what is a preferrable approach and implementation to a certain problem.
 
 
 ### What do I do in the Open-Source Environment? 📖
 
-I explore in Open-Source to learn more most of the time. I also post my personal and academic projects here and on rare occasions, I help/contribute in some repositories that I found interesting that may require immediate corrections/help.
+I explore in open-source to learn more whenever there's an available time. I make my personal and academic projects as a public repositories whenever its ready. And in **_very_** rare occasions, I help or contribute in some repositories that I found interesting.
 
-Most of my works are somewhat in a fully documented state, so check them out, just like this [**repository.**](https://github.com/CodexLink/SmartClassroomSystem)
+Most of my works are somewhat in a fully documented state, so check them out, just like this [**repository that I did for 3 months.**](https://github.com/CodexLink/SmartClassroomSystem)
 
-### Known Technologies 👨‍💻
+### Currently Known Technologies 👨‍💻
 
 <div class="center">
 <table>
@@ -53,6 +52,7 @@ Most of my works are somewhat in a fully documented state, so check them out, ju
       <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
       <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat"/>
       <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat"/>
+      <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white"/>
     </td>
     <td>
       <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat"/>
@@ -71,7 +71,7 @@ Most of my works are somewhat in a fully documented state, so check them out, ju
 </table>
 </div>
 
-To support my set of skills indicated from the table, my statistics will show the most used languages, github contributions, activities and so on.
+### Statistics and Contribution
 
 <table>
   <tr>
