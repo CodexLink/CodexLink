@@ -5,7 +5,7 @@
 ![README Activity Updater](https://github.com/CodexLink/CodexLink/workflows/README%20Activity%20Updater/badge.svg)
 ![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
 
-I'm a 3rd Year **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines**.
+I'm a (Transistioning to 4th But a —) 3rd Year **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines**.
 
 I like to code and explore libraries, implementations of certain systems, etc; and has a passion to create something that is personally beneficial. I'm a semi-conformist whose having a hard time on what is a preferrable approach and implementation to a certain problem.
 
@@ -16,7 +16,7 @@ I explore in open-source to learn more whenever there's an available time. I mak
 
 Most of my works are somewhat in a fully documented state, so check them out, just like this [**repository that I did for 3 months.**](https://github.com/CodexLink/SmartClassroomSystem)
 
-### Currently Known Technologies 👨‍💻
+### Touched Technologies 👨‍💻
 
 <div class="center">
 <table>
@@ -28,7 +28,7 @@ Most of my works are somewhat in a fully documented state, so check them out, ju
       <b>Currently Learning</b>
     </td>
     <td>
-      <b>To Be Planned</b>
+      <b>To Be Planned / On-Halt</b>
     </td>
   </tr>
   <tr>
@@ -41,6 +41,7 @@ Most of my works are somewhat in a fully documented state, so check them out, ju
         <img alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?style=flat&logo=git&logoColor=white"/>
         <img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white"/>
         <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
+        <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white"/>
         <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white"/>
         <img alt="Python" src="https://img.shields.io/badge/-Python-33776AB?style=flat&logo=python&logoColor=white"/>
         <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white"/>
@@ -49,13 +50,13 @@ Most of my works are somewhat in a fully documented state, so check them out, ju
     <td>
       <img alt="Discord.py" src="https://img.shields.io/badge/-Discord.py-7289DA?style=flat&logo=discord&logoColor=white"/>
       <img alt="Docker" src="https://img.shields.io/badge/-Docker-46A2F1?style=flat&logo=docker&logoColor=white"/>
-      <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
       <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat"/>
-      <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat"/>
       <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white"/>
     </td>
     <td>
+      <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
       <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat"/>
+      <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat"/>
       <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
       <img alt="Google Cloud" src="https://img.shields.io/badge/Goggle_Cloud-4285F4?logo=google%20cloud&logoColor=white&style=flat"/>
       <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
@@ -71,7 +72,7 @@ Most of my works are somewhat in a fully documented state, so check them out, ju
 </table>
 </div>
 
-### Statistics and Contribution
+### Statistics and Contribution 📊
 
 <table>
   <tr>
