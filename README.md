@@ -103,11 +103,11 @@ Text       33 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/CodexLink/discord-rich-presence-activity-badge/pull/1) in [CodexLink/discord-rich-presence-activity-badge](https://github.com/CodexLink/discord-rich-presence-activity-badge)
-2. 🎉 Merged PR [#6](https://github.com/CodexLink/Django_Single_Page_CRUD/pull/6) in [CodexLink/Django_Single_Page_CRUD](https://github.com/CodexLink/Django_Single_Page_CRUD)
-3. 🎉 Merged PR [#34](https://github.com/CodexLink/MESCDS-ESP32/pull/34) in [CodexLink/MESCDS-ESP32](https://github.com/CodexLink/MESCDS-ESP32)
-4. 🗣 Commented on [#34](https://github.com/CodexLink/MESCDS-ESP32/issues/34) in [CodexLink/MESCDS-ESP32](https://github.com/CodexLink/MESCDS-ESP32)
-5. 💪 Opened PR [#34](https://github.com/CodexLink/MESCDS-ESP32/pull/34) in [CodexLink/MESCDS-ESP32](https://github.com/CodexLink/MESCDS-ESP32)
+1. 🎉 Merged PR [#1](https://github.com/CodexLink/discord-rich-presence-activity-badge/pull/1) in [CodexLink/discord-rich-presence-activity-badge](https://github.com/CodexLink/discord-rich-presence-activity-badge)
+2. 🗣 Commented on [#1](https://github.com/CodexLink/discord-rich-presence-activity-badge/issues/1) in [CodexLink/discord-rich-presence-activity-badge](https://github.com/CodexLink/discord-rich-presence-activity-badge)
+3. 🗣 Commented on [#1](https://github.com/CodexLink/discord-rich-presence-activity-badge/issues/1) in [CodexLink/discord-rich-presence-activity-badge](https://github.com/CodexLink/discord-rich-presence-activity-badge)
+4. 💪 Opened PR [#1](https://github.com/CodexLink/discord-rich-presence-activity-badge/pull/1) in [CodexLink/discord-rich-presence-activity-badge](https://github.com/CodexLink/discord-rich-presence-activity-badge)
+5. 🎉 Merged PR [#6](https://github.com/CodexLink/Django_Single_Page_CRUD/pull/6) in [CodexLink/Django_Single_Page_CRUD](https://github.com/CodexLink/Django_Single_Page_CRUD)
 
 <!--END_SECTION:activity-->
 
