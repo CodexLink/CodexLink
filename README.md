@@ -107,7 +107,7 @@ Other    18 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 2. 🗣 Commented on [#3](https://github.com/CodexLink/discord-rich-presence-activity-badge/issues/3) in [CodexLink/discord-rich-presence-activity-badge](https://github.com/CodexLink/discord-rich-presence-activity-badge)
 3. 🗣 Commented on [#3](https://github.com/CodexLink/discord-rich-presence-activity-badge/issues/3) in [CodexLink/discord-rich-presence-activity-badge](https://github.com/CodexLink/discord-rich-presence-activity-badge)
 4. 🗣 Commented on [#3](https://github.com/CodexLink/discord-rich-presence-activity-badge/issues/3) in [CodexLink/discord-rich-presence-activity-badge](https://github.com/CodexLink/discord-rich-presence-activity-badge)
-5. 💪 Opened PR [#3](https://github.com/CodexLink/discord-rich-presence-activity-badge/pull/3) in [CodexLink/discord-rich-presence-activity-badge](https://github.com/CodexLink/discord-rich-presence-activity-badge)
+5. 🗣 Commented on [#3](https://github.com/CodexLink/discord-rich-presence-activity-badge/issues/3) in [CodexLink/discord-rich-presence-activity-badge](https://github.com/CodexLink/discord-rich-presence-activity-badge)
 
 <!--END_SECTION:activity-->
 
