@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
 
-[![Discord](https://img.shields.io/badge/Discord-CodexLink_5848-7289DA?logo=discord&logoColor=white&style=flat)](https://discord.com/channels/@me/799166063753035776)
+[![(Script) Discord Rich Presence](https://badgen.net/badge/Discord%20Rich%20Presence/Under%20Development?icon=discord)](https://github.com/CodexLink/discord-rich-presence-activity-badge)
 [![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
 ![README Activity Updater](https://github.com/CodexLink/CodexLink/workflows/README%20Activity%20Updater/badge.svg)
 ![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
