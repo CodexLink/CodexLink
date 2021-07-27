@@ -35,7 +35,9 @@ Most of my works are somewhat in a fully documented state, so check them out, ju
     <td>
         <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
         <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-&logo=c%2B%2B&logoColor=white"/>
+        <img alt="Discord.py" src="https://img.shields.io/badge/-Discord.py-7289DA?style=flat&logo=discord&logoColor=white"/>
         <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
+        <img alt="Docker" src="https://img.shields.io/badge/-Docker-46A2F1?style=flat&logo=docker&logoColor=white"/>
         <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat"/>
         <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
         <img alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?style=flat&logo=git&logoColor=white"/>
@@ -48,10 +50,6 @@ Most of my works are somewhat in a fully documented state, so check them out, ju
         <img alt="VHDL" src="https://img.shields.io/badge/-VHDL-46A2F1?style=flat&logoColor=white"/>
     </td>
     <td>
-      <img alt="Discord.py" src="https://img.shields.io/badge/-Discord.py-7289DA?style=flat&logo=discord&logoColor=white"/>
-      <img alt="Docker" src="https://img.shields.io/badge/-Docker-46A2F1?style=flat&logo=docker&logoColor=white"/>
-      <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat"/>
-      <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white"/>
     </td>
     <td>
       <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
