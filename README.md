@@ -1,22 +1,21 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20Activity/Preparing...?icon=discord)](https://github.com/CodexLink/discord-rich-presence-activity-badge)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20Activity/Almost%20There./red?icon=discord)](https://github.com/CodexLink/discord-rich-presence-activity-badge)
 [![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
 ![README Activity Updater](https://github.com/CodexLink/CodexLink/workflows/README%20Activity%20Updater/badge.svg)
 ![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
 
-I'm a (Transistioning to 4th But a —) 3rd Year **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines**.
+I'm a Transistioning to 4th Year but a 3rd Year **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines**.
 
-I like to code and explore libraries, implementations of certain systems, etc; and has a passion to create something that is personally beneficial. I'm a semi-conformist whose having a hard time on what is a preferrable approach and implementation to a certain problem.
-
+I code and learn for a reason. I make things hard for me to ease myself in the end. I have a passion to create something beneficial regardless of what it is. I'm a semi-conformist whose having a hard time on what is a preferrable approach and implementation to a certain problem.
 
 ### What do I do in the Open-Source Environment? 📖
 
 I explore in open-source to learn more whenever there's an available time. I make my personal and academic projects as a public repositories whenever its ready. And in **_very_** rare occasions, I help or contribute in some repositories that I found interesting.
 
-Most of my works are somewhat in a fully documented state, so check them out, just like this [**repository that I did for 3 months.**](https://github.com/CodexLink/SmartClassroomSystem)
+Most of my works are somewhat in a fully documented state (some without pictures but fully documented), so check them out, just like this [**repository that I did for 3 months.**](https://github.com/CodexLink/SmartClassroomSystem)
 
-### Touched Technologies 👨‍💻
+### Technologies and Languages 👨‍💻
 
 <div class="center">
 <table>
@@ -25,7 +24,7 @@ Most of my works are somewhat in a fully documented state, so check them out, ju
       <b>Has Experience</b>
     </td>
     <td>
-      <b>Currently Learning</b>
+      <b>Currently Learning / Up Next</b>
     </td>
     <td>
       <b>To Be Planned / On-Halt</b>
@@ -50,20 +49,20 @@ Most of my works are somewhat in a fully documented state, so check them out, ju
         <img alt="VHDL" src="https://img.shields.io/badge/-VHDL-46A2F1?style=flat&logoColor=white"/>
     </td>
     <td>
+        <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat"/>
+        <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
+        <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white&style=flat"/>
+        <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853D?style=flat&logo=Node.JS&logoColor=white"/>
+        <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
     </td>
     <td>
       <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
       <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat"/>
-      <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat"/>
-      <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
       <img alt="Google Cloud" src="https://img.shields.io/badge/Goggle_Cloud-4285F4?logo=google%20cloud&logoColor=white&style=flat"/>
       <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
-      <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white&style=flat"/>
-      <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853D?style=flat&logo=Node.JS&logoColor=white"/>
       <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat&logo=kubernetes&logoColor=white"/>
       <img alt="Quasar" src="https://img.shields.io/badge/Quasar-1976E2?logo=quasar&logoColor=white&style=flat"/>
-      <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
-      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
       <img alt="Vue.JS" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
     </td>
   </tr>
