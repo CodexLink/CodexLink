@@ -1,11 +1,8 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
 
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20Activity/Almost%20There./red?icon=discord)](https://github.com/CodexLink/discord-rich-presence-activity-badge)
-[![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
-![README Activity Updater](https://github.com/CodexLink/CodexLink/workflows/README%20Activity%20Updater/badge.svg)
-![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
 
-I'm a Transistioning to 4th Year but a 3rd Year **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines**.
+I'm a **Self-Taught** Computer Engineering Student transistioning to 4th Year but a 3rd Year (as of now) in **Technological Institute of the Philippines**.
 
 I code and learn for a reason. I make things hard for me to ease myself in the end. I have a passion to create something beneficial regardless of what it is. I'm a semi-conformist whose having a hard time on what is a preferrable approach and implementation to a certain problem.
 
@@ -112,6 +109,7 @@ TOML       2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 **This README Profile is not possible** without the following aforementioned repositories:
 
+* [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) — Bridge your Discord Activities and Presence to a Representable Badge on your repository to show your status statistically. Powered by Docker and Async Python. **Made by myself ^^**
 * [Dev Metrics in Readme](https://github.com/athul/waka-readme) — Wakatime Weekly Metrics on your Profile Readme.
 * [Discord.py](https://github.com/athul/waka-readme) — Wakatime Weekly Metrics on your Profile Readme.
 * [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) — It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
@@ -119,3 +117,11 @@ TOML       2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 * [Simple Icons](https://simpleicons.org/) — SVG icons for popular brands.
 * [Shields.io](https://shields.io/) — Concise, consistent, and legible badges in SVG and raster format.
 * [thmsgbrt](https://github.com/thmsgbrt)'s [README.md](https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md) — Huge Thanks to thmsgbrt's README as it was one of my layout reference when I started reworking my profile.
+
+<div align="right">
+
+[![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
+![README Activity Updater](https://github.com/CodexLink/CodexLink/workflows/README%20Activity%20Updater/badge.svg)
+![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
+
+</div>
