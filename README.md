@@ -96,11 +96,11 @@ YAML       38 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4](https://github.com/CodexLink/discord-rich-presence-activity-badge/issues/4) in [CodexLink/discord-rich-presence-activity-badge](https://github.com/CodexLink/discord-rich-presence-activity-badge)
+1. ❗️ Opened issue [#5](https://github.com/CodexLink/discord-activity-badge/issues/5) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
 2. 🗣 Commented on [#4](https://github.com/CodexLink/discord-rich-presence-activity-badge/issues/4) in [CodexLink/discord-rich-presence-activity-badge](https://github.com/CodexLink/discord-rich-presence-activity-badge)
 3. 🗣 Commented on [#4](https://github.com/CodexLink/discord-rich-presence-activity-badge/issues/4) in [CodexLink/discord-rich-presence-activity-badge](https://github.com/CodexLink/discord-rich-presence-activity-badge)
-4. 💪 Opened PR [#4](https://github.com/CodexLink/discord-rich-presence-activity-badge/pull/4) in [CodexLink/discord-rich-presence-activity-badge](https://github.com/CodexLink/discord-rich-presence-activity-badge)
-5. 🎉 Merged PR [#3](https://github.com/CodexLink/discord-rich-presence-activity-badge/pull/3) in [CodexLink/discord-rich-presence-activity-badge](https://github.com/CodexLink/discord-rich-presence-activity-badge)
+4. 🗣 Commented on [#4](https://github.com/CodexLink/discord-rich-presence-activity-badge/issues/4) in [CodexLink/discord-rich-presence-activity-badge](https://github.com/CodexLink/discord-rich-presence-activity-badge)
+5. 💪 Opened PR [#4](https://github.com/CodexLink/discord-rich-presence-activity-badge/pull/4) in [CodexLink/discord-rich-presence-activity-badge](https://github.com/CodexLink/discord-rich-presence-activity-badge)
 
 <!--END_SECTION:activity-->
 
