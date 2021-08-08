@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%20%7C%20Editing%20utils.py%3A%20109%3A58%20%28394%29%20%7C%207%20hours%2015%20minutes%20elapsed.?color=df1473&labelColor=61d800&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%20%7C%20Editing%20entrypoint.py%3A%2094%3A10%20%28216%29%20%7C%207%20hours%2028%20minutes%20elapsed.?color=df1473&labelColor=61d800&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a **Self-Taught** Computer Engineering Student transistioning to 4th Year but a 3rd Year (as of now) in **Technological Institute of the Philippines**.
 
