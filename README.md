@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Playing%20Game/Binance%2C%201%20hours%2055%20minutes%20elapsed.?color=00cd90&labelColor=61d800&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=434343&labelColor=61d800&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a **Self-Taught** Computer Engineering Student transistioning to 4th Year but a 3rd Year (as of now) in **Technological Institute of the Philippines**.
 
