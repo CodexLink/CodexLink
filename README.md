@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=434343&labelColor=61d800&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/%3F%3F%3F/Spotify%2C%200%3A01%3A38%20of%200%3A03%3A45?color=61d800&labelColor=???&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a **Self-Taught** Computer Engineering Student transistioning to 4th Year but a 3rd Year (as of now) in **Technological Institute of the Philippines**.
 
