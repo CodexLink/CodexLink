@@ -97,11 +97,11 @@ TOML       1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#6](https://github.com/CodexLink/discord-activity-badge/issues/6) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
-2. 🎉 Merged PR [#4](https://github.com/CodexLink/discord-activity-badge/pull/4) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
-3. 🗣 Commented on [#4](https://github.com/CodexLink/discord-activity-badge/issues/4) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
+1. 💪 Opened PR [#7](https://github.com/CodexLink/discord-activity-badge/pull/7) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
+2. ❗️ Opened issue [#6](https://github.com/CodexLink/discord-activity-badge/issues/6) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
+3. 🎉 Merged PR [#4](https://github.com/CodexLink/discord-activity-badge/pull/4) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
 4. 🗣 Commented on [#4](https://github.com/CodexLink/discord-activity-badge/issues/4) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
-5. ❗️ Opened issue [#5](https://github.com/CodexLink/discord-activity-badge/issues/5) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
+5. 🗣 Commented on [#4](https://github.com/CodexLink/discord-activity-badge/issues/4) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
 
 <!--END_SECTION:activity-->
 
