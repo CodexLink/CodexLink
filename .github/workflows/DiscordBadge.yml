@@ -1,0 +1,19 @@
+name: Discord Activity Badge Updater
+
+on:
+  schedule:
+    - cron: "5 7-23 * * *" # At minute 5 past every hour from 7 through 23.
+
+  workflow_dispatch:
+    
+jobs:
+  BadgeUpdater:
+    name: Static Badge Updater
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Container Dry Run in `latest`
+        uses: CodexLink/discord-rich-presence-activity-badge@latest
+        with:
+          DISCORD_USER_ID: ${{ secrets.DISCORD_USER_ID }}
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
