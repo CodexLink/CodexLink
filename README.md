@@ -2,7 +2,7 @@
 
 <div align="right">
   
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20utils.py%3A%20476%3A64%20%28481%29%2C%207%20hours%2020%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 </div>
 
 I'm a **Self-Taught** Computer Engineering Student transistioning to 4th Year but a 3rd Year (as of now) in **Technological Institute of the Philippines**.
