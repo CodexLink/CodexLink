@@ -3,7 +3,7 @@
 <div align="center">
   
 [![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Playing%20Game/Honkai%20Impact%203?color=61d800&labelColor=00cd90&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 </div>
 
