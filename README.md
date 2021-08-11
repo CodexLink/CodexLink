@@ -3,7 +3,7 @@
 <div align="center">
   
 [![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Otsukimi%20PARTY%20HARD%20feat.%20%E3%81%AA%E3%81%AA%E3%81%B2%E3%82%89%20by%20t%2Bpazolite%3B%20Nanahira%20%28KAKATTEKOYEAH%21%21%21%21%29%20%7C%200%3A02%3A48%20of%200%3A04%3A09?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 </div>
 
