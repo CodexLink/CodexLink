@@ -1,10 +1,8 @@
-## 👋 Hello! I'm Janrey `CodexLink` Licas
+## 👋 Hello! I'm Janrey `CodexLink` Licas 
 
-<div align="center">
+<div align="right">
   
-[![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Otsukimi%20PARTY%20HARD%20feat.%20%E3%81%AA%E3%81%AA%E3%81%B2%E3%82%89%20by%20t%2Bpazolite%3B%20Nanahira%20%28KAKATTEKOYEAH%21%21%21%21%29%20%7C%200%3A02%3A48%20of%200%3A04%3A09?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
-
 </div>
 
 I'm a **Self-Taught** Computer Engineering Student transistioning to 4th Year but a 3rd Year (as of now) in **Technological Institute of the Philippines**.
@@ -125,6 +123,7 @@ Docker     17 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <div align="right">
 
+[![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
 [![Discord Activity Badge Updater](https://github.com/CodexLink/CodexLink/actions/workflows/DiscordBadge.yml/badge.svg?branch=master)](https://github.com/CodexLink/CodexLink/actions/workflows/DiscordBadge.yml)
 ![README Activity Updater](https://github.com/CodexLink/CodexLink/workflows/README%20Activity%20Updater/badge.svg)
 ![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
