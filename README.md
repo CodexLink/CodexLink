@@ -114,7 +114,7 @@ Docker     17 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 **This README Profile is not possible** without the following aforementioned repositories:
 
-* [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) — Bridge your Discord Activities and Presence to a Representable Badge on your repository to show your status statistically. Powered by Docker and Async Python. **Made by myself ^^**
+* [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) — Bridge your Discord State and Activity (and Rich Presence) to a Representable Badge on your repository to show your current status. Powered by Docker and Python + AsyncIO + discord.py + aiohttp. **Made by myself ^^**
 * [Dev Metrics in Readme](https://github.com/athul/waka-readme) — Wakatime Weekly Metrics on your Profile Readme.
 * [Discord.py](https://github.com/athul/waka-readme) — Wakatime Weekly Metrics on your Profile Readme.
 * [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) — It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
