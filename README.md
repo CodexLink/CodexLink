@@ -3,7 +3,7 @@
 <div align="center">
   
 [![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
-[![(Script) Discord Activity Badge](https://badgen.net/badge/%231DB954/Spotify?color=61d800&labelColor=6441a5&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Triforce%20by%20Hyper%20Potions%3B%20QORA%20%28Triforce%29%20%7C%200%3A00%3A52%20of%200%3A03%3A06?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 </div>
 
