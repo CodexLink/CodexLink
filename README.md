@@ -1,6 +1,11 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
 
+<div align="center">
+  
+[![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20launch.json%3A%2033%3A4%20%2835%29?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+
+</div>
 
 I'm a **Self-Taught** Computer Engineering Student transistioning to 4th Year but a 3rd Year (as of now) in **Technological Institute of the Philippines**.
 
@@ -120,7 +125,7 @@ Docker     17 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <div align="right">
 
-[![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
+[![Discord Activity Badge Updater](https://github.com/CodexLink/CodexLink/actions/workflows/DiscordBadge.yml/badge.svg?branch=master)](https://github.com/CodexLink/CodexLink/actions/workflows/DiscordBadge.yml)
 ![README Activity Updater](https://github.com/CodexLink/CodexLink/workflows/README%20Activity%20Updater/badge.svg)
 ![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
 
