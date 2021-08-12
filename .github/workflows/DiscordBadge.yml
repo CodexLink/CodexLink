@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Container Dry Run in `latest`
+      - name: Container Execution
         uses: CodexLink/discord-rich-presence-activity-badge@latest
         with:
           DISCORD_USER_ID: ${{ secrets.DISCORD_USER_ID }}
