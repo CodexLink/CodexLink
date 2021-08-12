@@ -2,7 +2,7 @@ name: Discord Activity Badge Updater
 
 on:
   schedule:
-    - cron: "*/* * * * *" # At every 5 minutes.
+    - cron: "* * * * *" # At every 5 minutes.
 
   workflow_dispatch:
     
