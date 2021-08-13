@@ -2,7 +2,7 @@
 
 <div align="left">
   
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Playing%20Game/Apex%20Legends%2C%207%20minutes%20elapsed.?color=61d800&labelColor=00cd90&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 </div>
 
 I'm a **Self-Taught** Computer Engineering Student transistioning to 4th Year but a 3rd Year (as of now) in **Technological Institute of the Philippines**.
