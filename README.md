@@ -100,11 +100,11 @@ YAML       33 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#7](https://github.com/CodexLink/discord-activity-badge/pull/7) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
-2. ❗️ Opened issue [#6](https://github.com/CodexLink/discord-activity-badge/issues/6) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
-3. 🎉 Merged PR [#4](https://github.com/CodexLink/discord-activity-badge/pull/4) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
-4. 🗣 Commented on [#4](https://github.com/CodexLink/discord-activity-badge/issues/4) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
-5. 🗣 Commented on [#4](https://github.com/CodexLink/discord-activity-badge/issues/4) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
+1. 💪 Opened PR [#644](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/644) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2. ❗️ Opened issue [#9](https://github.com/CodexLink/discord-activity-badge/issues/9) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
+3. 🎉 Merged PR [#7](https://github.com/CodexLink/discord-activity-badge/pull/7) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
+4. 🗣 Commented on [#7](https://github.com/CodexLink/discord-activity-badge/issues/7) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
+5. 💪 Opened PR [#7](https://github.com/CodexLink/discord-activity-badge/pull/7) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
 
 <!--END_SECTION:activity-->
 
