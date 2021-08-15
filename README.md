@@ -2,7 +2,7 @@
 
 <div align="left">
   
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Burnt%20Rice%20%28Henrik%20the%20Artist%20Remix%29%20%5Bfeat.%20Yung%20Gemmy%5D%20by%20Shawn%20Wasabi%3B%20YDG%3B%20Yung%20GEMMY%20%7C%200%3A02%3A39%20of%200%3A03%3A16?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20sneakerhead%20by%20underscores%20%7C%200%3A02%3A50%20of%200%3A03%3A18?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 </div>
 
 I'm a **Self-Taught** Computer Engineering Student transistioning to 4th Year but a 3rd Year (as of now) in **Technological Institute of the Philippines**.
