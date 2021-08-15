@@ -2,7 +2,7 @@
 
 <div align="left">
   
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Kiradoki%20Harmony%20by%20MYLK%20%7C%200%3A00%3A41%20of%200%3A04%3A06?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Future%20C%CE%B1ndy%20by%20YUC%27e%20%7C%200%3A02%3A13%20of%200%3A03%3A30?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 </div>
 
 I'm a **Self-Taught** Computer Engineering Student transistioning to 4th Year but a 3rd Year (as of now) in **Technological Institute of the Philippines**.
