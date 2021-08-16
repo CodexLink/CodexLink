@@ -1,4 +1,5 @@
-## 👋 Hello! I'm Janrey `CodexLink` Licas <br> [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
+## 👋 Hello! I'm Janrey `CodexLink` Licas
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a 4th **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines**.
 I code for my personal benefits. I take myself to a challenge from where I can achieve complex implementations, no matter how simple it is. Also, I like DRY principle.
