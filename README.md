@@ -9,7 +9,7 @@ I explore in open-source to learn more whenever there's an available time. I mak
 
 Most of my works are somewhat in a fully documented state (some without pictures but fully documented), so check them out, just like this [**repository that I did for 3 months.**](https://github.com/CodexLink/SmartClassroomSystem) and this other pet project of mine that went out to be a fully-working project that I did for [**2 months but supposedly 1.5 months**](https://github.com/CodexLink/discord-activity-badge).
 
-### Current Projects
+### On-going Projects
 * [ConsoleToRemindMe](https://github.com/CodexLink) — Cross-Platform Linux and Windows Tasks Reminder in Console. Powered by ???
 * [Personal Website](https://github.com/CodexLink/codexlink.github.io) — A Typescript Driven Portfolio and Blogging.
 
