@@ -1,18 +1,17 @@
-## 👋 Hello! I'm Janrey `CodexLink` Licas 
-
-<div align="left">
-  
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20config%3A%2016%3A1%20%2828%29%2C%209%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
-</div>
+## 👋 Hello! I'm Janrey `CodexLink` Licas [![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20config%3A%2016%3A1%20%2828%29%2C%209%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a 4th **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines**.
-I code for my personal benefits. I take myself to a challenge from where I can achieve complex implementation, no matter how simple it is.
+I code for my personal benefits. I take myself to a challenge from where I can achieve complex implementations, no matter how simple it is. Also, I like DRY principle.
 
 ### What do I do in the Open-Source Environment? 📖
 
 I explore in open-source to learn more whenever there's an available time. I make my personal and academic projects as public repositories whenever its ready. And in **_very_** rare occasions, I help or contribute in some repositories that I found interesting.
 
 Most of my works are somewhat in a fully documented state (some without pictures but fully documented), so check them out, just like this [**repository that I did for 3 months.**](https://github.com/CodexLink/SmartClassroomSystem) and this other pet project of mine that went out to be a fully-working project that I did for [**2 months but supposedly 1.5 months**](https://github.com/CodexLink/discord-activity-badge).
+
+### Current Projects
+* [ConsoleToRemindMe](https://github.com/CodexLink) — Cross-Platform Linux and Windows Tasks Reminder in Console. Powered by ???
+* [Personal Website](https://github.com/CodexLink/codexlink.github.io) — A Typescript Driven Portfolio and Blogging.
 
 ### Technologies and Languages 👨‍💻
 
