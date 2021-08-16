@@ -5,15 +5,14 @@
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 </div>
 
-I'm a **Self-Taught** Computer Engineering Student transistioning to 4th Year but a 3rd Year (as of now) in **Technological Institute of the Philippines**.
-
-I code and learn for a reason. I make things hard for me to ease myself in the end. I have a passion to create something beneficial regardless of what it is. I'm a semi-conformist whose having a hard time on what is a preferrable approach and implementation to a certain problem.
+I'm a 4th **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines**.
+I code for my personal benefits. I take myself to a challenge from where I can achieve complex implementation, no matter how simple it is.
 
 ### What do I do in the Open-Source Environment? 📖
 
-I explore in open-source to learn more whenever there's an available time. I make my personal and academic projects as a public repositories whenever its ready. And in **_very_** rare occasions, I help or contribute in some repositories that I found interesting.
+I explore in open-source to learn more whenever there's an available time. I make my personal and academic projects as public repositories whenever its ready. And in **_very_** rare occasions, I help or contribute in some repositories that I found interesting.
 
-Most of my works are somewhat in a fully documented state (some without pictures but fully documented), so check them out, just like this [**repository that I did for 3 months.**](https://github.com/CodexLink/SmartClassroomSystem)
+Most of my works are somewhat in a fully documented state (some without pictures but fully documented), so check them out, just like this [**repository that I did for 3 months.**](https://github.com/CodexLink/SmartClassroomSystem) and this other pet project of mine that went out to be a fully-working project that I did for [**2 months but supposedly 1.5 months**](https://github.com/CodexLink/discord-activity-badge).
 
 ### Technologies and Languages 👨‍💻
 
@@ -82,7 +81,7 @@ Most of my works are somewhat in a fully documented state (some without pictures
   </tr>
 </table>
 
-#### Activity Stats 📊 — Development Consumption Total Time In Week's Scale ⚖️
+#### Development Consumption Total Time In Week's Scale ⚖️
 
 <!--START_SECTION:waka-->
 ```text
@@ -95,31 +94,6 @@ YAML       37 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 JSON       36 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.53 % 
 ```
 <!--END_SECTION:waka-->
-
-#### Activity Stats 📊 — Recent Activities 📝
-
-<!--START_SECTION:activity-->
-
-1. 💪 Opened PR [#644](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/644) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. ❗️ Opened issue [#9](https://github.com/CodexLink/discord-activity-badge/issues/9) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
-3. 🎉 Merged PR [#7](https://github.com/CodexLink/discord-activity-badge/pull/7) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
-4. 🗣 Commented on [#7](https://github.com/CodexLink/discord-activity-badge/issues/7) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
-5. 💪 Opened PR [#7](https://github.com/CodexLink/discord-activity-badge/pull/7) in [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge)
-
-<!--END_SECTION:activity-->
-
-### Credits 🎆🥇🙏
-
-**This README Profile is not possible** without the following aforementioned repositories:
-
-* [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) — Bridge your Discord State and Activity (and Rich Presence) to a Representable Badge on your repository to show your current status. Powered by Docker and Python + AsyncIO + discord.py + aiohttp. **Made by myself ^^**
-* [Dev Metrics in Readme](https://github.com/athul/waka-readme) — Wakatime Weekly Metrics on your Profile Readme.
-* [Discord.py](https://github.com/athul/waka-readme) — Wakatime Weekly Metrics on your Profile Readme.
-* [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) — It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
-* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) — ⚡ Dynamically generated stats for your GitHub READMEs.
-* [Simple Icons](https://simpleicons.org/) — SVG icons for popular brands.
-* [Shields.io](https://shields.io/) — Concise, consistent, and legible badges in SVG and raster format.
-* [thmsgbrt](https://github.com/thmsgbrt)'s [README.md](https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md) — Huge Thanks to thmsgbrt's README as it was one of my layout reference when I started reworking my profile.
 
 <div align="right">
 
