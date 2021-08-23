@@ -3,12 +3,12 @@
 
 I'm a 4th Year **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines**.
 
-I code for personal benefits. I take myself to a challenge from where I do impractical-but-on-standards complex implementations, no matter how simple it is. I also like DRY principles alot and will try my best to integrate that principle. Screw your easy-to-do mechanisms.
+I code for **personal benefits**. I take myself to a challenge from where I do `impractical-but-on-standards complex implementations` no matter how simple it is. I also like `DRY principles` alot and will try my best to integrate that principle. Screw your easy-to-do mechanisms.
 
-### Current On-Going Projects
+### Current Projects
 * [Win32ConsoleReminder](https://github.com/CodexLink/Win32ConsoleReminder) — A Reminder App in Console, written in Pure MSVC++ with Win32.
 * [Personal Website](https://github.com/CodexLink/codexlink.github.io) — A Typescript Driven Portfolio and Blogging.
-* [VueJS_ECommerce](https://github.com/CodexLink/VueJS_ECommerce) — A work-in-progress open-sourced free-tracking-of-development progressive web app that involves bare-minimum store functionality. Created in Vue.JS with Quasar + Feathers.
+* [VueJS ECommerce](https://github.com/CodexLink/VueJS_ECommerce) — A work-in-progress open-sourced free-tracking-of-development progressive web app that involves bare-minimum store functionality. Created in Vue.JS with Quasar + Feathers.
 
 > I juggle on these projects no matter what is my current state.
 
