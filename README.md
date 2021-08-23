@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20README.md%3A%2013%3A1%20%2813%29%2C%2056%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20README.md%3A%207%3A138%20%287%29%2C%201%20hours%2020%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a 4th **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines**.
 I code for my personal benefits. I take myself to a challenge from where I can achieve complex implementations, no matter how simple it is. Also, I like DRY principle.
