@@ -1,18 +1,16 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 
-I'm a 4th **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines**.
-I code for my personal benefits. I take myself to a challenge from where I can achieve complex implementations, no matter how simple it is. Also, I like DRY principle.
+I'm a 4th Year **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines**.
 
-### What do I do in the Open-Source Environment? 📖
+I code for personal benefits. I take myself to a challenge from where I do impractical-but-on-standards complex implementations, no matter how simple it is. I also like DRY principles alot and will try my best to integrate that principle. Screw your easy-to-do mechanisms.
 
-I explore in open-source to learn more whenever there's an available time. I make my personal and academic projects as public repositories whenever its ready. And in **_very_** rare occasions, I help or contribute in some repositories that I found interesting.
-
-Most of my works are somewhat in a fully documented state (some without pictures but fully documented), so check them out, just like this [**repository that I did for 3 months.**](https://github.com/CodexLink/SmartClassroomSystem) and this other pet project of mine that went out to be a fully-working project that I did for [**2 months but supposedly 1.5 months**](https://github.com/CodexLink/discord-activity-badge).
-
-### On-going Projects
+### Current On-Going Projects
 * [Win32ConsoleReminder](https://github.com/CodexLink/Win32ConsoleReminder) — A Reminder App in Console, written in Pure MSVC++ with Win32.
 * [Personal Website](https://github.com/CodexLink/codexlink.github.io) — A Typescript Driven Portfolio and Blogging.
+* [VueJS_ECommerce](https://github.com/CodexLink/VueJS_ECommerce) — A work-in-progress open-sourced free-tracking-of-development progressive web app that involves bare-minimum store functionality. Created in Vue.JS with Quasar + Feathers.
+
+> I juggle on these projects no matter what is my current state.
 
 ### Technologies and Languages 👨‍💻
 
