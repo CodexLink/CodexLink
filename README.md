@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Idle/mentally%20unstable?color=edca00&labelColor=edca00&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Online/mentally%20unstable?color=61d800&labelColor=61d800&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a 4th Year **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines**.
 
