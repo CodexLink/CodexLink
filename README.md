@@ -7,10 +7,10 @@ I code for the **personal benefits** and I always go for the detail over simplic
 
 ### Current Projects
 * [Win32ConsoleReminder](https://github.com/CodexLink/Win32ConsoleReminder) — (*Subject to change.*) An Asynchronous-Single-Threaded-PDCursed-WinRT Reminder App designed for Modern Windows OSes. (From Windows 8 to Windows 10)
-* [Personal Website](https://github.com/CodexLink/codexlink.github.io) — A Single Page Application driven by TypeScript and ??? for Portfolio and Blogging Purposes.
-* [VueJS Local ECommerce](https://github.com/CodexLink/VueJS_ECommerce) — A work-in-progress open-sourced free-tracking-of-development progressive web app that involves bare-minimum store functionality. Created in Vue.JS with Quasar + Feathers.
+* [(codexlink.github.io) Personal Website](https://github.com/CodexLink/codexlink.github.io) — (*Subject to change.*) A (single-page-application | progressive-web-app) (*To be decided*) TypeScript-driven for Portfolio and Blogging Purposes.
+* [VueJS Local ECommerce](https://github.com/CodexLink/VueJS_ECommerce) — (*Currently Learning VueJS and Prepping Dependencies*) A certification work-in-progress single-page-application containing bare-minimum store functionalities both in Fronend and Backend that is enough to run in Local Environment. Powered Vue.JS with Quasar + Feathers.
 
-> Keep in mind that, I'm also learning the base technologies of these 3 projects. (Modern C++, NodeJS, React and Vue) Because why not?
+> Keep in mind that, I'm also learning the base technologies of these three projects. (Modern C++, NodeJS, React and Vue) Because I want to be pressured to be relevant.
 
 ### Technologies and Languages 👨‍💻
 
