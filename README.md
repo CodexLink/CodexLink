@@ -1,16 +1,16 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 
-I'm a 4th Year **Self-Taught** Computer Engineering Student in **Technological Institute of the Philippines**.
+I'm a **4th Year** Computer Engineering Student in **Technological Institute of the Philippines**. I'm currently in self-taught about Software Design and Patterns and Embedded Systems.
 
-I code for the **personal benefits**. I always go for detail over simplicity even though it's impractical-but-on-standards in terms of implementations, no matter what it is. I also like `DRY principles` and screw your easy-to-do mechanisms (on some circumstances).
+I code for the **personal benefits** and I always go for the detail over simplicity even though it's impractical-but-on-standards no matter what it is. I also like `DRY principles` and `documenting-in-detail`.
 
 ### Current Projects
 * [Win32ConsoleReminder](https://github.com/CodexLink/Win32ConsoleReminder) — (*Subject to change.*) An Asynchronous-Single-Threaded-PDCursed-WinRT Reminder App designed for Modern Windows OSes. (From Windows 8 to Windows 10)
 * [Personal Website](https://github.com/CodexLink/codexlink.github.io) — A Single Page Application driven by TypeScript and ??? for Portfolio and Blogging Purposes.
-* [VueJS ECommerce](https://github.com/CodexLink/VueJS_ECommerce) — A work-in-progress open-sourced free-tracking-of-development progressive web app that involves bare-minimum store functionality. Created in Vue.JS with Quasar + Feathers.
+* [VueJS Local ECommerce](https://github.com/CodexLink/VueJS_ECommerce) — A work-in-progress open-sourced free-tracking-of-development progressive web app that involves bare-minimum store functionality. Created in Vue.JS with Quasar + Feathers.
 
-> Keep in mind that, I'm also learning the base technologies of these 3 projects. (Modern C++, NodeJS, React and Vue) Why? Because why not?
+> Keep in mind that, I'm also learning the base technologies of these 3 projects. (Modern C++, NodeJS, React and Vue) Because why not?
 
 ### Technologies and Languages 👨‍💻
 
