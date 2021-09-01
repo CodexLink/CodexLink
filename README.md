@@ -42,7 +42,7 @@ I code for the **personal benefits** and I always go for the detail over simplic
         <img alt="VHDL" src="https://img.shields.io/badge/-VHDL-46A2F1?style=flat&logoColor=white"/>
     </td>
     <td>
-        <img alt="C++ (Modern)" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-&logo=c%2B%2B&logoColor=white"/>
+        <img alt="C++ (Modern)" src="https://img.shields.io/badge/-Modern C%2B%2B%20%2811%20to%2020%29-00599C?style=flat-&logo=c%2B%2B&logoColor=white"/>
         <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
         <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white&style=flat"/>
         <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853D?style=flat&logo=Node.JS&logoColor=white"/>
@@ -55,9 +55,11 @@ I code for the **personal benefits** and I always go for the detail over simplic
         <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
         <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat"/>
         <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat"/>
+        <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat"/>
         <img alt="Google Cloud" src="https://img.shields.io/badge/Goggle_Cloud-4285F4?logo=google%20cloud&logoColor=white&style=flat"/>
         <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
         <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat&logo=kubernetes&logoColor=white"/>
+        <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
         <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white"/>
     </td>
   </tr>
