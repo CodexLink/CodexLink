@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20NANAIRO%20STAGE%20by%20%E9%9B%BB%E9%9F%B3%E9%83%A8%3B%20YUC%27e%3B%20%E5%A4%A7%E8%B3%80%E3%83%AB%E3%82%AD%E3%82%A2%20%28CV%3A%20%E6%98%9F%E5%B7%9D%E3%82%B5%E3%83%A9%29%20%7C%200%3A03%3A13%20of%200%3A03%3A31?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20PUMP%20by%20YUC%27e%20%7C%200%3A00%3A38%20of%200%3A03%3A13?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a **4th Year** Computer Engineering Student in **Technological Institute of the Philippines**. I'm currently in self-taught about Software Design and Patterns and Embedded Systems.
 
