@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20TrafficLights.ino%3A%2026%3A3%20%2885%29%2C%209%20hours%2033%20minutes%20elapsed.?color=edca00&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Playing%20Game/Arduino%20Sketch%20IDE%2C%204%20hours%2057%20minutes%20elapsed.?color=61d800&labelColor=00cd90&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a **4th Year** Computer Engineering Student in **Technological Institute of the Philippines**. I'm currently in self-taught about Software Design and Patterns and Embedded Systems.
 
