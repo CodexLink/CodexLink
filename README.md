@@ -10,8 +10,9 @@ I code for the **personal benefits** and I always go for the detail over simplic
 * [(codexlink.github.io) Personal Website](https://github.com/CodexLink/codexlink.github.io) — (*Subject to change.*) A (single-page-application | progressive-web-app) (*To be decided*) TypeScript-driven for Portfolio and Blogging Purposes.
 * [VueJS Local ECommerce](https://github.com/CodexLink/VueJS_ECommerce) — (*Currently Learning VueJS and Prepping Dependencies*) A certification work-in-progress single-page-application containing bare-minimum store functionalities both in Fronend and Backend that is enough to run in Local Environment. Powered Vue.JS with Quasar + Feathers.
 
-> Keep in mind that, I'm also learning the base technologies of these three projects. (Modern C++, NodeJS, React and Vue) Because I want to be pressured to be relevant.
-
+> ℹ️ Keep in mind that, I'm also learning the base technologies of these three projects. (Modern C++, NodeJS, React and Vue) Because I want to be pressured to be relevant.
+> ⚠️ As I hit 4th Year, development of these projects will go extremely slow due to how I handle most of my projects in academics.
+> 
 ### Technologies and Languages 👨‍💻
 
 <div class="center">
