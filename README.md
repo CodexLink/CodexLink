@@ -85,7 +85,9 @@ I code for the **personal benefits** and I always go for the detail over simplic
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 03 October, 2021 - 09 October, 2021
+
+Text   3 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
