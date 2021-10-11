@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Online/sana%20al%20isko?color=61d800&labelColor=61d800&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Online/sana%20all%20isko%20na?color=61d800&labelColor=61d800&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a **4th Year** Computer Engineering Student in **Technological Institute of the Philippines**. I'm currently in self-taught about Software Design and Patterns and Embedded Systems.
 
