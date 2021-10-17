@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/osu%21%2C%20Busdriver%20-%20Imaginary%20Places%20%5BLKR%27s%20de_places%5D%2C%20?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20app.py%3A%2085%3A26%20%28131%29%2C%209%20hours%2014%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a **4th Year** Computer Engineering Student in **Technological Institute of the Philippines**. I'm currently in self-taught about Software Design and Patterns and Embedded Systems.
 
