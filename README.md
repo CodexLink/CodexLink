@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/osu%21%2C%20sabi%20-%20true%20DJ%20MAG%20top%20ranker%27s%20song%20Zenpen%20%28katagiri%20Remix%29%20%5BKEMOMIMI%20EDM%20SQUAD%5D%2C%20?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a **4th Year** Computer Engineering Student in **Technological Institute of the Philippines**. I'm currently in self-taught about Software Design and Patterns and Embedded Systems.
 
