@@ -14,6 +14,9 @@ I code for the **personal benefits** and I always go for the detail over simplic
 
 > ⚠️ As I hit **4th Year**, development of these projects will go extremely slow due to how I handle most of my projects in academics.
 
+### Configuration
+Neovim - <https://gist.github.com/CodexLink/c17f03b3c4ce8b4f0a472cacc571013a>
+
 ### Technologies and Languages 👨‍💻
 
 <div class="center">
@@ -39,7 +42,6 @@ I code for the **personal benefits** and I always go for the detail over simplic
         <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
         <img alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?style=flat&logo=git&logoColor=white"/>
         <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
-        <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white"/>
         <img alt="Python" src="https://img.shields.io/badge/-Python-33776AB?style=flat&logo=python&logoColor=white"/>
         <img alt="VHDL" src="https://img.shields.io/badge/-VHDL-46A2F1?style=flat&logoColor=white"/>
     </td>
