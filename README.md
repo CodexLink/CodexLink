@@ -90,7 +90,10 @@ Neovim - <https://gist.github.com/CodexLink/c17f03b3c4ce8b4f0a472cacc571013a>
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 05 December, 2021 - 11 December, 2021
+
+JavaScript   27 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀   94.73 % 
+Python       1 min           ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.60 % 
 ```
 <!--END_SECTION:waka-->
 
