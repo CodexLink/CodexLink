@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 
-I'm a **4th Year** Computer Engineering Student in **Technological Institute of the Philippines**. Currently teaching myself a **Blockchain Technology** and **Full-Stack Development**. I like to complicate things just for detail, specially in DRY principles.
+I'm a **4th Year** Computer Engineering Student in **Technological Institute of the Philippines**. Currently teaching myself in **Blockchain Technology** and **Full-Stack Development**. I like to complicate things just for detail, specially in DRY principles.
 
 ### Current Projects on Hold
 The following list are my projects that currently on hold, but is on focus whenever I start having free time again.
@@ -13,6 +13,7 @@ The following list are my projects that currently on hold, but is on focus whene
 * [???](https://github.com/CodexLink/) — ???
 * [???](https://github.com/CodexLink/) — ???
 
+### Progression Context 📊
 <div class="center">
 <table>
   <tr>
@@ -66,8 +67,6 @@ The following list are my projects that currently on hold, but is on focus whene
 </table>
 </div>
 
-### Statistics and Contribution 📊
-
 <table>
   <tr>
     <td>
@@ -79,7 +78,7 @@ The following list are my projects that currently on hold, but is on focus whene
   </tr>
 </table>
 
-#### Development Consumption Total Time In Week's Scale ⚖️
+### Development Consumption Total Time In Week's Scale ⚖️
 
 <!--START_SECTION:waka-->
 ```text
