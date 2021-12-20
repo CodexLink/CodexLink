@@ -1,24 +1,17 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 
-I'm a **4th Year** Computer Engineering Student in **Technological Institute of the Philippines**. I'm currently in self-taught about Software Design and Patterns and Embedded Systems.
+I'm a **4th Year** Computer Engineering Student in **Technological Institute of the Philippines**. Currently teaching myself a **Blockchain Technology** and **Full-Stack Development**. I like to complicate things just for detail, specially in DRY principles.
 
-I code for the **personal benefits** and I always go for the detail over simplicity even though it's impractical-but-on-standards no matter what it is. I also like `DRY principles` and `documenting-in-detail`.
+### Current Projects on Hold
+The following list are my projects that currently on hold, but is on focus whenever I start having free time again.
 
-### Current Projects ON HOLD
 * [Win32ConsoleReminder](https://github.com/CodexLink/Win32ConsoleReminder) — (*Subject to change.*) An Asynchronous-Single-Threaded-PDCursed-WinRT Reminder App designed for Modern Windows OSes. (From Windows 8 to Windows 10)
 * [(codexlink.github.io) Personal Website](https://github.com/CodexLink/codexlink.github.io) — (*Subject to change.*) A (single-page-application | progressive-web-app) (*To be decided*) TypeScript-driven for Portfolio and Blogging Purposes.
 * [VueJS Local ECommerce](https://github.com/CodexLink/VueJS_ECommerce) — (*Currently Learning VueJS and Prepping Dependencies*) A certification work-in-progress single-page-application containing bare-minimum store functionalities both in Fronend and Backend that is enough to run in Local Environment. Powered Vue.JS with Quasar + Feathers.
-
-> ⚠️ As I hit **4th Year**, development of these projects will go extremely slow due to how I handle most of my projects in academics.
-
-> ℹ️ Keep in mind that, I'm also learning the base technologies of these three projects. (Modern C++, NodeJS, React and Vue) Because I want to be pressured to be relevant.
-
-
-### Configuration
-Neovim - <https://gist.github.com/CodexLink/c17f03b3c4ce8b4f0a472cacc571013a>
-
-### Technologies and Languages 👨‍💻
+* [???](https://github.com/CodexLink/) — ???
+* [???](https://github.com/CodexLink/) — ???
+* [???](https://github.com/CodexLink/) — ???
 
 <div class="center">
 <table>
