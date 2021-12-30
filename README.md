@@ -82,7 +82,9 @@ The following list are my projects that currently on hold, but is on focus whene
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 23 December, 2021 - 29 December, 2021
+
+JSON   6 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
