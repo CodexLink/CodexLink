@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Online/5%20minutes%20to%20thesis?color=61d800&labelColor=61d800&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Online/finishing%20the%20problem%20...%20%2830m%29?color=61d800&labelColor=61d800&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a **4th Year** Computer Engineering Student in **Technological Institute of the Philippines**, currently teaching myself in **Blockchain Technology** and **Full-Stack Development**. I like to complicate things just for detail, specially when it comes to DRY principles.
 
