@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Do-Not-Disturb/habol%20sa%20mga%20deliverables.?color=fc4409&labelColor=fc4409&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Online/all%20nighter%20mode%2C%20activated.?color=61d800&labelColor=61d800&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a **4th Year** Computer Engineering Student in **Technological Institute of the Philippines**, currently teaching myself in **Blockchain Technology** and **Full-Stack Development**. I like to complicate things just for detail, specially when it comes to DRY principles.
 
