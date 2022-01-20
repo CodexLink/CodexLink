@@ -1,17 +1,10 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Idling%2C%2030%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Idling%2C%2021%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a **4th Year** Computer Engineering Student in **Technological Institute of the Philippines**, currently teaching myself in **Blockchain Technology** and **Full-Stack Development**. I like to complicate things just for detail, specially when it comes to DRY principles.
 
 ### Current Projects on Hold
-The following list are my projects that currently on hold, but is on focus whenever I start having free time again.
-
-* [Win32ConsoleReminder](https://github.com/CodexLink/Win32ConsoleReminder) — (*Subject to change.*) An Asynchronous-Single-Threaded-PDCursed-WinRT Reminder App designed for Modern Windows OSes. (From Windows 8 to Windows 10)
-* [(codexlink.github.io) Personal Website](https://github.com/CodexLink/codexlink.github.io) — (*Subject to change.*) A (single-page-application | progressive-web-app) (*To be decided*) TypeScript-driven for Portfolio and Blogging Purposes.
-* [VueJS Local ECommerce](https://github.com/CodexLink/VueJS_ECommerce) — (*Currently Learning VueJS and Prepping Dependencies*) A certification work-in-progress single-page-application containing bare-minimum store functionalities both in Fronend and Backend that is enough to run in Local Environment. Powered Vue.JS with Quasar + Feathers.
-* [???](https://github.com/CodexLink/) — ???
-* [???](https://github.com/CodexLink/) — ???
-* [???](https://github.com/CodexLink/) — ???
+There is none as of now. I'm currently focusing on blockchain-based project.
 
 ### Progression Context 📊
 <div class="center">
@@ -43,25 +36,26 @@ The following list are my projects that currently on hold, but is on focus whene
         <img alt="VHDL" src="https://img.shields.io/badge/-VHDL-46A2F1?style=flat&logoColor=white"/>
     </td>
     <td>
-        <img alt="C++ (Modern)" src="https://img.shields.io/badge/-Modern%20C%2B%2B%20%2811%20to%2020%29-00599C?style=flat-&logo=c%2B%2B&logoColor=white"/>
-        <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
+        <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain%20Technology-121D33?logo=blockchain.com&logoColor=white&style=flat"/>
         <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white&style=flat"/>
         <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853D?style=flat&logo=Node.JS&logoColor=white"/>
         <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
-        <img alt="Quasar" src="https://img.shields.io/badge/Quasar-1976E2?logo=quasar&logoColor=white&style=flat"/>
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
-        <img alt="Vue.JS" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
     </td>
     <td>
+        <img alt="C++ (Modern)" src="https://img.shields.io/badge/-Modern%20C%2B%2B%20%2811%20to%2020%29-00599C?style=flat-&logo=c%2B%2B&logoColor=white"/>
         <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
         <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat"/>
         <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat"/>
         <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat"/>
         <img alt="Google Cloud" src="https://img.shields.io/badge/Goggle_Cloud-4285F4?logo=google%20cloud&logoColor=white&style=flat"/>
+        <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
         <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
         <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat&logo=kubernetes&logoColor=white"/>
+        <img alt="Quasar" src="https://img.shields.io/badge/Quasar-1976E2?logo=quasar&logoColor=white&style=flat"/>
         <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
         <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white"/>
+        <img alt="Vue.JS" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
     </td>
   </tr>
 </table>
