@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20SCRIPT_FINAL_DEFENSE_2ND_ROUND_UPDATED_01252022.txt%3A%204%3A24%20%28139%29%2C%202%20hours%204%20minutes%20elapsed.?color=fc4409&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20SCRIPT_FINAL_DEFENSE_2ND_ROUND_UPDATED_01252022.txt%3A%204%3A24%20%28139%29%2C%202%20hours%2013%20minutes%20elapsed.?color=fc4409&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a **4th Year** Computer Engineering Student in **Technological Institute of the Philippines**, currently teaching myself in **Blockchain Technology** and **Full-Stack Development**. I like to complicate things just for detail, specially when it comes to DRY principles.
 
