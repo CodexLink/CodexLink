@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Neovim%2C%20Working%20on%20folioblocks-web-mobile-proto%2C%202%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Neovim%2C%20Working%20on%20folioblocks-web-mobile-proto%2C%2029%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a **4th Year** Computer Engineering Student in **Technological Institute of the Philippines**, currently teaching myself in **Blockchain Technology** and **Full-Stack Development**. I like to complicate things just for detail, specially when it comes to DRY principles.
 
