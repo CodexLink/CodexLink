@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20database.py%3A%2048%3A54%20%2849%29%2C%2011%20hours%2039%20minutes%20elapsed.?color=edca00&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20database.py%3A%2048%3A54%20%2849%29%2C%2011%20hours%2048%20minutes%20elapsed.?color=edca00&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a **4th Year** (Graduating) Computer Engineering Student in **Technological Institute of the Philippines**. I'm currently on passive interests on taking **Blockchain Technology** and **Full-Stack Development**.
 
