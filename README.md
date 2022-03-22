@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/osu%21%2C%20goreshit%20-%20MATZcore%20%5BLolicore%5D%2C%20?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a **4th Year** (Graduating) Computer Engineering Student in **Technological Institute of the Philippines**.
 ### Progression 📊
