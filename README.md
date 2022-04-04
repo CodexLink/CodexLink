@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 
-I'm a **4th Year** (Graduating) Computer Engineering Student in **Technological Institute of the Philippines**.
+I'm a Python Developer and a **4th Year** Computer Engineering Student in **Technological Institute of the Philippines**.
 ### Progression 📊
 <div class="center">
 <table>
