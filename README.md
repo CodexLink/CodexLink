@@ -1,7 +1,9 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
+#### (Future[Any]) | Union[Engineer, Union[Developer, Programmer]]
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20constants.py%3A%20386%3A5%20%28425%29%2C%2053%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 
-I'm a Python Developer and a **4th Year** Computer Engineering Student in **Technological Institute of the Philippines**.
+I'm a Python Developer focusing on Backend Implementation. Also, I'm a **4th Year** Computer Engineering Student at **Technological Institute of the Philippines**.
+
 ### Progression 📊
 <div class="center">
 <table>
@@ -21,7 +23,7 @@ I'm a Python Developer and a **4th Year** Computer Engineering Student in **Tech
   </tr>
   <tr>
     <td>
-      <img alt="Kotlin (Pre-Mature)" src="https://img.shields.io/badge/-Kotlin%20%28Pre%20Mature%29-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+      <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin%20%28Pre%20Mature%29-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
       <img alt="VHDL" src="https://img.shields.io/badge/-VHDL-46A2F1?style=flat&logoColor=white"/>
     </td>
     <td>
@@ -30,14 +32,18 @@ I'm a Python Developer and a **4th Year** Computer Engineering Student in **Tech
         <img alt="Discord.py" src="https://img.shields.io/badge/-Discord.py-7289DA?style=flat&logo=discord&logoColor=white"/>
         <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
         <img alt="Docker" src="https://img.shields.io/badge/-Docker-46A2F1?style=flat&logo=docker&logoColor=white"/>
+        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat"/>
         <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
         <img alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?style=flat&logo=git&logoColor=white"/>
+        <img alt="Google Analytics" src="https://img.shields.io/badge/-Google Analytics-E37400?style=flat&logo=google-analytics&logoColor=white"/>
         <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins%20%28Pre%20Mature%29-D24939?style=flat&logo=jenkins&logoColor=white"/>  
         <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
         <img alt="Python" src="https://img.shields.io/badge/-Python-33776AB?style=flat&logo=python&logoColor=white"/>
+        <img alt="Sentry.io" src="https://img.shields.io/badge/-Sentry.io-362D59?style=flat&logo=sentry&logoColor=white"/>
     </td>
     <td>
         <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat"/>
+        <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853D?style=flat&logo=Node.JS&logoColor=white"/>
         <img alt="Vue.JS" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
         <img alt="Quasar" src="https://img.shields.io/badge/Quasar-1976E2?logo=quasar&logoColor=white&style=flat"/>
         <img alt="TypeScript?" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
@@ -49,8 +55,7 @@ I'm a Python Developer and a **4th Year** Computer Engineering Student in **Tech
         <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
         <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
         <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat&logo=kubernetes&logoColor=white"/>
-        <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white&style=flat"/>
-        <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853D?style=flat&logo=Node.JS&logoColor=white"/>
+        <img alt="MUI" src="https://img.shields.io/badge/MUI-0081CB?logo=material-ui&logoColor=white&style=flat"/>
         <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
         <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
         <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white"/>
