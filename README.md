@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
 #### (Future[Any]) | Union[Engineer, Union[Developer, Programmer]]
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20schemas.jsonc%3A%2088%3A2%20%28110%29%2C%204%20hours%2014%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20constants.py%3A%20399%3A45%20%28440%29%2C%204%20hours%2048%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a Python Developer focusing on Backend Implementation. Also, I'm a **4th Year** Computer Engineering Student at **Technological Institute of the Philippines**.
 
