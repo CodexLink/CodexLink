@@ -1,4 +1,7 @@
 ## 👋 Hello! I'm Janrey `CodexLink` Licas
+
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20blockchain.py%3A%20411%3A1%20%28998%29%2C%201%20hours%207%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+
 ```py
 from typing import Any, Final, Literal
 from asyncio import create_task, Future, get_event_loop, wait
@@ -22,7 +25,6 @@ async def my_future() -> Any:
 loop = get_event_loop()
 loop.run_until_complete(my_future())
 ```
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20blockchain.py%3A%20411%3A1%20%28998%29%2C%201%20hours%207%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 I'm a Python Developer focusing on Backend Implementation. Also, I'm a **4th Year** Computer Engineering Student at **Technological Institute of the Philippines**.
 
