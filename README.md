@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey "`CodexLink`" Licas
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20main.py%3A%20164%3A1%20%28356%29%2C%204%20hours%2029%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20main.py%3A%20164%3A1%20%28356%29%2C%204%20hours%2042%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 ```py
 from typing import Any, Final, Literal
