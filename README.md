@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey "`CodexLink`" Licas
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20EntryForm.vue%3A%20474%3A56%20%28804%29%2C%202%20hours%2012%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20%E9%8A%80%E6%B2%B3%E7%B3%BB%E3%81%8B%E3%82%89%E5%BE%92%E6%AD%A95%E5%88%86%E4%BB%A5%E5%86%85%E3%81%A6%E3%82%99%20by%20LamazeP%20%7C%200%3A03%3A51%20of%200%3A04%3A08?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
 ```py
