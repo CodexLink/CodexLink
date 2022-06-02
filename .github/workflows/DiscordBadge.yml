@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Container Execution
-        uses: CodexLink/discord-rich-presence-activity-badge@latest
+        uses: CodexLink/discord-rich-presence-activity-badge@v1.0
         with:
           DISCORD_USER_ID: ${{ secrets.DISCORD_USER_ID }}
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
