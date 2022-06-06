@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Playing%20Game/Honkai%20Impact%203%2C%203%20hours%209%20minutes%20elapsed.?color=edca00&labelColor=00cd90&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Playing%20Game/Honkai%20Impact%203%2C%203%20hours%2022%20minutes%20elapsed.?color=edca00&labelColor=00cd90&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 ## 👋 Hello! I'm Janrey "`CodexLink`" Licas
 
