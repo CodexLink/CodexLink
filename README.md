@@ -1,5 +1,7 @@
 ## 👋 Hello! I'm Janrey "`CodexLink`" Licas
 
+I'm a Python Developer that mostly focuses on implementing something in the Backend. Though I can do Full-Stack (**In-Progress of Learning in terms of Web Dev.**) as well. I'm (Currently Graduating, but in the edge of 50-50) **4th Year** Computer Engineering Student at **Technological Institute of the Philippines**.
+
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
@@ -26,8 +28,6 @@ async def my_future() -> Any:
 loop = get_event_loop()
 loop.run_until_complete(my_future())
 ```
-
-I'm a Python Developer focusing on Backend Implementation. Also, I'm a **4th Year** Computer Engineering Student at **Technological Institute of the Philippines**.
 
 ### Progression 📊
 <div class="center">
@@ -64,14 +64,16 @@ I'm a Python Developer focusing on Backend Implementation. Also, I'm a **4th Yea
         <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins%20%28Pre%20Mature%29-D24939?style=flat&logo=jenkins&logoColor=white"/>  
         <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
         <img alt="Python" src="https://img.shields.io/badge/-Python-33776AB?style=flat&logo=python&logoColor=white"/>
+        <img alt="Quasar%20%28Pre%20Mature%29" src="https://img.shields.io/badge/Quasar-1976E2?logo=quasar&logoColor=white&style=flat"/>
         <img alt="Sentry.io" src="https://img.shields.io/badge/-Sentry.io-362D59?style=flat&logo=sentry&logoColor=white"/>
+        <img alt="Vue.JS%20%28Pre%20Mature%29" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
     </td>
     <td>
-        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat"/>
         <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853D?style=flat&logo=Node.JS&logoColor=white"/>
-        <img alt="Vue.JS" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
-        <img alt="Quasar" src="https://img.shields.io/badge/Quasar-1976E2?logo=quasar&logoColor=white&style=flat"/>
-        <img alt="TypeScript?" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
+        <img alt="MUI" src="https://img.shields.io/badge/MUI-0081CB?logo=material-ui&logoColor=white&style=flat"/>
+        <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
+        <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
     </td>
     <td>
         <img alt="C++ (Modern)" src="https://img.shields.io/badge/-Modern%20C%2B%2B%20%2811%20to%2020%29-00599C?style=flat-&logo=c%2B%2B&logoColor=white"/>
@@ -80,9 +82,6 @@ I'm a Python Developer focusing on Backend Implementation. Also, I'm a **4th Yea
         <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
         <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
         <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat&logo=kubernetes&logoColor=white"/>
-        <img alt="MUI" src="https://img.shields.io/badge/MUI-0081CB?logo=material-ui&logoColor=white&style=flat"/>
-        <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
-        <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
         <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white"/>
     </td>
   </tr>
