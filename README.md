@@ -2,7 +2,7 @@
 
 I'm a Python Developer that mostly focuses on implementing something in the Backend. Though I can do Full-Stack (**In-Progress of Learning in terms of Web Dev.**) as well. I'm (Currently Graduating, but in the edge of 50-50) **4th Year** Computer Engineering Student at **Technological Institute of the Philippines**.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Online/Still%20figuring%20out%20what%20I%20want%20to%20do%20in%20my%20life.?color=61d800&labelColor=61d800&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
 ```py
