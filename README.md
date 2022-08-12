@@ -5,7 +5,7 @@ I'm a Python Developer that mostly focuses on implementing something in the Back
 ## Notice
 (**_I'm currently in the state of refreshing my development workflow (ie. converting from VSCode to nvim) before I start my development and refactoring my repository. Please understand, thank you._**)
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Online/development%20will%20start%20next%20week%2C%20I%20think?color=61d800&labelColor=61d800&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
 ## 
