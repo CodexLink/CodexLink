@@ -1,39 +1,29 @@
 ## 👋 Hello! I'm Janrey "`CodexLink`" Licas
 
-I'm a Python Developer that mostly focuses on implementing something in the Backend. Though I can do Full-Stack (**In-Progress of Learning in terms of Web Dev.**) as well. I'm (Currently Graduating, but in the edge of 50-50) **4th Year** Computer Engineering Student at **Technological Institute of the Philippines**.
+I'm a guy who (mainly) devs in **Python** _accidentally_ due to the coping dream of (their) demands of producing data scientists, but failed to do so. I **over-detail** my craft as possible (_because I like to put myself in danger, and its also fun_), and I **over-complicate** solutions for the sake of compatibility and other words that describes easeness, leaning more towards extensibility and reusability.
 
-## Notice
-(**_I'm currently in the state of refreshing my development workflow (ie. converting from VSCode to nvim) before I start my development and refactoring my repository. Please understand, thank you._**)
+As a near-graduate, I was open to pursuing `Full-Stack Web Developer` but as of now, I current rest my case under the **Backend** Technologies 'department'.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Neovim%2C%20At%20Line%2027%20out%20of%20135%2C%2025%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Just%20started.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
-## 
-```py
-from typing import Any, Final, Literal
-from asyncio import create_task, Future, get_event_loop, wait
-from me.interest import my_future
+<hr />
 
-async def my_future() -> Any:
-  _work , _ : = await wait(
-    {
-      create_task(
-        resolve_interest(Future[Any] | (
-          Literal["Engineer"] | (
-            Literal["Developer"] | Literal["Programmer"]
-          )
-        ), name="My Future Role"
-      )
-    }
-  )
+### :thinking: What am I doing right now? (As of 08/19/2022)
+:arrow_forward: Currently designing an `oh-my-posh` theme named as [chips.omp.json](https://github.com/CodexLink/chips.omp.json) — A Non-Compliant-Inspired Oh-My-Posh Theme from the Material Design Component: Chips.
 
-  return _work.result() # ???
-  
-loop = get_event_loop()
-loop.run_until_complete(my_future())
-```
+:tada: I'm currently (planning on) revising my dev environment by ditching `VSCode` by using `nvim` instead. Progression was relatively slowed due to active reporting on [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) repository.
 
-### Progression 📊
+:white_check_mark: Finished (_was recently working_) on a `.TTC` custom-baked [Iosevka](https://github.com/be5invis/Iosevka) Font with [Nerd](https://github.com/ryanoasis/nerd-fonts) Fonts containing necessary glyphs due to the limitation on 65,535 space (count includes font variants.
+
+:pause_button: Attempting to create a fix for the 3rd bullet note, [that targets this branch, which contains `.ttc` build feature](https://github.com/ryanoasis/nerd-fonts/tree/feature/process-ttc) by calculating estimated space used and by halting users that exceeds `OpenType` font 65,535 limitations.
+
+### :scroll: Recent Activity Updates (by Commits)
+- None as of now.
+
+<hr />
+
+### :bar_chart: Experience and Progression
 <div class="center">
 <table>
   <tr>
@@ -103,7 +93,7 @@ loop.run_until_complete(my_future())
   </tr>
 </table>
 
-### Development Consumption Time In Week's Scale ⚖️
+### :balance_scale: Development Consumption Time In Week's Scale
 
 <!--START_SECTION:waka-->
 
