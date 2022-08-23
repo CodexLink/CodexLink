@@ -4,7 +4,7 @@ I'm a guy who (mainly) devs in **Python** _accidentally_ due to the coping dream
 
 As a near-graduate, I was open to pursuing `Full-Stack Web Developer` but as of now, I currently rest my case under the **Backend** Technologies 'department'.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/osu%21%2C%20Camellia%20feat.%20Nanahira%20-%20Kizuitara%20Shunkashuutou%20%28Leaf%29%20%5BSeasons%5D%2C%20?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/osu%21%2C%20Various%20Artists%20-%20Stream%20Practice%20Maps%202%20%28NewRulerNA%29%20%5Bperditus%20paradisus%20BPM172%5D%2C%20?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
 <hr />
