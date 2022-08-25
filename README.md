@@ -4,22 +4,19 @@ I'm a guy who (mainly) devs in **Python** _accidentally_ due to the coping dream
 
 As a near-graduate, I was open to pursuing `Full-Stack Web Developer` but as of now, I currently rest my case under the **Backend** Technologies 'department'.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Neovim%2C%20At%20Line%20108%20out%20of%20230%2C%206%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
 <hr />
 
-### :thinking: What am I doing right now? (As of 08/19/2022)
-* :arrow_forward: Currently designing an `oh-my-posh` theme named as [chips.omp.json](https://github.com/CodexLink/chips.omp.json) — A Non-Compliant-Inspired Oh-My-Posh Theme from the Material Design Component: Chips.
+### :thinking: What am I doing right now? (As of 08/26/2022)
+* :white_check_mark: Currently finalizing (by evaluating conditions) an `oh-my-posh` theme named as [chips.omp.json](https://github.com/CodexLink/chips.omp.json) — A Non-Compliant-Inspired Oh-My-Posh Theme from the Material Design Component: Chips.
 
-* :tada: I'm currently (planning on) revising my dev environment by ditching `VSCode` by using `nvim` instead. Progression was relatively slowed due to active reporting on [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) repository.
+* :tada: I'm currently on my way to reconfiguring `nvim` with the migration to `lua` for my configuration.
 
-* :white_check_mark: Finished (_was recently working_) on a `.TTC` custom-baked [Iosevka](https://github.com/be5invis/Iosevka) Font with [Nerd](https://github.com/ryanoasis/nerd-fonts) Fonts containing necessary glyphs due to the limitation on 65,535 space (count includes font variants.
+* :pause_button: Next on queue to work with was to create a fix for the 3rd bullet note, [that targets this branch, which contains `.ttc` build feature](https://github.com/ryanoasis/nerd-fonts/tree/feature/process-ttc) by calculating estimated space used and by halting users that exceeds `OpenType` font 65,535 limitations.
 
-* :pause_button: Attempting to create a fix for the 3rd bullet note, [that targets this branch, which contains `.ttc` build feature](https://github.com/ryanoasis/nerd-fonts/tree/feature/process-ttc) by calculating estimated space used and by halting users that exceeds `OpenType` font 65,535 limitations.
-
-### :scroll: Recent Activity Updates (by Commits)
-- None as of now.
+* :pause_button: [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) revival refactor plan will start in a week after nvim reconfiguration!
 
 <hr />
 
