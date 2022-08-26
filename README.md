@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey "`CodexLink`" Licas
 
-I'm a guy who (mainly) devs in **Python** _accidentally_ due to the coping dream of (their) demands of producing data scientists, but failed to do so. I **over-detail** my craft as possible (_because I like to put myself in danger, and its also fun_), and I **over-complicate** solutions for the sake of compatibility and other words that describes easeness, ***leaning more towards extensibility and reusability***.
+I'm a guy who (mainly) devs in **Python** _accidentally_ due to the coping dream of (their) demands of producing data scientists, but failed. I **over-detail** my craft as possible (_because I like to put myself in danger, and its also fun_), and I **over-complicate** solutions for the sake of compatibility and other words that describes easeness, ***leaning more towards extensibility and reusability***.
 
 As a near-graduate, I was open to pursuing `Full-Stack Web Developer` but as of now, I currently rest my case under the **Backend** Technologies 'department'.
 
@@ -20,15 +20,18 @@ As a near-graduate, I was open to pursuing `Full-Stack Web Developer` but as of 
 
 <hr />
 
-### :bar_chart: Experience and Progression
+### :bar_chart: Knowledge Table
+
+This table contains what I currently 
+
 <div class="center">
 <table>
   <tr>
     <td>
-      <b>Past Experience (Deprecated)</b>
+      <b>Discontinued / Knowledge Degraded</b>
     </td>
     <td>
-      <b>Has Knowledge On</b>
+      <b>Knowledge Retained (Considers Minimum-Required)</b>
     </td>
     <td>
       <b>Currently Learning</b>
@@ -40,6 +43,8 @@ As a near-graduate, I was open to pursuing `Full-Stack Web Developer` but as of 
   <tr>
     <td>
       <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin%20%28Pre%20Mature%29-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+      <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
+      <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins%20%28Pre%20Mature%29-D24939?style=flat&logo=jenkins&logoColor=white"/>
       <img alt="VHDL" src="https://img.shields.io/badge/-VHDL-46A2F1?style=flat&logoColor=white"/>
     </td>
     <td>
@@ -52,28 +57,27 @@ As a near-graduate, I was open to pursuing `Full-Stack Web Developer` but as of 
         <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
         <img alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?style=flat&logo=git&logoColor=white"/>
         <img alt="Google Analytics" src="https://img.shields.io/badge/-Google Analytics-E37400?style=flat&logo=google-analytics&logoColor=white"/>
-        <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins%20%28Pre%20Mature%29-D24939?style=flat&logo=jenkins&logoColor=white"/>  
-        <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
+        <img alt="Powershell" src="https://img.shields.io/badge/Powershell-5391FE?logo=powershell&logoColor=white&style=flat"/>
         <img alt="Python" src="https://img.shields.io/badge/-Python-33776AB?style=flat&logo=python&logoColor=white"/>
         <img alt="Quasar%20%28Pre%20Mature%29" src="https://img.shields.io/badge/Quasar-1976E2?logo=quasar&logoColor=white&style=flat"/>
         <img alt="Sentry.io" src="https://img.shields.io/badge/-Sentry.io-362D59?style=flat&logo=sentry&logoColor=white"/>
         <img alt="Vue.JS%20%28Pre%20Mature%29" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
     </td>
     <td>
+        <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat"/>
+        <img alt="Powershell" src="https://img.shields.io/badge/Powershell-5391FE?logo=powershell&logoColor=white&style=flat"/>
+    </td>
+    <td>
+        <img alt="C++ (Modern)" src="https://img.shields.io/badge/-Modern%20C%2B%2B-00599C?style=flat-&logo=c%2B%2B&logoColor=white"/>
+        <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
+        <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat"/>
+        <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=flat"/>
         <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853D?style=flat&logo=Node.JS&logoColor=white"/>
-        <img alt="MUI" src="https://img.shields.io/badge/MUI-0081CB?logo=material-ui&logoColor=white&style=flat"/>
+        <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
+        <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat&logo=kubernetes&logoColor=white"/>
         <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
         <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
-    </td>
-    <td>
-        <img alt="C++ (Modern)" src="https://img.shields.io/badge/-Modern%20C%2B%2B%20%2811%20to%2020%29-00599C?style=flat-&logo=c%2B%2B&logoColor=white"/>
-        <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
-        <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat"/>
-        <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
-        <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
-        <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat&logo=kubernetes&logoColor=white"/>
-        <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white"/>
     </td>
   </tr>
 </table>
