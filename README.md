@@ -4,7 +4,7 @@ I'm a guy who (mainly) devs in **Python** _accidentally_ due to the coping dream
 
 As a near-graduate, I was open to pursuing `Full-Stack Web Developer` but as of now, I currently rest my case under the **Backend** Technologies 'department'.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Neovim%2C%20At%20Line%2048%20out%20of%20123%2C%202%20hours%2056%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Neovim%2C%20At%20Line%2048%20out%20of%20123%2C%203%20hours%206%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
 <hr />
