@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey "`CodexLink`" Licas
 
-I'm a guy who (mainly) devs in **Python** _accidentally_ due to the coping dream of (their) demands of producing data scientists, but failed. I **over-detail** my craft as possible (_because I like to put myself in danger, and its also fun_), and I **over-complicate** solutions for the sake of compatibility and other words that describes easeness, ***leaning more towards extensibility and reusability***.
+A guy who (mainly) devs in **Python** _accidentally_ due to the coping dream of (their) demands of producing data scientists, but failed. I **over-detail** my craft as possible (_because I like to put myself in danger, and its also fun_), and I **over-complicate** solutions for the sake of compatibility and other words that describes easeness, ***leaning more towards extensibility and reusability***.
 
 As a near-graduate, I was open to pursuing `Full-Stack Web Developer` but as of now, I currently rest my case under the **Backend** Technologies 'department'.
 
@@ -9,14 +9,15 @@ As a near-graduate, I was open to pursuing `Full-Stack Web Developer` but as of 
 
 <hr />
 
-### :thinking: What am I doing right now? (As of 08/26/2022)
-* :white_check_mark: Currently finalizing (by evaluating conditions) an `oh-my-posh` theme named as [chips.omp.json](https://github.com/CodexLink/chips.omp.json) — A Non-Compliant-Inspired Oh-My-Posh Theme from the Material Design Component: Chips.
+### :thinking: What am I doing right now? (As of 08/31/2022)
 
-* :tada: I'm currently on my way to reconfiguring `nvim` with the migration to `lua` for my configuration.
+* :heavy_exclamation_mark: Reconfiguring `nvim` with `lua` finally this time.
 
 * :pause_button: Next on queue to work with was to create a fix for the 3rd bullet note, [that targets this branch, which contains `.ttc` build feature](https://github.com/ryanoasis/nerd-fonts/tree/feature/process-ttc) by calculating estimated space used and by halting users that exceeds `OpenType` font 65,535 limitations.
 
 * :pause_button: [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) revival refactor plan will start in a week after nvim reconfiguration!
+
+> My work is currently slow due to dire need of assessing my requirements for graduation.
 
 <hr />
 
