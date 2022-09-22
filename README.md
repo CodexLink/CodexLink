@@ -100,9 +100,7 @@ This table contains what I currently
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 September 2022 - To: 20 September 2022
-
-Other      18 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.57 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
