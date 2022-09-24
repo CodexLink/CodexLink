@@ -1,15 +1,15 @@
 ## 👋 Hello! I'm Janrey "`CodexLink`" Licas
 
-A guy who (mainly) devs in **Python** _accidentally_ due to the coping dream of (their) demands of producing data scientists, but failed. I **over-detail** my craft as possible (_because I like to put myself in danger, and its also fun_), and I **over-complicate** solutions for the sake of compatibility and other words that describes easeness, ***leaning more towards extensibility and reusability***.
+Python-based, Caffeine-Dependent Backend Developer. Full Stack Developer in practice (_currently commencing_). 
 
-As a near-graduate, I was open to pursuing `Full-Stack Web Developer` but as of now, I currently rest my case under the **Backend** Technologies 'department'.
+I like to **over-detail** my craft, **over-complicate** my solutions for the sake of compatibility over simplicity, ***leaning more towards extensibility and reusability***.
 
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
 <hr />
 
-### :thinking: What am I doing right now? (As of 08/31/2022)
+### :thinking: What am I doing right now? (As of 08/31/2022, stuck since a month ago, as of 09/25/2022)
 
 * :heavy_exclamation_mark: Reconfiguring `nvim` with `lua` finally this time.
 
@@ -17,7 +17,7 @@ As a near-graduate, I was open to pursuing `Full-Stack Web Developer` but as of 
 
 * :pause_button: [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) revival refactor plan will start in a week after nvim reconfiguration!
 
-> My work is currently slow due to dire need of assessing my requirements for graduation.
+> I'm currently re-evaluating my life roadmap until endgame, after that, I will resume public activities.
 
 <hr />
 
