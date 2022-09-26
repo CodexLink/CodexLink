@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey "`CodexLink`" Licas
 
-Python-based, Caffeine-Dependent Backend Developer. Full Stack Developer in practice (_currently commencing_). 
+Python-based, Caffeine-Dependent, and Computer Engineering Graduate **Backend Developer**. I can also do Full Stack, but still in practice (_currently commencing_). 
 
 I like to **over-detail** my craft, **over-complicate** my solutions for the sake of compatibility over simplicity, ***leaning more towards extensibility and reusability***.
 
