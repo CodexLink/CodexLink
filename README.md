@@ -4,7 +4,7 @@ Python-based, Caffeine-Dependent, and Computer Engineering Graduate (_specializi
 
 I like to **over-detail** my craft, **over-complicate** my solutions for the sake of compatibility over simplicity, ***leaning more towards extensibility and reusability***.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Playing%20Game/Honkai%20Impact%203%2C%2026%20minutes%20elapsed.?color=61d800&labelColor=00cd90&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
 <hr />
