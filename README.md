@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey "`CodexLink`" Licas
 
-Python-based, Caffeine-Dependent, and Computer Engineering Graduate (_specializing in **Intelligent Systems / Embedded Systems**_) **Backend Developer**. I can also do Full Stack, but still in practice (_currently commencing_). 
+Python-based, Caffeine-dependent, and Computer Engineering Graduate (_specializing in **Intelligent Systems / Embedded Systems**_) **Backend Developer**. I can also do Full-Stack (recently with Python), but currently attempting to practice with TypeScript, React and maybe later on, Vue.js. (_currently commencing_). 
 
 I like to **over-detail** my craft, **over-complicate** my solutions for the sake of compatibility over simplicity, ***leaning more towards extensibility and reusability***.
 
@@ -9,21 +9,35 @@ I like to **over-detail** my craft, **over-complicate** my solutions for the sak
 
 <hr />
 
-### :thinking: What am I doing right now? (As of 08/31/2022, stuck since a month ago, as of 09/25/2022)
+### Current State
 
-* :heavy_exclamation_mark: Reconfiguring `nvim` with `lua` finally this time.
+Despite already graduated, I'm currently doing volunteer work with JuanLoop ([Facebook Page](https://www.facebook.com/itsJuanLoop) | [Site](https://www.itsjuanloop.com/)) as a **Software Engineer** for the sake of building my foundation while attempting to work at my personal site with portfolio (_repo privated for now_).
 
-* :pause_button: Next on queue to work with was to create a fix for the 3rd bullet note, [that targets this branch, which contains `.ttc` build feature](https://github.com/ryanoasis/nerd-fonts/tree/feature/process-ttc) by calculating estimated space used and by halting users that exceeds `OpenType` font 65,535 limitations.
+My current role is **Backend Developer** that handles CI, error reports, analytics integration, AWS services and much more. Technically involved in the Full-Stack work but my main focus is the backend part. I recently handled Frontend but only with the function integration part.
+
+### Preferences
+
+I work all-around with the developments that I have, thus having no decision on what area of expertise I should work on; but usually I like to do some integration stuff than doing and handling everything for such one project. Design is not something I can do _extensively_, but I can design.
+
+If you have something you want me to work on, please let me know! (_through my email on the side_)
+
+<hr />
+
+### :thinking: What am I doing right now?
+
+* :arrow_forward: Reconfiguring `nvim` with `lua` finally this time. (As of 08/31/2022, **IN-PROGRESS**)
+
+* :pause_button: Next on queue to work with was to create a fix for the 3rd bullet note, [that targets this branch, which contains `.ttc` build feature](https://github.com/ryanoasis/nerd-fonts/tree/feature/process-ttc) by calculating estimated space used and by halting users that exceeds `OpenType` font 65,535 limitations. (As of 08/31/2022)
 
 * :pause_button: [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) revival refactor plan will start in a week after nvim reconfiguration!
 
-> I'm currently re-evaluating my life roadmap until endgame, after that, I will resume public activities.
+> I'm currently re-evaluating my life roadmap until endgame as well as doing volunteer work with JuanLoop, so things are expected to move slower.
 
 <hr />
 
 ### :bar_chart: Knowledge Table
 
-This table contains what I currently 
+This table contains technology stacks and frameworks that I recently discontinued to learn/used (but has recent experience with them), currently learning, and to-be-planned or on the phase of on-halt due to time conflicts.
 
 <div class="center">
 <table>
