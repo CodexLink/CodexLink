@@ -31,6 +31,8 @@ If you have something you want me to work on, please let me know! (_through my e
 
 * :pause_button: [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) revival refactor plan will start in a week after nvim reconfiguration!
 
+* :bangbang: Currently evaluating all of the repositories that I have (_demo then refactor then demo_), plus, thinking of ideas that I can do while learning TypeScript and Node.js as part of creating a portfolio.
+
 > I'm currently re-evaluating my life roadmap until endgame as well as doing volunteer work with JuanLoop, so things are expected to move slower.
 
 <hr />
