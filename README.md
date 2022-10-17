@@ -25,11 +25,11 @@ If you have something you want me to work on, please let me know! (_through my e
 
 ### :thinking: What am I doing right now?
 
-* :arrow_forward: Reconfiguring `nvim` with `lua` finally this time. (As of 08/31/2022, **IN-PROGRESS**)
+* :arrow_forward: Create a workaround for nerd-fonts' TTC feature, ([which was this PR](https://github.com/ryanoasis/nerd-fonts/pull/783) by calculating estimated space used which may halt users that exceeds `OpenType` font 65,535 limitations. (Enqueued in 10/18/2022, **IN-PROGRESS**)
 
-* :pause_button: Next on queue to work with was to create a fix for the 3rd bullet note, [that targets this branch, which contains `.ttc` build feature](https://github.com/ryanoasis/nerd-fonts/tree/feature/process-ttc) by calculating estimated space used and by halting users that exceeds `OpenType` font 65,535 limitations. (As of 08/31/2022)
+* :arrow_forward: Reconfiguring `nvim` with `lua` finally this time. (Re-queued in 10/18/2022, **IN-PROGRESS**)
 
-* :pause_button: [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) revival refactor plan will start in a week after nvim reconfiguration!
+* :pause_button: [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) revival refactor plan will start after nvim reconfiguration!
 
 * :bangbang: Currently evaluating all of the repositories that I have (_demo then refactor then demo_), plus, thinking of ideas that I can do while learning TypeScript and Node.js as part of creating a portfolio.
 
