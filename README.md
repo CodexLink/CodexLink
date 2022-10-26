@@ -4,7 +4,7 @@ A Python-based, Caffeine-dependent, and Computer Engineering Graduate (_speciali
 
 I like to **over-detail** my craft, **over-complicate** my solutions for the sake of compatibility over simplicity (***leaning more towards extensibility and reusability for the things I do***), and DRY those implementations with considerations for the context.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20MIKUFLA%20%28feat.%20%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%29%20by%20daniwellP%3B%20Hatsune%20Miku%20%7C%200%3A01%3A22%20of%200%3A03%3A18?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Close%20to%20my%20heart%20by%20Midy%20%7C%200%3A02%3A16%20of%200%3A03%3A38?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
 <hr />
