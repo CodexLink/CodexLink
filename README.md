@@ -1,8 +1,10 @@
 ## 👋 Hello! I'm Janrey "`CodexLink`" Licas
 
-A Python-based, Caffeine-dependent, and Computer Engineering Graduate (_specializing in **Intelligent Systems / Embedded Systems**_) **Backend Developer**. I also do Full-Stack (_with Python + (Vue.js || Django)_), but currently in-practice with TypeScript, React and maybe later on, Vue.js (_again). (_currently commencing_). 
+A Python-based, Caffeine-dependent, and Computer Engineering Graduate (_specializing in **Intelligent Systems / Embedded Systems**_) **Backend Developer**. I also do Full-Stack (_with Python + (Vue.js || Django)_), but currently in-practice with TypeScript, React, Rust and maybe later on, Vue.js (_again). (_currently commencing_). 
 
-I like to **over-detail** my craft, **over-complicate** my solutions for the sake of compatibility over simplicity (***leaning more towards extensibility and reusability for the things I do***), and DRY those implementations with considerations for the context.
+I like to **over-detail** my craft, **over-complicate** my solutions for the sake of compatibility over simplicity (***leaning more towards extensibility and reusability for the things I do***), and **DRY** those implementations with considerations for the context.
+
+I don't like documenting (_I have Google Docs Trauma from my thesis_) but I do like to report things out (_through GitHub's Issue_) as if my life depends on it xd
 
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
@@ -51,7 +53,7 @@ This table contains technology stacks and frameworks that I recently discontinue
       <b>Knowledge Retained (Considers Minimum-Required)</b>
     </td>
     <td>
-      <b>Currently Learning</b>
+      <b>Currently Learning / Enqueued Stacks To Learn</b>
     </td>
     <td>
       <b>To Be Planned / On-Halt</b>
@@ -82,19 +84,19 @@ This table contains technology stacks and frameworks that I recently discontinue
     </td>
     <td>
         <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat"/>
-        <img alt="Powershell" src="https://img.shields.io/badge/Powershell-5391FE?logo=powershell&logoColor=white&style=flat"/>
+        <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=flat"/>
+        <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
+        <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
     </td>
     <td>
         <img alt="C++ (Modern)" src="https://img.shields.io/badge/-Modern%20C%2B%2B-00599C?style=flat-&logo=c%2B%2B&logoColor=white"/>
         <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
         <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat"/>
-        <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=flat"/>
-        <img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-43853D?style=flat&logo=Node.JS&logoColor=white"/>
         <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
         <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat&logo=kubernetes&logoColor=white"/>
-        <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
-        <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
+
+
     </td>
   </tr>
 </table>
