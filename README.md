@@ -6,7 +6,7 @@ I like to **over-detail** my craft, **over-complicate** my solutions for the sak
 
 I don't like documenting (_I have Google Docs Trauma from my thesis_) but I do like to report things out (_through GitHub's Issue_) as if my life depends on it xd
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Universe%20by%20Dirty%20Androids%3B%20Nicole%20Curry%20%7C%200%3A01%3A46%20of%200%3A04%3A10?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20ROOM%20by%20Such%3B%20ada%20%7C%200%3A00%3A36%20of%200%3A03%3A38?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
 <hr />
