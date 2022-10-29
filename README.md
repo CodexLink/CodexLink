@@ -1,10 +1,8 @@
 ## 👋 Hello! I'm Janrey "`CodexLink`" Licas
 
-A Python-based, Caffeine-dependent, and Computer Engineering Graduate (_specializing in **Intelligent Systems / Embedded Systems**_) **Backend Developer**. I also do Full-Stack (_with Python + (Vue.js || Django)_), but currently in-practice with TypeScript, React, Rust and maybe later on, Vue.js (_again). (_currently commencing_). 
+A Python-based, Caffeine-Dependent, and Computer Engineering Graduate (_specializing in **Intelligent Systems / Embedded Systems**_) **Backend Developer**. I also do Full-Stack (_with Python + (Vue.js || Django)_), but currently in-practice with TypeScript, React, Rust and maybe later on, Vue.js (_again_). 
 
-I like to **over-detail** my craft, **over-complicate** my solutions for the sake of compatibility over simplicity (***leaning more towards extensibility and reusability for the things I do***), and **DRY** those implementations with considerations for the context.
-
-I don't like documenting (_I have Google Docs Trauma from my thesis_) but I do like to report things out (_through GitHub's Issue_) as if my life depends on it xd
+I like to **over-detail** my craft such as solutions for the sake of compatibility over simplicity (***leaning more towards extensibility and reusability for the things I do***), and **DRY** those implementations with considerations for the context; as well as be redundant on a small context than a bigger one.
 
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Neovim%2C%20At%20Line%20379%20out%20of%20390%2C%201%20hours%2023%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
