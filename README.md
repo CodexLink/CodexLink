@@ -11,9 +11,9 @@ I like to **over-detail** my craft such as solutions for the sake of compatibili
 
 ### Current State
 
-Despite already graduated, I'm currently doing volunteer work with JuanLoop ([Facebook Page](https://www.facebook.com/itsJuanLoop) | [Site](https://www.itsjuanloop.com/)) as a **Software Engineer** for the sake of building my foundation while attempting to work at my personal site with portfolio (_repo privated for now_).
+Despite already graduated, I'm currently doing volunteer work with JuanLoop ([Facebook Page](https://www.facebook.com/itsJuanLoop) | [Site](https://www.itsjuanloop.com/)) as a **Software Engineer** for the sake of building my foundation while working with my hobbies and personal projects.
 
-My current role is **Backend Developer** that handles CI, error reports, analytics integration, AWS services and much more. Technically involved in the Full-Stack work but my main focus is the backend part. I recently handled Frontend but only with the function integration part.
+My current role is **Backend Developer**, I handle CI, error reports, analytics integration, AWS services and much more. Technically involved in the Full-Stack workflow but my main focus is the backend integration.
 
 ### Preferences
 
@@ -83,6 +83,7 @@ This table contains technology stacks and frameworks that I recently discontinue
     <td>
         <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat"/>
         <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=flat"/>
+        <img alt="PineScript" src="https://img.shields.io/badge/PineScript-69F0AE?&logoColor=white&style=flat"/>
         <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
         <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
