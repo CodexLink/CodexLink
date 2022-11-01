@@ -4,7 +4,7 @@ A Python-based, Caffeine-Dependent, and Computer Engineering Graduate (_speciali
 
 I like to **over-detail** my craft such as solutions for the sake of compatibility over simplicity (***leaning more towards extensibility and reusability for the things I do***), and **DRY** those implementations with considerations for the context; as well as be redundant on a small context than a bigger one.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Sentimental%20heart%20boy%20by%20Such%3B%20PSYQUI%20%7C%200%3A03%3A27%20of%200%3A03%3A38?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20JazzFunktion%20-%20Blacklolita%20Remix%20by%20lapix%3B%20mami%20%7C%200%3A01%3A27%20of%200%3A03%3A24?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
 <hr />
