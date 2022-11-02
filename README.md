@@ -4,7 +4,7 @@ A Python-based, Caffeine-Dependent, and Computer Engineering Graduate (_speciali
 
 I like to **over-detail** my craft such as solutions for the sake of compatibility over simplicity (***leaning more towards extensibility and reusability for the things I do***), and **DRY** those implementations with considerations for the context; as well as be redundant on a small context than a bigger one.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Online/configuring%20nvim%20with%20packer?color=61d800&labelColor=61d800&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Neovim%2C%20At%20Line%20130%20out%20of%20143%2C%205%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
 <hr />
