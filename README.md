@@ -4,7 +4,7 @@ A Python-based, Caffeine-Dependent, and Computer Engineering Graduate (_speciali
 
 I like to **over-detail** my craft such as solutions for the sake of compatibility over simplicity (***leaning more towards extensibility and reusability for the things I do***), and **DRY** those implementations with considerations for the context; as well as be redundant on a small context than a bigger one.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%9E%E3%83%AD%E3%83%BB%E3%83%9E%E3%82%AD%E3%82%A2%E3%83%BC%E3%83%88%20by%20KOTONOHOUSE%3B%20Yunomi%3B%20%E3%81%8F%E3%81%84%E3%81%97%E3%82%93%E3%81%BC%E3%81%82%E3%81%8B%E3%81%A1%E3%82%83%E3%82%93%20%7C%200%3A03%3A07%20of%200%3A03%3A43?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Sweetheart%20by%20Snail%27s%20House%20%7C%200%3A01%3A59%20of%200%3A02%3A01?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
 <hr />
