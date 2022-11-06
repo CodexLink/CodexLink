@@ -1,8 +1,12 @@
-## 👋 Hello! I'm Janrey "`CodexLink`" Licas
+## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
 
-A Python-based, Caffeine-Dependent, and Computer Engineering Graduate (_specializing in **Intelligent Systems / Embedded Systems**_) **Backend Developer**. I also do Full-Stack (_with Python + (Vue.js || Django)_), but currently in-practice with TypeScript, React, Rust and maybe later on, Vue.js (_again_). 
+A **Python**-based Developer that university-specializes on **Intelligent Systems / Embedded Systems**.
 
-I like to **over-detail** my craft such as solutions for the sake of compatibility over simplicity (***leaning more towards extensibility and reusability for the things I do***), and **DRY** those implementations with considerations for the context; as well as be redundant on a small context than a bigger one.
+I'm currently a **Backend Developer**, taking my free time before starting my journey to self-explore the Full-Stack Technology. I already did Full-Stack before with Python + Vue.js and Django, but I'm not confident yet.
+
+I'm practicing **over-detailing** my craft for the sake of compatibility over simplicity as I always lean more towards extensibility and reusability, and use **DRY** principles to my implementations with considerations for the context; as well as be redundant on a small context than a bigger one.
+
+Quite a pedantic but I'm always aware with Code Quality and Implementation-wise Functionalities.
 
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
@@ -11,29 +15,30 @@ I like to **over-detail** my craft such as solutions for the sake of compatibili
 
 ### Current State
 
-Despite already graduated, I'm currently doing volunteer work with JuanLoop ([Facebook Page](https://www.facebook.com/itsJuanLoop) | [Site](https://www.itsjuanloop.com/)) as a **Software Engineer** for the sake of building my foundation while working with my hobbies and personal projects.
+I'm currently doing volunteer work with JuanLoop ([Facebook Page](https://www.facebook.com/itsJuanLoop) | [Site](https://www.itsjuanloop.com/)) as a **Software Engineer** for the sake of building my foundation while working with my hobbies and personal projects.
 
 My current role is **Backend Developer**, I handle CI, error reports, analytics integration, AWS services and much more. Technically involved in the Full-Stack workflow but my main focus is the backend integration.
 
 ### Preferences
 
-I work all-around with the developments that I have, thus having no decision on what area of expertise I should work on; but usually I like to do some integration stuff than doing and handling everything for such one project. Design is not something I can do _extensively_, but I can design.
-
-If you have something you want me to work on, please let me know! (_through my email on the side_)
-
+I work all-around with the developments that I have, thus having no decision on what area of expertise I should work on; but usually I like to do some integration stuff than doing and handling everything for such one project. Design is not something I can do _extensively_, but I can do it.
 <hr />
 
 ### :thinking: What am I doing right now?
 
-* :arrow_forward: Create a workaround for nerd-fonts' TTC feature, ([which was this PR](https://github.com/ryanoasis/nerd-fonts/pull/783) by calculating estimated space used which may halt users that exceeds `OpenType` font 65,535 limitations. (Enqueued in 10/18/2022, **IN-PROGRESS**)
+* :arrow_forward: Reconfiguring `nvim` with `lua` finally this time. (Updated since 11/06/2022, [**IN-PROGRESS**](https://github.com/CodexLink/dotfiles-configs-archive/tree/latest/editors/nvim/lua))
 
-* :arrow_forward: Reconfiguring `nvim` with `lua` finally this time. (Re-queued in 10/18/2022, **IN-PROGRESS**)
+* :arrow_forward: [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) revival refactor plan will start after nvim reconfiguration!
 
-* :pause_button: [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) revival refactor plan will start after nvim reconfiguration!
+* :bangbang: I'm planning (_asynchronously while working on Discord Activity Badge_) on designing my website for portfolio purposes.
 
-* :bangbang: Currently evaluating all of the repositories that I have (_demo then refactor then demo_), plus, thinking of ideas that I can do while learning TypeScript and Node.js as part of creating a portfolio.
+* :pause_button: Create a workaround for nerd-fonts' TTC feature, ([which was this PR](https://github.com/ryanoasis/nerd-fonts/pull/783) by calculating estimated space used which may halt users that exceeds `OpenType` font 65,535 limitations. (Enqueued in 10/18/2022, **HALTED**)
+
+* :pause_button: Currently evaluating all of the repositories that I have (_demo then refactor then demo_), plus, thinking of ideas that I can do while learning TypeScript and Node.js as part of creating a portfolio. (Updated since 11/06/2022, **HALTED**)
 
 > I'm currently re-evaluating my life roadmap until endgame as well as doing volunteer work with JuanLoop, so things are expected to move slower.
+> 
+> I'm also currently mentally drained as I cannot do everything despite taking time off for a half a year, but I can still handle things out.
 
 <hr />
 
