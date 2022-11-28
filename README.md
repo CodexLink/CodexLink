@@ -8,7 +8,7 @@ I'm practicing **over-detailing** my craft for the sake of compatibility over si
 
 Quite a pedantic but I'm always aware with Code Quality and Implementation-wise Functionalities.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Idle?color=edca00&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
 <hr />
@@ -71,6 +71,11 @@ This table contains technology stacks and frameworks that I recently discontinue
     </td>
     <td>
         <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
+        <img alt="AWS API Gateway" src="https://img.shields.io/badge/-AWS%20API%20Gateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=white"/>
+        <img alt="AWS Cognito" src="https://img.shields.io/badge/-AWS%20Cognito-FF4F8B?style=flat&logo=amazonaws&logoColor=white"/>
+        <img alt="AWS DynamoDB" src="https://img.shields.io/badge/-AWS%20DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white"/>
+        <img alt="AWS Lambda" src="https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/>
+        <img alt="AWS S3" src="https://img.shields.io/badge/-AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
         <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-&logo=c%2B%2B&logoColor=white"/>
         <img alt="Discord.py" src="https://img.shields.io/badge/-Discord.py-7289DA?style=flat&logo=discord&logoColor=white"/>
         <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
@@ -79,6 +84,7 @@ This table contains technology stacks and frameworks that I recently discontinue
         <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
         <img alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?style=flat&logo=git&logoColor=white"/>
         <img alt="Google Analytics" src="https://img.shields.io/badge/-Google Analytics-E37400?style=flat&logo=google-analytics&logoColor=white"/>
+        <img alt="PineScript" src="https://img.shields.io/badge/PineScript-69F0AE?&style=flat"/>
         <img alt="Powershell" src="https://img.shields.io/badge/Powershell-5391FE?logo=powershell&logoColor=white&style=flat"/>
         <img alt="Python" src="https://img.shields.io/badge/-Python-33776AB?style=flat&logo=python&logoColor=white"/>
         <img alt="Quasar%20%28Pre%20Mature%29" src="https://img.shields.io/badge/Quasar-1976E2?logo=quasar&logoColor=white&style=flat"/>
@@ -88,12 +94,12 @@ This table contains technology stacks and frameworks that I recently discontinue
     <td>
         <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat"/>
         <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=flat"/>
-        <img alt="PineScript" src="https://img.shields.io/badge/PineScript-69F0AE?&logoColor=white&style=flat"/>
         <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
         <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
     </td>
     <td>
+        <img alt="AWS CloudFormation" src="https://img.shields.io/badge/-AWS%20CloudFormation-FF4F8B?style=flat&logo=amazonaws&logoColor=white"/>
         <img alt="C++ (Modern)" src="https://img.shields.io/badge/-Modern%20C%2B%2B-00599C?style=flat-&logo=c%2B%2B&logoColor=white"/>
         <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
         <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat"/>
