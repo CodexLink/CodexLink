@@ -8,7 +8,7 @@ I'm practicing **over-detailing** my craft for the sake of compatibility over si
 
 Quite a pedantic but I'm always aware with Code Quality and Implementation-wise Functionalities.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Loneliness%20by%20lapix%3B%20Nakamura%20Sanso%20%7C%200%3A02%3A53%20of%200%3A02%3A57?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20tell%20me%20tell%20me%20-%20kamome%20sano%20remix%20by%20m-flo%20loves%20Sik-K%20%26%20eill%20%26%20%E5%90%91%E4%BA%95%E5%A4%AA%E4%B8%80%3B%20m-flo%3B%20Sik-K%3B%20eill%3B%20Taichi%20Mukai%20%7C%200%3A02%3A28%20of%200%3A03%3A55?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
 <hr />
