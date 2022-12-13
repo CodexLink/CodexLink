@@ -15,9 +15,11 @@ Quite a pedantic but I'm always aware with Code Quality and Implementation-wise 
 
 ### Current State
 
-I'm currently doing volunteer work with JuanLoop ([Facebook Page](https://www.facebook.com/itsJuanLoop) | [Site](https://www.itsjuanloop.com/)) as a **Software Engineer** for the sake of building my foundation while working with my hobbies and personal projects.
+[1] I'm currently doing a **low-key**-volunteer work with JuanLoop ([Facebook Page](https://www.facebook.com/itsJuanLoop) | [Site](https://www.itsjuanloop.com/)) as a **Software Engineer** for the sake of building my foundation while working with my hobbies and personal projects.
 
 My current role is **Backend Developer**, I handle CI, error reports, analytics integration, AWS services and much more. Technically involved in the Full-Stack workflow but my main focus is the backend integration.
+
+[2] I'm currently focused and interested on creating an automation strategy for trading. This is why I'm not currently active at my personal projects.
 
 ### Preferences
 
@@ -26,11 +28,13 @@ I work all-around with the developments that I have, thus having no decision on 
 
 ### :thinking: What am I doing right now?
 
-* :arrow_forward: Reconfiguring `nvim` with `lua` finally this time. (Updated since 11/06/2022, [**IN-PROGRESS**](https://github.com/CodexLink/dotfiles-configs-archive/tree/latest/editors/nvim/lua))
+* :arrow_forward: Currently doing a trading strategy + automation as a potential side line while I'm progressing in my personal projects + others (which is currently on pause right now).
 
-* :arrow_forward: [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) revival refactor plan will start after nvim reconfiguration!
+* :arrow_forward: Reconfiguring `nvim` with `lua` finally this time. ~~(Updated since 11/06/2022, [**IN-PROGRESS**](https://github.com/CodexLink/dotfiles-configs-archive/tree/latest/editors/nvim/lua))~~ (**Currently on PAUSE**)
 
-* :bangbang: I'm planning (_asynchronously while working on Discord Activity Badge_) on designing my website for portfolio purposes.
+* :pause_button: [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) revival refactor plan will start after nvim reconfiguration!
+
+* :pause_button: I'm planning (_asynchronously while working on Discord Activity Badge_) on designing my website for portfolio purposes.
 
 * :pause_button: Create a workaround for nerd-fonts' TTC feature, ([which was this PR](https://github.com/ryanoasis/nerd-fonts/pull/783) by calculating estimated space used which may halt users that exceeds `OpenType` font 65,535 limitations. (Enqueued in 10/18/2022, **HALTED**)
 
