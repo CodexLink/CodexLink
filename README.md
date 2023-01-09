@@ -1,12 +1,9 @@
 ## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
 
-A **Python**-based Developer that university-specializes on **Intelligent Systems / Embedded Systems**.
+1. A **Computer Engineering Graduate** that has a specialization of **Intelligent Systems / Embedded Systems**.
+2. A **Python**-based Developer that has an interest of building complex systems, prefers working in **Backend**, and **loves integration** between Backend and Frontend.
+3. Has 
 
-I'm currently a **Backend Developer**, taking my free time before starting my journey to self-explore the Full-Stack Technology. I already did Full-Stack before with Python + Vue.js and Django, but I'm not confident yet.
-
-I'm practicing **over-detailing** my craft for the sake of compatibility over simplicity as I always lean more towards extensibility and reusability, and use **DRY** principles to my implementations with considerations for the context; as well as be redundant on a small context than a bigger one.
-
-Quite a pedantic but I'm always aware with Code Quality and Implementation-wise Functionalities.
 
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
@@ -15,22 +12,14 @@ Quite a pedantic but I'm always aware with Code Quality and Implementation-wise 
 
 ### Current State
 
-[1] I'm currently doing a **low-key**-volunteer work with JuanLoop ([Facebook Page](https://www.facebook.com/itsJuanLoop) | [Site](https://www.itsjuanloop.com/)) as a **Software Engineer** for the sake of building my foundation while working with my hobbies and personal projects.
-
-My current role is **Backend Developer**, I handle CI, error reports, analytics integration, AWS services and much more. Technically involved in the Full-Stack workflow but my main focus is the backend integration.
-
-[2] I'm currently focused and interested on creating an automation strategy for trading. This is why I'm not currently active at my personal projects.
-
-### Preferences
-
-I work all-around with the developments that I have, thus having no decision on what area of expertise I should work on; but usually I like to do some integration stuff than doing and handling everything for such one project. Design is not something I can do _extensively_, but I can do it.
-<hr />
+- I'm currently doing a **low-key**-volunteer work with JuanLoop ([Facebook Page](https://www.facebook.com/itsJuanLoop) | [Site](https://www.itsjuanloop.com/)) as a **Software Engineer**.
+- - My current role is **Core Backend Developer**, I handle CI, error reports, analytics integration, AWS services and much more. Technically involved in the Full-Stack workflow but my main focus is the backend integration.
 
 ### :thinking: What am I doing right now?
 
-* :arrow_forward: Currently doing a trading strategy + automation as a potential side line while I'm progressing in my personal projects + others (which is currently on pause right now).
+* :arrow_forward: [Reconfiguring `nvim` with `lua` config.](https://github.com/CodexLink/dotfiles-configs-archive/tree/latest/editors/nvim/lua)
 
-* :arrow_forward: Reconfiguring `nvim` with `lua` finally this time. ~~(Updated since 11/06/2022, [**IN-PROGRESS**](https://github.com/CodexLink/dotfiles-configs-archive/tree/latest/editors/nvim/lua))~~ (**Currently on PAUSE**)
+* :pause_button: Currently doing a trading strategy + automation as a potential side line. **_Automation and backtesting left_** (Currently on-hold).
 
 * :pause_button: [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) revival refactor plan will start after nvim reconfiguration!
 
