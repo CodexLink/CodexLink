@@ -4,7 +4,7 @@
 2. A **Python**-based Developer that has an interest of building complex systems, prefers working in **Backend**, and **loves integration** between Backend and Frontend.
 3. Experienced full-stack (Django, Vue.js + FastAPI, Win32 Programs (Non-Native)) development but not the conventional node.js with side flavors, which I'm currently planning to learn soon.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20%E3%82%A2%E3%82%A4%E3%82%AB%E3%83%84%21%E3%82%A8%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC%20-%20~PandaBoY%20MIX~%20by%20PandaBoY%20%7C%200%3A03%3A09%20of%200%3A03%3A38?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Merry%20Bad%20Otome%20by%20lapix%3B%20PANXI%20%7C%200%3A02%3A05%20of%200%3A03%3A07?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
 <hr />
