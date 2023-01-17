@@ -4,7 +4,7 @@
 2. A **Python**-based Developer that has an interest of building complex systems, prefers working in **Backend**, and **loves integration** between Backend and Frontend.
 3. Experienced full-stack (Django, Vue.js + FastAPI, Win32 Programs (Non-Native)) development but not the conventional node.js with side flavors, which I'm currently planning to learn soon.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20ui.lua%3A%2075%3A15%20%28113%29%2C%203%20hours%20elapsed.?color=edca00&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20ui.lua%3A%2075%3A15%20%28113%29%2C%203%20hours%209%20minutes%20elapsed.?color=edca00&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
 <hr />
