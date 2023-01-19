@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
 
 1. A **Computer Engineering Graduate** that has a specialization of **Intelligent Systems / Embedded Systems**.
-2. A **Python**-based Developer that has an interest of building complex systems, prefers working in **Backend**, and **loves integration** between Backend and Frontend.
+2. A **Python**-based Developer that has an interest of building complex systems. Prefers working in **Backend Architectures**, and **loves integration** between Backend and Frontend.
 3. Experienced full-stack (Django, Vue.js + FastAPI, Win32 Programs (Non-Native)) development but not the conventional node.js with side flavors, which I'm currently planning to learn soon.
 
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
@@ -11,16 +11,16 @@
 
 ### Current State
 
-- I'm currently doing a **low-key**-volunteer work with JuanLoop ([Facebook Page](https://www.facebook.com/itsJuanLoop) | [Site](https://www.itsjuanloop.com/)) as a **Software Engineer**.
-- - My current role is **Core Backend Developer**, I handle CI, error reports, analytics integration, AWS services and much more. Technically involved in the Full-Stack workflow but my main focus is the backend integration.
+- I'm currently doing volunteer work (_previously as Intern_) with JuanLoop ([Facebook Page](https://www.facebook.com/itsJuanLoop) | [Site](https://www.itsjuanloop.com/)) as a **Backend Engineer**.
+- - I handle CI, error reports, analytics integration, AWS services and much more. Technically involved in the Full-Stack workflow but my main focus is the backend integration.
 
 ### :thinking: What am I doing right now?
 
 * :arrow_forward: [Reconfiguring `nvim` with `lua` config.](https://github.com/CodexLink/dotfiles-configs-archive/tree/latest/editors/nvim/lua)
 
-* :pause_button: Currently doing a trading strategy + automation as a potential side line. **_Automation and backtesting left_** (Currently on-hold).
+* :pause_button: [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) revival refactor plan will start after nvim reconfiguration! (**ENQUEUED**)
 
-* :pause_button: [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) revival refactor plan will start after nvim reconfiguration!
+* :pause_button: Currently doing a trading strategy + automation as a potential side line. **_Automation and backtesting left_** (Currently on-hold).
 
 * :pause_button: I'm planning (_asynchronously while working on Discord Activity Badge_) on designing my website for portfolio purposes.
 
@@ -28,10 +28,7 @@
 
 * :pause_button: Currently evaluating all of the repositories that I have (_demo then refactor then demo_), plus, thinking of ideas that I can do while learning TypeScript and Node.js as part of creating a portfolio. (Updated since 11/06/2022, **HALTED**)
 
-> I'm currently re-evaluating my life roadmap until endgame as well as doing volunteer work with JuanLoop, so things are expected to move slower.
-> 
-> I'm also currently mentally drained as I cannot do everything despite taking time off for a half a year, but I can still handle things out.
-
+> Please note that I'm currently adjusting my life, and I'm also doing small chores in order to progress further from these projects that listd.
 <hr />
 
 ### :bar_chart: Knowledge Table
