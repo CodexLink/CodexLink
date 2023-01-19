@@ -23,9 +23,9 @@ _Please note that I'm currently adjusting my life, and I'm also doing small chor
 
 * :pause_button: [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) revival refactor plan will start after nvim reconfiguration! (**ENQUEUED**)
 
-* :pause_button: Currently doing a trading strategy + automation as a potential side line. **_Automation and backtesting left_** (Currently on-hold).
+* :pause_button: (**_Asynchronous Task_ | Mid-Priority**) I'm planning on designing my website for blogging and portfolio purposes.
 
-* :pause_button: I'm planning (_asynchronously while working on Discord Activity Badge_) on designing my website for portfolio purposes.
+* :pause_button: (**_Asynchronous Task_ | Low-Priority **) Currently doing a trading strategy + automation as a potential side line. (**Currently on-hold: _Automation and backtesting left_** ).
 
 * :pause_button: Create a workaround for nerd-fonts' TTC feature, ([which was this PR](https://github.com/ryanoasis/nerd-fonts/pull/783) by calculating estimated space used which may halt users that exceeds `OpenType` font 65,535 limitations. (Enqueued in 10/18/2022, **HALTED**)
 
