@@ -43,13 +43,13 @@ This table contains technology stacks and frameworks that I recently discontinue
       <b>Discontinued / Knowledge Degraded</b>
     </td>
     <td>
-      <b>Knowledge Retained (Considers Minimum-Required)</b>
+      <b>Knowledge Retained (Considers Bare-Minimum Familiarity)</b>
     </td>
     <td>
       <b>Currently Learning / Enqueued Stacks To Learn</b>
     </td>
     <td>
-      <b>To Be Planned / On-Halt</b>
+      <b>To Learn / On-Halt</b>
     </td>
   </tr>
   <tr>
