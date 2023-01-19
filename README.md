@@ -2,8 +2,9 @@
 
 1. A **Computer Engineering Graduate** that has a specialization of **Intelligent Systems / Embedded Systems**.
 2. A **Python**-based Developer that has an interest of building complex systems. Prefers working in **Backend Architectures**, and **loves integration** between Backend and Frontend.
-3. Experienced full-stack (Django, Vue.js + FastAPI, Win32 Programs (Non-Native)) development but not the conventional node.js with side flavors, which I'm currently planning to learn soon.
+3. Experienced full-stack development (Django, Vue.js + FastAPI, Win32 Programs (Non-Native)) but not the conventional node.js with side flavors, **which I'm currently planning to learn soon**.
 
+[![My LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-00979D?style=flat&logo=linkedin)](https://linkedin.com/in/CodexLink)
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
@@ -11,10 +12,12 @@
 
 ### Current State
 
-- I'm currently doing volunteer work (_previously as Intern_) with JuanLoop ([Facebook Page](https://www.facebook.com/itsJuanLoop) | [Site](https://www.itsjuanloop.com/)) as a **Backend Engineer**.
+- Currently doing a volunteer work (_previously as Intern_) with JuanLoop ([Facebook Page](https://www.facebook.com/itsJuanLoop) | [Site](https://www.itsjuanloop.com/)) as a **Backend Engineer**.
 - - I handle CI, error reports, analytics integration, AWS services and much more. Technically involved in the Full-Stack workflow but my main focus is the backend integration.
 
 ### :thinking: What am I doing right now?
+
+_Please note that I'm currently adjusting my life, and I'm also doing small chores in order to progress further from these projects that I listed._
 
 * :arrow_forward: [Reconfiguring `nvim` with `lua` config.](https://github.com/CodexLink/dotfiles-configs-archive/tree/latest/editors/nvim/lua)
 
@@ -28,15 +31,13 @@
 
 * :pause_button: Currently evaluating all of the repositories that I have (_demo then refactor then demo_), plus, thinking of ideas that I can do while learning TypeScript and Node.js as part of creating a portfolio. (Updated since 11/06/2022, **HALTED**)
 
-> Please note that I'm currently adjusting my life, and I'm also doing small chores in order to progress further from these projects that listd.
 <hr />
 
 ### :bar_chart: Knowledge Table
 
 This table contains technology stacks and frameworks that I recently discontinued to learn/used (but has recent experience with them), currently learning, and to-be-planned or on the phase of on-halt due to time conflicts.
 
-<div class="center">
-<table>
+<table class="center">
   <tr>
     <td>
       <b>Discontinued / Knowledge Degraded</b>
@@ -97,9 +98,8 @@ This table contains technology stacks and frameworks that I recently discontinue
     </td>
   </tr>
 </table>
-</div>
 
-<table>
+<table class="center">
   <tr>
     <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink&layout=compact&card_width=350"/>
@@ -109,7 +109,7 @@ This table contains technology stacks and frameworks that I recently discontinue
     </td>
   </tr>
 </table>
-
+  
 ### :balance_scale: Development Consumption Time In Week's Scale
 
 <!--START_SECTION:waka-->
