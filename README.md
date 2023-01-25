@@ -5,7 +5,7 @@
 3. Experienced full-stack development (Django, Vue.js + FastAPI, Win32 Programs (Non-Native)) but not the conventional node.js with side flavors, **which I'm currently planning to learn soon**.
 
 [![My LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-00979D?style=flat&logo=linkedin)](https://linkedin.com/in/CodexLink)
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Sweet%20Dream%20by%20Mysteka%3B%20Hiyori%20Nara%20%7C%200%3A02%3A09%20of%200%3A04%3A06?color=edca00&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20%E3%83%8F%E3%83%BC%E3%83%88%E3%81%8C%E3%82%B9%E3%82%AD%E2%99%A1%E3%83%83%E3%83%97%20by%20%E3%81%8B%E3%81%AA%20from%20AIKATSU%E2%98%86STARS%21%20%7C%200%3A01%3A39%20of%200%3A04%3A51?color=edca00&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
 <hr />
