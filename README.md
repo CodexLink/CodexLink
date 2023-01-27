@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Neovim%2C%20Working%20on%20dotfiles-configs-archive%2C%201%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%2051%20by%20The%20Deli%20%7C%200%3A00%3A21%20of%200%3A02%3A24?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 ## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
 
