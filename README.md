@@ -1,8 +1,8 @@
 ## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
 
-1. A **Computer Engineering Graduate** that has a specialization of **Intelligent Systems / Embedded Systems**.
+1. A **Computer Engineering Graduate** with a specialization of **Intelligent Systems / Embedded Systems**.
 2. A **Python**-based Developer that has an interest of building complex systems. Prefers working in **Backend Architectures**, and **loves integration** between Backend and Frontend.
-3. Experienced full-stack development (Django, Vue.js + FastAPI, Win32 Programs (Non-Native)) but not the conventional node.js with side flavors, **which I'm currently planning to learn soon**.
+3. Experienced full-stack development (Django, Vue.js + FastAPI, Win32 Programs (Non-Native)) but not the conventional node.js with side flavors, **which I'm currently planning to learn this year (2023)**.
 
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Neovim%2C%20Working%20on%20dotfiles-configs-archive%2C%201%20hours%2029%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 
@@ -21,13 +21,13 @@
 
 _Please note that I'm currently adjusting my life, and I'm also doing small chores in order to progress further from these projects that I listed._
 
-* :arrow_forward: [Reconfiguring `nvim` with `lua` config.](https://github.com/CodexLink/dotfiles-configs-archive/tree/latest/editors/nvim/lua)
+* :arrow_forward: [Reconfiguring `nvim` with `lua` config; 85% first-stage completion!](https://github.com/CodexLink/dotfiles-configs-archive/tree/latest/editors/nvim/lua)
 
 * :pause_button: [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) revival refactor plan will start after nvim reconfiguration! (**ENQUEUED**)
 
 * :pause_button: (**_Asynchronous Task_ | Mid-Priority**) I'm planning on designing my website for blogging and portfolio purposes.
 
-* :pause_button: (**_Asynchronous Task_ | Low-Priority **) Currently doing a trading strategy + automation as a potential side line. (**Currently on-hold: _Automation and backtesting left_** ).
+* :pause_button: (**_Asynchronous Task_ | Low-Priority**) Currently doing a trading strategy + automation as a potential side line. (**Currently on-hold: _Automation and backtesting left_** ).
 
 * :pause_button: Create a workaround for nerd-fonts' TTC feature, ([which was this PR](https://github.com/ryanoasis/nerd-fonts/pull/783) by calculating estimated space used which may halt users that exceeds `OpenType` font 65,535 limitations. (Enqueued in 10/18/2022, **HALTED**)
 
