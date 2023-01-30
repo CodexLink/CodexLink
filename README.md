@@ -53,7 +53,9 @@ This table contains technology stacks, frameworks, and programming languages tha
         <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
         <img alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?style=flat&logo=git&logoColor=white"/>
         <img alt="Google Analytics" src="https://img.shields.io/badge/-Google Analytics-E37400?style=flat&logo=google-analytics&logoColor=white"/>
-        <img alt="PineScript" src="https://img.shields.io/badge/PineScript-69F0AE?&style=flat"/>
+        <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat"/>
+        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat"/>
+        <img alt="PineScript" src="https://img.shields.io/badge/TradingView-PineScript-69F0AE?&style=flat"/>
         <img alt="Powershell" src="https://img.shields.io/badge/Powershell-5391FE?logo=powershell&logoColor=white&style=flat"/>
         <img alt="Python" src="https://img.shields.io/badge/-Python-33776AB?style=flat&logo=python&logoColor=white"/>
         <img alt="Quasar%20%28Pre%20Mature%29" src="https://img.shields.io/badge/Quasar-1976E2?logo=quasar&logoColor=white&style=flat"/>
@@ -72,6 +74,7 @@ This table contains technology stacks, frameworks, and programming languages tha
         <img alt="C++ (Modern)" src="https://img.shields.io/badge/-Modern%20C%2B%2B-00599C?style=flat-&logo=c%2B%2B&logoColor=white"/>
         <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
         <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat"/>
+        <img alt="Hasura" src="https://img.shields.io/badge/Hasura-1EB4D4?logo=hasura&logoColor=white&style=flat"/>
         <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
         <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat&logo=kubernetes&logoColor=white"/>
     </td>
