@@ -1,20 +1,20 @@
 ## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
 
-1. A **Computer Engineering Graduate** with a specialization of **Intelligent Systems / Embedded Systems**.
-2. A **Python**-based Developer that has an interest of building complex systems. Prefers working in **Backend Architectures**, and **loves integration** between Backend and Frontend.
-3. Experienced full-stack development (Django, Vue.js + FastAPI, Win32 Programs (Non-Native)) but not the conventional node.js with side flavors, **which I'm currently planning to learn this year (2023)**.
-
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Neovim%2C%20Working%20on%20dotfiles-configs-archive%2C%201%20hours%2038%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 [![LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-00979D?style=flat&logo=linkedin)](https://linkedin.com/in/CodexLink)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
+1. A **Computer Engineering Graduate** with a specialization of **Intelligent Systems / Embedded Systems**.
+2. A **Python**-based Developer that has an interest of building complex systems. Prefers working in **Backend Architectures**, and **loves integration** between Backend and Frontend.
+3. Experienced full-stack development (Django, Vue.js + FastAPI, Win32 Programs (Non-Native)) but not the conventional node.js with side flavors, **which I'm currently planning to learn this year (2023)**.
+
 <hr />
 
-### :bar_chart: Knowledge Table
+### :bar_chart: Experience Table
 
-This table contains technology stacks and frameworks that I recently discontinued to learn/used (but has recent experience with them), currently learning, and to-be-planned or on the phase of on-halt due to time conflicts.
+This table contains technology stacks, frameworks, and programming languages that I recently discontinued to learn or from using (**but has recent experience with them**), currently learning, and to-be-planned or on the phase of on-halt due to time conflicts.
 
 <table class="center">
   <tr>
