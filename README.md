@@ -12,29 +12,6 @@
 
 <hr />
 
-### Current State
-
-- Currently doing a volunteer work (_previously as Intern_) with JuanLoop ([Facebook Page](https://www.facebook.com/itsJuanLoop) | [Site](https://www.itsjuanloop.com/)) as a **Backend Engineer**.
-- - I handle CI, error reports, analytics integration, AWS services and much more. Technically involved in the Full-Stack workflow but my main focus is the backend integration.
-
-### :thinking: What am I doing right now?
-
-_Please note that I'm currently adjusting my life, and I'm also doing small chores in order to progress further from these projects that I listed._
-
-* :arrow_forward: [Reconfiguring `nvim` with `lua` config; 85% first-stage completion!](https://github.com/CodexLink/dotfiles-configs-archive/tree/latest/editors/nvim/lua)
-
-* :pause_button: [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) revival refactor plan will start after nvim reconfiguration! (**ENQUEUED**)
-
-* :pause_button: (**_Asynchronous Task_ | Mid-Priority**) I'm planning on designing my website for blogging and portfolio purposes.
-
-* :pause_button: (**_Asynchronous Task_ | Low-Priority**) Currently doing a trading strategy + automation as a potential side line. (**Currently on-hold: _Automation and backtesting left_** ).
-
-* :pause_button: Create a workaround for nerd-fonts' TTC feature, ([which was this PR](https://github.com/ryanoasis/nerd-fonts/pull/783) by calculating estimated space used which may halt users that exceeds `OpenType` font 65,535 limitations. (Enqueued in 10/18/2022, **HALTED**)
-
-* :pause_button: Currently evaluating all of the repositories that I have (_demo then refactor then demo_), plus, thinking of ideas that I can do while learning TypeScript and Node.js as part of creating a portfolio. (Updated since 11/06/2022, **HALTED**)
-
-<hr />
-
 ### :bar_chart: Knowledge Table
 
 This table contains technology stacks and frameworks that I recently discontinued to learn/used (but has recent experience with them), currently learning, and to-be-planned or on the phase of on-halt due to time conflicts.
@@ -111,6 +88,29 @@ This table contains technology stacks and frameworks that I recently discontinue
     </td>
   </tr>
 </table>
+
+### Current State
+
+- Currently doing a volunteer work (_previously as Intern_) with JuanLoop ([Facebook Page](https://www.facebook.com/itsJuanLoop) | [Site](https://www.itsjuanloop.com/)) as a **Backend Engineer**.
+- - I handle CI, error reports, analytics integration, AWS services and much more. Technically involved in the Full-Stack workflow but my main focus is the backend integration.
+
+### :thinking: What am I doing right now?
+
+_Please note that I'm currently adjusting my life, and I'm also doing small chores in order to progress further from these projects that I listed._
+
+* :arrow_forward: [Reconfiguring `nvim` with `lua` config; 85% first-stage completion!](https://github.com/CodexLink/dotfiles-configs-archive/tree/latest/editors/nvim/lua)
+
+* :pause_button: [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) revival refactor plan will start after nvim reconfiguration! (**ENQUEUED**)
+
+* :pause_button: (**_Asynchronous Task_ | Mid-Priority**) I'm planning on designing my website for blogging and portfolio purposes.
+
+* :pause_button: (**_Asynchronous Task_ | Low-Priority**) Currently doing a trading strategy + automation as a potential side line. (**Currently on-hold: _Automation and backtesting left_** ).
+
+* :pause_button: Create a workaround for nerd-fonts' TTC feature, ([which was this PR](https://github.com/ryanoasis/nerd-fonts/pull/783) by calculating estimated space used which may halt users that exceeds `OpenType` font 65,535 limitations. (Enqueued in 10/18/2022, **HALTED**)
+
+* :pause_button: Currently evaluating all of the repositories that I have (_demo then refactor then demo_), plus, thinking of ideas that I can do while learning TypeScript and Node.js as part of creating a portfolio. (Updated since 11/06/2022, **HALTED**)
+
+<hr />
   
 ### :balance_scale: Development Consumption Time In Week's Scale
 
