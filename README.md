@@ -8,7 +8,7 @@
 
 1. A **Computer Engineering Graduate** with a specialization of **Intelligent Systems / Embedded Systems**.
 2. A **Python**-based Developer that has an interest of building complex systems. Prefers working in **Backend Architectures**, and **loves integration** between Backend and Frontend.
-3. Experienced full-stack development (Django, Vue.js + FastAPI, Win32 Programs (Non-Native)) but not the conventional node.js with side flavors, **which I'm currently planning to learn this year (2023)**.
+3. Experienced full-stack development (Django, Vue.js + FastAPI, Win32 Programs (Non-Native)) but not the conventional node.js with side flavors tech stack, **which I'm currently planning to learn this year (2023)**.
 
 <hr />
 
@@ -94,24 +94,23 @@ This table contains technology stacks, frameworks, and programming languages tha
 
 ### Current State
 
-- Currently doing a volunteer work (_previously as Intern_) with JuanLoop ([Facebook Page](https://www.facebook.com/itsJuanLoop) | [Site](https://www.itsjuanloop.com/)) as a **Backend Engineer**.
-- - I handle CI, error reports, analytics integration, AWS services and much more. Technically involved in the Full-Stack workflow but my main focus is the backend integration.
+- Currently doing a volunteer work (_previously as Intern_) with JuanLoop ([Facebook Page](https://www.facebook.com/itsJuanLoop) | [Site](https://www.itsjuanloop.com/)) as a **Backend Engineer**. I handle CI, error reports, analytics integration, AWS services and much more. Technically involved in the Full-Stack workflow but my main focus is the backend integration.
 
 ### :thinking: What am I doing right now?
 
-_Please note that I'm currently adjusting my life, and I'm also doing small chores in order to progress further from these projects that I listed._
+* :exclamation: (**Indefinite**) _I'm currently learning anything **Full-Stack Web Development** as I want to take it very seriously now._
 
-* :arrow_forward: [Reconfiguring `nvim` with `lua` config; 85% first-stage completion!](https://github.com/CodexLink/dotfiles-configs-archive/tree/latest/editors/nvim/lua)
+* :exclamation: (**_Asynchronous Task_ | High-Priority**) [I'm planning on designing my website for blogging and portfolio purposes.](https://github.com/CodexLink/codexlink.github.io)
 
-* :pause_button: [Discord Activity Badge](https://github.com/CodexLink/discord-activity-badge) revival refactor plan will start after nvim reconfiguration! (**ENQUEUED**)
+* :exclamation: (**_Asynchronous Task_ | Mid-Priority**) [I'm about to document and probably fix up everything in Phase 1 (out of ???) as it was my thesis project.](https://github.com/CodexLink/folioblocks) 
 
-* :pause_button: (**_Asynchronous Task_ | Mid-Priority**) I'm planning on designing my website for blogging and portfolio purposes.
+* :pause_button: (**_Asynchronous Task_ | Mid-Priority**) [Discord Activity Badge refactorization as part of revival process.](https://github.com/CodexLink/discord-activity-badge)
+
+* :pause_button: (**_Asynchronous Task_ | Mid-Priority**) [Finish this 3 years old certification for full-stack development](https://github.com/CodexLink/VueJS_ECommerce)
 
 * :pause_button: (**_Asynchronous Task_ | Low-Priority**) Currently doing a trading strategy + automation as a potential side line. (**Currently on-hold: _Automation and backtesting left_** ).
 
-* :pause_button: Create a workaround for nerd-fonts' TTC feature, ([which was this PR](https://github.com/ryanoasis/nerd-fonts/pull/783) by calculating estimated space used which may halt users that exceeds `OpenType` font 65,535 limitations. (Enqueued in 10/18/2022, **HALTED**)
-
-* :pause_button: Currently evaluating all of the repositories that I have (_demo then refactor then demo_), plus, thinking of ideas that I can do while learning TypeScript and Node.js as part of creating a portfolio. (Updated since 11/06/2022, **HALTED**)
+* ~~:pause_button: Create a workaround for nerd-fonts' TTC feature, ([which was this PR](https://github.com/ryanoasis/nerd-fonts/pull/783) by calculating estimated space used which may halt users that exceeds `OpenType` font 65,535 limitations. (Enqueued in 10/18/2022, **HALTED**)~~
 
 <hr />
   
