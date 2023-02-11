@@ -6,9 +6,9 @@
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
-1. A **Computer Engineering Graduate** with a specialization of **Intelligent Systems / Embedded Systems**.
-2. A **Python**-based Developer that has an interest of building complex systems. Prefers working in **Backend Architectures**, and **loves integration** between Backend and Frontend.
-3. Experienced full-stack development (Django, Vue.js + FastAPI, Win32 Programs (Non-Native)) but not the conventional node.js with side flavors tech stack, **which I'm currently planning to learn this year (2023)**.
+1. I publish my projects in the OSS space as part of contributing in the space where people are looking for specific examples of certain implementations.
+2. I code utility things (`privated for now`).
+3. I don't know, I just like to code.
 
 <hr />
 
