@@ -98,13 +98,13 @@ This table contains technology stacks, frameworks, and programming languages tha
 
 ### :thinking: What am I doing right now?
 
+* :play_button: (**_Asynchronous Task_ | Mid-Priority**) [Discord Activity Badge refactorization as part of revival process.](https://github.com/CodexLink/discord-activity-badge)
+
 * :exclamation: (**Indefinite**) _I'm currently learning anything **Full-Stack Web Development** as I want to take it very seriously now._
 
 * :exclamation: (**_Asynchronous Task_ | High-Priority**) [I'm planning on designing my website for blogging and portfolio purposes.](https://github.com/CodexLink/codexlink.github.io)
 
 * :exclamation: (**_Asynchronous Task_ | Mid-Priority**) [I'm about to document and probably fix up everything in Phase 1 (out of ???) as it was my thesis project.](https://github.com/CodexLink/folioblocks) 
-
-* :pause_button: (**_Asynchronous Task_ | Mid-Priority**) [Discord Activity Badge refactorization as part of revival process.](https://github.com/CodexLink/discord-activity-badge)
 
 * :pause_button: (**_Asynchronous Task_ | Mid-Priority**) [Finish this 3 years old certification for full-stack development](https://github.com/CodexLink/VueJS_ECommerce)
 
