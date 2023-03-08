@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
 
-> **Python-developed** | Aspiring & (Software Engineer (_Full-Stack Web___) | Open-Source Contributor) & Futures Trader)
+> **Python-developed** | ("Aspiring" + (Software Engineer (_Full-Stack Web_) | Backend Engineer) & **Open-Source Contributor** & **Futures Trader**)
 
 > I'm currently looking for opportunities in **Python Development** as well as **Full-Stack Web Development**. From **Associate** to **Mid-Role**. :slightly_smiling_face:
 
