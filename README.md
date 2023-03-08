@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
 
-> **Python-developed** | Aspiring & (Software Engineer (*Full-Stack Web*) | Open Source Contributor)
+> **Python-developed** | Aspiring & (Software Engineer (_Full-Stack Web___) | Open-Source Contributor) & Futures Trader)
 
 > I'm currently looking for opportunities in **Python Development** as well as **Full-Stack Web Development**. From **Associate** to **Mid-Role**. :slightly_smiling_face:
 
@@ -11,8 +11,8 @@
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
 ## I'm? / I?
-1. A fresh graduate with experience in full-stack development, for both web (_Vue.js + FastAPI_) and Win32 Apps (_Python with Kivy_ or _Python + Qt 5 + MySQL_)
-2. Publish my projects in the OSS space as part of contributing specific examples of certain implementations of a certain stack.
+1. A fresh graduate with experience in full-stack development, for both web (_Vue.js + FastAPI_) and Win32 Apps (_Python with Kivy_ or _Python + Qt 5 + MySQL_).
+2. Like to publish my projects in the OSS space as part of contributing specific examples of certain implementations of a certain stack.
 3. Like to _DRY_ everything and minimally _repeat_ everything.
 4. Like backend development and automation.
 
