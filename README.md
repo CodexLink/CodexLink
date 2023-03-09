@@ -105,7 +105,9 @@ This table contains technology stacks, frameworks, and programming languages tha
 
 ### :thinking: What am I doing right now?
 
-> **Everything, hobbies-related (_aside from pursing Professional Futures Trading_) is halted for now, that's because I need work to fund my activities.** But I still get in touch with my projects to avoid knowledge degradation.
+> **Everything, hobbies-related (_aside from pursing Professional Futures Trading_) is halted to slower progression for now, that's because I need work to fund my activities.** But I still get in touch with my projects to avoid knowledge degradation.
+
+* :arrow_forward: (**_Asynchronous Task_ | Mid-Priority**) [Designing a `aiohttp` queue processor.](https://github.com/CodexLink/aiohttp-queue-wrapper)
 
 * :arrow_forward: (**_Asynchronous Task_ | Mid-Priority**) [Discord Activity Badge refactorization as part of revival process.](https://github.com/CodexLink/discord-activity-badge)
 
