@@ -4,7 +4,7 @@
 
 > I'm currently looking for opportunities in **Python Development** as well as **Full-Stack Web Development**. From **Associate** to **Mid-Role**. :slightly_smiling_face:
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Neovim%2C%20Working%20on%20aiohttp-queue-wrapper%2C%201%20hours%2030%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Neovim%2C%20Working%20on%20aiohttp-queue-wrapper%2C%201%20hours%2039%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 [![LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-00979D?style=flat&logo=linkedin)](https://linkedin.com/in/CodexLink)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
