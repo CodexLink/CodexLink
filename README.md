@@ -1,8 +1,6 @@
 ## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
 
-> **Python-developed** | ("Aspiring" + (Software Engineer (_Full-Stack Web_) | Backend Engineer) & **Open-Source Contributor** & **Futures Trader**)
-
-> I'm currently looking for opportunities in **Python Development** as well as **Full-Stack Web Development**. From **Associate** to **Mid-Role**. :slightly_smiling_face:
+> **Python-developed** | ???
 
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 
@@ -69,7 +67,6 @@ This table contains technology stacks, frameworks, and programming languages tha
         <img alt="Vue.JS%20%28Pre%20Mature%29" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
     </td>
     <td>
-        <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat"/>
         <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=flat"/>
         <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
         <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
@@ -83,6 +80,7 @@ This table contains technology stacks, frameworks, and programming languages tha
         <img alt="Hasura" src="https://img.shields.io/badge/Hasura-1EB4D4?logo=hasura&logoColor=white&style=flat"/>
         <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
         <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat&logo=kubernetes&logoColor=white"/>
+        <img alt="Starlette" src="https://img.shields.io/badge/-Starlette-FFEA00?style=flat&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -105,15 +103,13 @@ This table contains technology stacks, frameworks, and programming languages tha
 
 ### :thinking: What am I doing right now?
 
-> **Everything, hobbies-related (_aside from pursing Professional Futures Trading_) is halted to slower progression for now, that's because I need work to fund my activities.** But I still get in touch with my projects to avoid knowledge degradation.
+> Everything is going to be slower than expected, **until 2-3 (probable case, 2.5) years later**.
 
 * :arrow_forward: (**_Asynchronous Task_ | Mid-Priority**) [Designing a `aiohttp` queue processor.](https://github.com/CodexLink/aiohttp-queue-wrapper)
 
 * :arrow_forward: (**_Asynchronous Task_ | Mid-Priority**) [Discord Activity Badge refactorization as part of revival process.](https://github.com/CodexLink/discord-activity-badge)
 
 * :pause_button: Create a workaround for nerd-fonts' TTC feature, ([which was this PR](https://github.com/ryanoasis/nerd-fonts/pull/783) by calculating estimated space used which may halt users that exceeds `OpenType` font 65,535 limitations.
-
-* :exclamation: (**Indefinite**) _I'm currently learning anything **Full-Stack Web Development** as I want to take it very seriously now._
 
 * :exclamation: (**_Asynchronous Task_ | High-Priority**) [I'm planning on designing my website for blogging and portfolio purposes.](https://github.com/CodexLink/codexlink.github.io)
 
