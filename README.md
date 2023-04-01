@@ -9,13 +9,9 @@
 
 > _Previously Full-Stack (Non-Web)_, **Now Team Backend Dev.** | _Participating in OSS with Implementation Examples_ | _**DRY Complexity, Repeat Simplicity**_.
 
-
-
-<hr />
-
 ### :bar_chart: Knowledge Table
 
-<table class="center">
+<table align="center">
   <tr>
     <td>
       <b>Discontinued / Knowledge Degraded</b>
@@ -80,17 +76,12 @@
   </tr>
 </table>
 
-<table class="center">
-  <tr>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink&layout=compact&card_width=350"/>
-    </td>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=21" />
-    </td>
-  </tr>
-</table>
+<div>
 
+<table>
+  <tr>
+    <td width="65%">
+    
 ### :thinking: What am I doing right now?
 
 > Everything is going to be slower than expected, **until 2-3 (probable case, 2.5) years later**.
@@ -108,8 +99,14 @@
 * :pause_button: (**Mid-Priority**) [Finish this 3 years old certification for full-stack development](https://github.com/CodexLink/VueJS_ECommerce)
 
 * :pause_button: **???**.
-
-<hr />
+    </td>
+    <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink&layout=compact&card_width=350"/>
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=21" />
+    </td>
+  </tr>
+</table>
   
 ### :balance_scale: Development Consumption Time In Week's Scale
 
@@ -122,6 +119,8 @@ Other   6 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 <!--END_SECTION:waka-->
+</div>
+</div>
 
 <div align="right">
 
