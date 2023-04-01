@@ -1,24 +1,19 @@
 ## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
 
-> **Python-developed** | ???
-
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
-
 [![LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-00979D?style=flat&logo=linkedin)](https://linkedin.com/in/CodexLink)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 
-## I'm? / I?
-1. A fresh graduate with experience in full-stack development, for both web (_Vue.js + FastAPI_) and Win32 Apps (_Python with Kivy_ or _Python + Qt 5 + MySQL_).
-2. Like to publish my projects in the OSS space as part of contributing specific examples of certain implementations of a certain stack.
-3. Like to _DRY_ everything and minimally _repeat_ everything.
-4. Like backend development and automation.
+> **Python-developed**
+
+> _Previously Full-Stack (Non-Web)_, **Now Team Backend Dev.** | _Participating in OSS with Implementation Examples_ | _**DRY Complexity, Repeat Simplicity**_.
+
+
 
 <hr />
 
-### :bar_chart: Experience Table
-
-This table contains technology stacks, frameworks, and programming languages that I recently discontinued to learn or from using (**but has recent experience with them**), currently learning, and to-be-planned or on the phase of on-halt due to time conflicts.
+### :bar_chart: Knowledge Table
 
 <table class="center">
   <tr>
@@ -29,7 +24,7 @@ This table contains technology stacks, frameworks, and programming languages tha
       <b>Knowledge Retained (Considers Bare-Minimum Familiarity)</b>
     </td>
     <td>
-      <b>Currently Learning / Enqueued Stacks To Learn</b>
+      <b>Learning / Enqueued</b>
     </td>
     <td>
       <b>To Learn / On-Halt</b>
@@ -96,28 +91,23 @@ This table contains technology stacks, frameworks, and programming languages tha
   </tr>
 </table>
 
-### :previous_track_button: Previous State
-
-- I did a volunteer work (_previously as Intern_) with JuanLoop ([Facebook Page](https://www.facebook.com/itsJuanLoop) | [Site](https://www.itsjuanloop.com/)) as a **Backend Engineer**.
-> I handle CI, error reports, analytics integration, AWS services and much more. Technically involved in the Full-Stack workflow but my main focus is the backend integration.
-
 ### :thinking: What am I doing right now?
 
 > Everything is going to be slower than expected, **until 2-3 (probable case, 2.5) years later**.
 
-* :arrow_forward: (**_Asynchronous Task_ | Mid-Priority**) [Designing a `aiohttp` queue processor.](https://github.com/CodexLink/aiohttp-queue-wrapper)
+* :arrow_forward: (**Mid-Priority**) [Designing a `aiohttp` queue processor.](https://github.com/CodexLink/aiohttp-queue-wrapper)
 
-* :arrow_forward: (**_Asynchronous Task_ | Mid-Priority**) [Discord Activity Badge refactorization as part of revival process.](https://github.com/CodexLink/discord-activity-badge)
+* :arrow_forward: (**Mid-Priority**) [Discord Activity Badge refactorization as part of revival process.](https://github.com/CodexLink/discord-activity-badge)
 
 * :pause_button: Create a workaround for nerd-fonts' TTC feature, ([which was this PR](https://github.com/ryanoasis/nerd-fonts/pull/783) by calculating estimated space used which may halt users that exceeds `OpenType` font 65,535 limitations.
 
-* :exclamation: (**_Asynchronous Task_ | High-Priority**) [I'm planning on designing my website for blogging and portfolio purposes.](https://github.com/CodexLink/codexlink.github.io)
+* :pause_button: (**High-Priority**) [I'm planning on designing my website for blogging and portfolio purposes.](https://github.com/CodexLink/codexlink.github.io)
 
-* :exclamation: (**_Asynchronous Task_ | Mid-Priority**) [I'm about to document and probably fix up everything in Phase 1 (out of ???) as it was my thesis project.](https://github.com/CodexLink/folioblocks) 
+* :exclamation: (**Mid-Priority**) [I'm about to document and probably fix up everything in Phase 1 (out of ???) as it was my thesis project.](https://github.com/CodexLink/folioblocks) 
 
-* :pause_button: (**_Asynchronous Task_ | Mid-Priority**) [Finish this 3 years old certification for full-stack development](https://github.com/CodexLink/VueJS_ECommerce)
+* :pause_button: (**Mid-Priority**) [Finish this 3 years old certification for full-stack development](https://github.com/CodexLink/VueJS_ECommerce)
 
-* :pause_button: (**_Asynchronous Task_ | Low-Priority**) Currently doing a trading strategy + automation as a potential side line. (**Currently on-hold: _Automation and backtesting left_** ).
+* :pause_button: **???**.
 
 <hr />
   
