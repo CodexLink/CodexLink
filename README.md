@@ -80,7 +80,7 @@
 
 <table>
   <tr>
-    <td width="65%">
+    <td width="40%">
     
 ### :thinking: What am I doing right now?
 
