@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20MAGENTA%20POTION%20-%20Extended%20Mix%20by%20EmoCosine%20%7C%200%3A01%3A50%20of%200%3A03%3A31?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20tell%20me%20tell%20me%20-%20kamome%20sano%20remix%20by%20m-flo%20loves%20Sik-K%20%26%20eill%20%26%20%E5%90%91%E4%BA%95%E5%A4%AA%E4%B8%80%3B%20m-flo%3B%20Sik-K%3B%20eill%3B%20Taichi%20Mukai%20%7C%200%3A01%3A12%20of%200%3A03%3A55?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 
 ## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
@@ -7,7 +7,7 @@
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20MAGENTA%20POTION%20-%20Extended%20Mix%20by%20EmoCosine%20%7C%200%3A01%3A50%20of%200%3A03%3A31?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20tell%20me%20tell%20me%20-%20kamome%20sano%20remix%20by%20m-flo%20loves%20Sik-K%20%26%20eill%20%26%20%E5%90%91%E4%BA%95%E5%A4%AA%E4%B8%80%3B%20m-flo%3B%20Sik-K%3B%20eill%3B%20Taichi%20Mukai%20%7C%200%3A01%3A12%20of%200%3A03%3A55?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 > **Python-developed** | **_Data Engineer_** | **Backend Developer at Heart**
 
