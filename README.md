@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Just%20right%20slow%20by%20Nanahira%20%7C%200%3A03%3A45%20of%200%3A03%3A53?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Fi%D0%B8orza%20by%20Camellia%3B%20Nanahira%20%7C%200%3A01%3A25%20of%200%3A04%3A49?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 
 ## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
@@ -7,7 +7,7 @@
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Just%20right%20slow%20by%20Nanahira%20%7C%200%3A03%3A45%20of%200%3A03%3A53?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Fi%D0%B8orza%20by%20Camellia%3B%20Nanahira%20%7C%200%3A01%3A25%20of%200%3A04%3A49?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 > **Python-developed** | **_Data Engineer_** | **Backend Developer at Heart**
 
