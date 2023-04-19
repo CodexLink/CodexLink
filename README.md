@@ -9,7 +9,7 @@
 
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 
-> **Python-developed** | **_Data Engineer_** | **Backend Developer at Heart**
+> **Python-developed** | **_Data Engineer_** | **Backend Developer at <3**
 
 > _Previously Full-Stack (Non-Web)_, **Now Team Backend Dev.** | _Participating in OSS with Implementation Examples_ | _**DRY Complexity, Repeat Simplicity**_.
 
@@ -88,21 +88,22 @@
     
 ### :thinking: What am I doing right now?
 
-> Everything is going to be slower than expected, **until 2-3 (probable case, 2.5) years later**.
+> _Since 04/19/2023_ | **Everything is going to be slower than expected, **until 2-3 (probable case, 2.5) years later**.
 
+* :pause_button: **??? Personal Project**. (_Hint: Data Analytics and Engineering_)
+      
 * :arrow_forward: (**Mid-Priority**) [Designing a `aiohttp` queue processor.](https://github.com/CodexLink/aiohttp-queue-wrapper)
 
-* :arrow_forward: (**Mid-Priority**) [Discord Activity Badge refactorization as part of revival process.](https://github.com/CodexLink/discord-activity-badge)
+* :arrow_forward: (**Low-Priority**) [Discord Activity Badge refactorization as part of revival process.](https://github.com/CodexLink/discord-activity-badge)
 
 * :pause_button: Create a workaround for nerd-fonts' TTC feature, ([which was this PR](https://github.com/ryanoasis/nerd-fonts/pull/783) by calculating estimated space used which may halt users that exceeds `OpenType` font 65,535 limitations.
 
-* :pause_button: (**High-Priority**) [I'm planning on designing my website for blogging and portfolio purposes.](https://github.com/CodexLink/codexlink.github.io)
+* :pause_button: (**Low-Priority**) [I'm planning on designing my website for blogging and portfolio purposes.](https://github.com/CodexLink/codexlink.github.io)
 
-* :exclamation: (**Mid-Priority**) [I'm about to document and probably fix up everything in Phase 1 (out of ???) as it was my thesis project.](https://github.com/CodexLink/folioblocks) 
+* :exclamation: (**Paused**) [I'm about to document and probably fix up everything in Phase 1 (out of ???) as it was my thesis project.](https://github.com/CodexLink/folioblocks) 
 
-* :pause_button: (**Mid-Priority**) [Finish this 3 years old certification for full-stack development](https://github.com/CodexLink/VueJS_ECommerce)
+* :pause_button: (**Paused**) [Finish this 3 years old certification for full-stack development](https://github.com/CodexLink/VueJS_ECommerce)
 
-* :pause_button: **???**.
     </td>
     <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink&layout=compact&card_width=350"/>
