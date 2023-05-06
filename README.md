@@ -81,16 +81,17 @@
 </table>
 
 <div>
-
 <table>
   <tr>
     <td width="50%">
     
 ### :thinking: What am I doing right now?
 
-> _Since 04/19/2023_ | **Everything is going to be slower than expected, **until 2-3 (probable case, 2.5) years later**.
+> _Since 05/06/2023_ | **Everything is going to be slower than expected, **until 2-3 (probable case, 2.5) years later**.
 
-* :pause_button: **??? Personal Project**. (_Hint: Data Analytics and Engineering_)
+* :arrow_forward: (**Mid-Priority**) Reviewing for PCAP Certification.
+
+* :pause_button: **??? Personal Project**. (_Hint: Data Analytics and Engineering, with Machine Learning or AI for Automation_)
       
 * :arrow_forward: (**Mid-Priority**) [Designing a `aiohttp` queue processor.](https://github.com/CodexLink/aiohttp-queue-wrapper)
 
