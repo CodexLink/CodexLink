@@ -1,17 +1,16 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 
 ## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
+
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 [![LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-00979D?style=flat&logo=linkedin)](https://linkedin.com/in/CodexLink)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
-
 > **Python-developed** | **_Data Engineer_** | **Backend Developer at <3**
 
-> _Previously Full-Stack (Non-Web)_, **Now Team Backend Dev.** | _Participating in OSS with Implementation Examples_ | _**DRY Complexity, Repeat Simplicity**_.
+> _Previously Full-Stack (Non-Web)_, **Backend Dev — Main** | _Participating in OSS with Implementation Examples_ | _**DRY Complexity, Repeat Simplicity**_.
 
 ### :bar_chart: Knowledge Table
 
@@ -62,17 +61,20 @@
         <img alt="Vue.JS%20%28Pre%20Mature%29" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
     </td>
     <td>
+        <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
+        <img alt="Talend" src="https://img.shields.io/badge/-Talend-FF6D70?style=flat&logo=talend&logoColor=white"/>
         <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=flat"/>
         <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
         <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
     </td>
     <td>
+        <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
+        <img alt="Talend" src="https://img.shields.io/badge/-Talend-FF6D70?style=flat&logo=talend&logoColor=white"/>
         <img alt="AWS CloudFormation" src="https://img.shields.io/badge/-AWS%20CloudFormation-FF4F8B?style=flat&logo=amazonaws&logoColor=white"/>
         <img alt="C++ (Modern)" src="https://img.shields.io/badge/-Modern%20C%2B%2B-00599C?style=flat-&logo=c%2B%2B&logoColor=white"/>
         <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
         <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat"/>
-        <img alt="Hasura" src="https://img.shields.io/badge/Hasura-1EB4D4?logo=hasura&logoColor=white&style=flat"/>
         <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
         <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat&logo=kubernetes&logoColor=white"/>
         <img alt="Starlette" src="https://img.shields.io/badge/-Starlette-FFEA00?style=flat&logoColor=white"/>
@@ -87,21 +89,25 @@
     
 ### :thinking: What am I doing right now?
 
-> _Since 05/06/2023_ | **Everything is going to be slower than expected, **until 2-3 (probable case, 2.5) years later**.
+> _Since 06/21/2023_ | **Everything is going to be slower than expected**.
 
+* :arrow_forward: (**High-Priority**) Going for Apache Kafka Certified Developer.
+* 
 * :arrow_forward: (**Mid-Priority**) Reviewing for PCAP Certification.
+
+* :arrow_forward: **??? Backtesting ... A Lot**
 
 * :pause_button: **??? Personal Project**. (_Hint: Data Analytics and Engineering, with Machine Learning or AI for Automation_)
       
-* :arrow_forward: (**Mid-Priority**) [Designing a `aiohttp` queue processor.](https://github.com/CodexLink/aiohttp-queue-wrapper)
+* :arrow_forward: (**Mid-Priority, Paused**) [Designing a `aiohttp` queue processor.](https://github.com/CodexLink/aiohttp-queue-wrapper)
 
-* :arrow_forward: (**Low-Priority**) [Discord Activity Badge refactorization as part of revival process.](https://github.com/CodexLink/discord-activity-badge)
+* :pause_button: (**Low-Priority, Paused**) [Discord Activity Badge refactorization as part of revival process.](https://github.com/CodexLink/discord-activity-badge)
 
 * :pause_button: Create a workaround for nerd-fonts' TTC feature, ([which was this PR](https://github.com/ryanoasis/nerd-fonts/pull/783) by calculating estimated space used which may halt users that exceeds `OpenType` font 65,535 limitations.
 
-* :pause_button: (**Low-Priority**) [I'm planning on designing my website for blogging and portfolio purposes.](https://github.com/CodexLink/codexlink.github.io)
+* :pause_button: (**Low-Priority, Paused**) [I'm planning on designing my website for blogging and portfolio purposes.](https://github.com/CodexLink/codexlink.github.io)
 
-* :exclamation: (**Paused**) [I'm about to document and probably fix up everything in Phase 1 (out of ???) as it was my thesis project.](https://github.com/CodexLink/folioblocks) 
+* :pause_button: (**Paused**) [I'm about to document and probably fix up everything in Phase 1 (out of ???) as it was my thesis project.](https://github.com/CodexLink/folioblocks) 
 
 * :pause_button: (**Paused**) [Finish this 3 years old certification for full-stack development](https://github.com/CodexLink/VueJS_ECommerce)
 
