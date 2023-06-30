@@ -2,7 +2,7 @@
 
 ## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20tiC%20taC%20-%202021%20Remaster%20by%20CAPSULE%20%7C%200%3A01%3A51%20of%200%3A02%3A30?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Synesthesia%20-%20Original%20Mix%20by%20aran%20%7C%200%3A05%3A43%20of%200%3A08%3A20?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 [![LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-00979D?style=flat&logo=linkedin)](https://linkedin.com/in/CodexLink)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
