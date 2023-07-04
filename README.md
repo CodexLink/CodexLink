@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Escapism%20by%20TEMPLIME%3B%20%E6%98%9F%E5%AE%AE%E3%81%A8%E3%81%A8%20%7C%200%3A00%3A35%20of%200%3A02%3A53?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 [![LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-00979D?style=flat&logo=linkedin)](https://linkedin.com/in/CodexLink)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
@@ -10,7 +10,7 @@
 
 > _Previously Full-Stack (Non-Web)_, **Backend Dev — Main** | _Participating in OSS with Implementation Examples_ | _**DRY Complexity, Repeat Simplicity**_.
 
-### :bar_chart: Knowledge Table
+### :scroll: Knowledge Table
 
 <table align="center">
   <tr>
@@ -79,24 +79,22 @@
     </td>
   </tr>
 </table>
-
 <div>
 <table>
   <tr>
-    <td width="50%">
-    
-### :thinking: What am I doing right now?
+    <td width="50%">  
+    <h3 style="margin-top: 0 !important">:thinking: What am I doing right now?</h3>
 
 > _Since 06/21/2023_ | **Everything is going to be slower than expected**.
 
 * :arrow_forward: (**High-Priority**) Going for Apache Kafka Certified Developer.
-* 
+
 * :arrow_forward: (**Mid-Priority**) Reviewing for PCAP Certification.
 
 * :arrow_forward: **??? Backtesting ... A Lot**
 
 * :pause_button: **??? Personal Project**. (_Hint: Data Analytics and Engineering, with Machine Learning or AI for Automation_)
-      
+
 * :arrow_forward: (**Mid-Priority, Paused**) [Designing a `aiohttp` queue processor.](https://github.com/CodexLink/aiohttp-queue-wrapper)
 
 * :pause_button: (**Low-Priority, Paused**) [Discord Activity Badge refactorization as part of revival process.](https://github.com/CodexLink/discord-activity-badge)
@@ -105,14 +103,12 @@
 
 * :pause_button: (**Low-Priority, Paused**) [I'm planning on designing my website for blogging and portfolio purposes.](https://github.com/CodexLink/codexlink.github.io)
 
-* :pause_button: (**Paused**) [I'm about to document and probably fix up everything in Phase 1 (out of ???) as it was my thesis project.](https://github.com/CodexLink/folioblocks) 
+* :pause_button: (**Paused**) [I'm about to document and probably fix up everything in Phase 1 (out of ???) as it was my thesis project.](https://github.com/CodexLink/folioblocks)
 
 * :pause_button: (**Paused**) [Finish this 3 years old certification for full-stack development](https://github.com/CodexLink/VueJS_ECommerce)
-
     </td>
     <td>
-      <div>
-      <h3>Stats</h3>
+      <h3>:bar_chart: Stats</h3>
       <blockquote>Updated via GitHub Workflows or through HTTP Requests.</blockquote>
       <div align="center">
         <br />
@@ -120,6 +116,9 @@
         <br />
         <img src="https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=20" />
       </div>
+<hr />
+<h3>:clock10: Activity</h3>
+<blockquote>Updates every week.</blockquote>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -129,7 +128,6 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-  </div>
   </td>
   </tr>
 </table>
