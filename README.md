@@ -1,8 +1,6 @@
-
-
 ## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20if%20god%20didnt%20want%20us%20to%20snort%20worms%20he%20wouldn%27t%20have%20made%20them%20cylindrical%21%20by%20MIMIDEATH%20%7C%200%3A00%3A05%20of%200%3A00%3A58?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 [![LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-00979D?style=flat&logo=linkedin)](https://linkedin.com/in/CodexLink)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
@@ -112,16 +110,16 @@
 * :pause_button: (**Paused**) [Finish this 3 years old certification for full-stack development](https://github.com/CodexLink/VueJS_ECommerce)
 
     </td>
-    <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink&layout=compact&card_width=350"/>
+    <td>
+      <div>
+      <h3>Stats</h3>
+      <blockquote>Updated via GitHub Workflows or through HTTP Requests.</blockquote>
+      <div align="center">
         <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=21" />
-    </td>
-  </tr>
-</table>
-  
-### :balance_scale: Development Consumption Time In Week's Scale
-
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink"/>
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=20" />
+      </div>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -131,14 +129,15 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-</div>
-</div>
-
+  </div>
+  </td>
+  </tr>
+</table>
+  
 <div align="right">
 
 [![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
 [![Discord Activity Badge Updater](https://github.com/CodexLink/CodexLink/actions/workflows/DiscordBadge.yml/badge.svg?branch=master)](https://github.com/CodexLink/CodexLink/actions/workflows/DiscordBadge.yml)
-![README Activity Updater](https://github.com/CodexLink/CodexLink/workflows/README%20Activity%20Updater/badge.svg)
 ![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
 
 </div>
