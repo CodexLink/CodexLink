@@ -2,7 +2,7 @@
 
 ## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20GO%21%20GO%21%20Fine%20Day%20by%20CAPSULE%20%7C%200%3A01%3A11%20of%200%3A03%3A15?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E7%A9%BA%E6%B8%AF%20by%20CAPSULE%20%7C%200%3A01%3A58%20of%200%3A05%3A07?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 [![LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-00979D?style=flat&logo=linkedin)](https://linkedin.com/in/CodexLink)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
