@@ -15,16 +15,16 @@
 <table align="center">
   <tr>
     <td>
-      <b>Discontinued / Knowledge Degraded</b>
+      <b>Discontinued<br />(<i>Knowledge Degraded</i>)</b>
     </td>
     <td>
-      <b>Knowledge Retained (Considers Bare-Minimum Familiarity)</b>
+      <b>Knowledge Retained<br />(<i>Considers Bare-Minimum Familiarity</i>)</b>
     </td>
     <td>
-      <b>Learning / Enqueued</b>
+      <b>Currently Learning</b>
     </td>
     <td>
-      <b>To Learn / On-Halt</b>
+      <b>Halted</b>
     </td>
   </tr>
   <tr>
@@ -67,8 +67,6 @@
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
     </td>
     <td>
-        <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
-        <img alt="Talend" src="https://img.shields.io/badge/-Talend-FF6D70?style=flat&logo=talend&logoColor=white"/>
         <img alt="AWS CloudFormation" src="https://img.shields.io/badge/-AWS%20CloudFormation-FF4F8B?style=flat&logo=amazonaws&logoColor=white"/>
         <img alt="C++ (Modern)" src="https://img.shields.io/badge/-Modern%20C%2B%2B-00599C?style=flat-&logo=c%2B%2B&logoColor=white"/>
         <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
@@ -82,7 +80,7 @@
 <div>
 <table>
   <tr>
-    <td width="50%">  
+    <td style="width: 70%">  
     <h3 style="margin-top: 0 !important">:thinking: What am I doing right now?</h3>
 
 > _Since 06/21/2023_ | **Everything is going to be slower than expected**.
@@ -108,17 +106,17 @@
 * :pause_button: (**Paused**) [Finish this 3 years old certification for full-stack development](https://github.com/CodexLink/VueJS_ECommerce)
     </td>
     <td>
-      <h3>:bar_chart: Stats</h3>
-      <blockquote>Updated via GitHub Workflows or through HTTP Requests.</blockquote>
+      <h3>:bar_chart: Statistics</h3>
+      <blockquote><i>Updated via GitHub Workflows or through HTTP Requests.</i></blockquote>
       <div align="center">
         <br />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink"/>
         <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=20" />
+        <img src="https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&line_height=20" />
       </div>
 <hr />
-<h3>:clock10: Activity</h3>
-<blockquote>Updates every week.</blockquote>
+<h3>:clock10: Coding Activities</h3>
+<blockquote><i>Updates every week.</i></blockquote>
 <!--START_SECTION:waka-->
 
 ```txt
