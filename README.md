@@ -80,7 +80,7 @@
 <div>
 <table>
   <tr>
-    <td style="width: 70%">  
+    <td>  
     <h3 style="margin-top: 0 !important">:thinking: What am I doing right now?</h3>
 
 > _Since 06/21/2023_ | **Everything is going to be slower than expected**.
@@ -112,7 +112,7 @@
         <br />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink"/>
         <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&line_height=20" />
+        <img style="width: 70%" src="https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&line_height=20" />
       </div>
 <hr />
 <h3>:clock10: Coding Activities</h3>
