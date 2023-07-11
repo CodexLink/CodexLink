@@ -112,7 +112,7 @@
         <br />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink"/>
         <br />
-        <img style="width: 70%" src="https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&line_height=20" />
+        <img src="https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&line_height=20" />
       </div>
 <hr />
 <h3>:clock10: Coding Activities</h3>
