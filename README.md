@@ -21,7 +21,7 @@
       <b>Knowledge Retained<br />(<i>Considers Bare-Minimum Familiarity</i>)</b>
     </td>
     <td>
-      <b>Currently Learning</b>
+      <b>Currently Learning/Focusing at</b>
     </td>
     <td>
       <b>Halted</b>
@@ -35,6 +35,7 @@
       <img alt="VHDL" src="https://img.shields.io/badge/-VHDL-46A2F1?style=flat&logoColor=white"/>
     </td>
     <td>
+        <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
         <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
         <img alt="AWS API Gateway" src="https://img.shields.io/badge/-AWS%20API%20Gateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=white"/>
         <img alt="AWS Cognito" src="https://img.shields.io/badge/-AWS%20Cognito-FF4F8B?style=flat&logo=amazonaws&logoColor=white"/>
@@ -56,24 +57,26 @@
         <img alt="Python" src="https://img.shields.io/badge/-Python-33776AB?style=flat&logo=python&logoColor=white"/>
         <img alt="Quasar%20%28Pre%20Mature%29" src="https://img.shields.io/badge/Quasar-1976E2?logo=quasar&logoColor=white&style=flat"/>
         <img alt="Sentry.io" src="https://img.shields.io/badge/-Sentry.io-362D59?style=flat&logo=sentry&logoColor=white"/>
+        <img alt="Talend" src="https://img.shields.io/badge/-Talend-FF6D70?style=flat&logo=talend&logoColor=white"/>
         <img alt="Vue.JS%20%28Pre%20Mature%29" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
     </td>
     <td>
-        <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
-        <img alt="Talend" src="https://img.shields.io/badge/-Talend-FF6D70?style=flat&logo=talend&logoColor=white"/>
-        <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=flat"/>
-        <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
-        <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
+        <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/>
+        <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white"/>
     </td>
     <td>
+        <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
         <img alt="AWS CloudFormation" src="https://img.shields.io/badge/-AWS%20CloudFormation-FF4F8B?style=flat&logo=amazonaws&logoColor=white"/>
         <img alt="C++ (Modern)" src="https://img.shields.io/badge/-Modern%20C%2B%2B-00599C?style=flat-&logo=c%2B%2B&logoColor=white"/>
         <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
         <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat"/>
         <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
         <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-32CCE5?style=flat&logo=kubernetes&logoColor=white"/>
+        <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=flat"/>
+        <img alt="React" src="https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white&style=flat"/>
+        <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
         <img alt="Starlette" src="https://img.shields.io/badge/-Starlette-FFEA00?style=flat&logoColor=white"/>
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
     </td>
   </tr>
 </table>
@@ -83,11 +86,11 @@
     <td>  
     <h3 style="margin-top: 0 !important">:thinking: What am I doing right now?</h3>
 
-> _Since 06/21/2023_ | **Everything is going to be slower than expected**.
+> _Since 08/06/2023_ | **Everything is almost paused (_except on sideline_) due to on-site client work. May resume by next year.**.
 
-* :arrow_forward: (**High-Priority**) Going for Apache Kafka Certified Developer.
+* :pause_button: (**High-Priority**) Going for Apache Kafka Certified Developer.
 
-* :arrow_forward: (**Mid-Priority**) Reviewing for PCAP Certification.
+* :pause_button: (**Mid-Priority**) Reviewing for PCAP Certification.
 
 * :arrow_forward: **??? Backtesting ... A Lot**
 
