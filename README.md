@@ -80,6 +80,9 @@
     </td>
   </tr>
 </table>
+
+> This does include more than programming languages. It includes SaaS, IaaS, PaaS, and anything else tech-related.
+
 <div>
 <table>
   <tr>
