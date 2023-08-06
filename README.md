@@ -6,7 +6,7 @@
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
-> **Python-developed** | **_Data Engineer_** | **Backend Developer at <3**
+> (_Backend_) **Python-developed** | [ **_Python Data Engineer_ by Day** / _________ **_by Night_** ]
 
 > _Previously Full-Stack (Non-Web)_, **Backend Dev — Main** | _Participating in OSS with Implementation Examples_ | _**DRY Complexity, Repeat Simplicity**_.
 
@@ -140,7 +140,7 @@ JSON           13 mins         ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <div align="right">
 
 [![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
-[![Discord Activity Badge Updater](https://github.com/CodexLink/CodexLink/actions/workflows/DiscordBadge.yml/badge.svg?branch=master)](https://github.com/CodexLink/CodexLink/actions/workflows/DiscordBadge.yml)
+[![Discord Activity Badge Updater](https://github.com/CodexLink/CodexLink/actions/workflows/DiscordBadge.yml/badge.svg?branch=latest)](https://github.com/CodexLink/CodexLink/actions/workflows/DiscordBadge.yml)
 ![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
 
 </div>
