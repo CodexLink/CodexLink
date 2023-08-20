@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Time%20Warp%20by%20Perfume%20%7C%200%3A00%3A53%20of%200%3A02%3A54?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AF%E5%A4%A7%E5%A4%89%E3%81%AA%E3%82%82%E3%81%AE%E3%82%92%E7%9B%97%E3%82%93%E3%81%A7%E3%81%84%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%20by%20IOSYS%20%7C%200%3A00%3A25%20of%200%3A04%3A01?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 [![LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-00979D?style=flat&logo=linkedin)](https://linkedin.com/in/CodexLink)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
