@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Burnt%20Rice%20%28Henrik%20the%20Artist%20Remix%29%20%5Bfeat.%20Yung%20Gemmy%5D%20by%20Shawn%20Wasabi%3B%20YDG%3B%20Yung%20GEMMY%20%7C%200%3A02%3A20%20of%200%3A03%3A16?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Thinkin%27%20of%20U.%20by%20Snail%27s%20House%20%7C%200%3A00%3A29%20of%200%3A02%3A25?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 [![LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-00979D?style=flat&logo=linkedin)](https://linkedin.com/in/CodexLink)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
