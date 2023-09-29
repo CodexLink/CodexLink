@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Janrey Licas, known as `CodexLink`.
+## 👋 Hello! I'm Janrey Licas (`CodexLink`)
 
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 
@@ -6,9 +6,11 @@
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
-> (_Backend_) **Python-developed** | [ **_Python Data Engineer_ by Day** / _________ **_by Night_** ]
+> `return (is_day ? "(Backend) Python(-developed) Data Engineer" : str(<object 'Future'>.result())) # type: ignore`
 
-> _Previously Full-Stack (Non-Web)_, **Backend Dev — Main** | _Participating in OSS with Implementation Examples_ | _**DRY Complexity, Repeat Simplicity**_.
+> **Path**: C -> [C++ -> Rust (TBD)] -> Python (PyQt5 -> Django -> (Transition to Pure Backend) -> Django REST -> Flask -> (Touch up to Misc. Libraries) ->  OpenCV -> (Data Science Libraries) -> FastAPI -> **Starlette (Soon) (Current)**) <-> Vue.js -> React (_Incomplete_)
+
+> I usually contribute to OSS in a different way, such as creating examples of specific tech stacks. **Currently inactive**.
 
 ### :scroll: Knowledge Table
 
@@ -82,19 +84,15 @@
   </tr>
 </table>
 
-> This does include more than programming languages. It includes SaaS, IaaS, PaaS, and anything else tech-related.
+> _This does include more than programming languages. It includes SaaS, IaaS, PaaS, and anything else tech-related._
 
 <div>
 <table>
   <tr>
     <td>  
-    <h3 style="margin-top: 0 !important">:thinking: What am I doing right now?</h3>
-
-> _Since 09/24/2023_ | **Still paused. This was due to on-site work (_which I did not want to_). 😞**.
+    <h3 style="margin-top: 0 !important">:thinking: Agendas?</h3>
 
 * :arrow_forward: Passively Reviewing for PCEP/PCAP (Python).
-
-* :arrow_forward: Designing a Personal TradingView indicator, known as '_cdx | Quick Intraday Analysis (Q-IA, Q-Intra-nalysis)_'.
 
 * :arrow_forward: **???**
 
@@ -104,13 +102,10 @@
 
 * :pause_button: (**Paused**) [Discord Activity Badge refactorization as part of revival process.](https://github.com/CodexLink/discord-activity-badge)
 
-* :pause_button: (**Paused**) Create a workaround for nerd-fonts' TTC feature, ([which was this PR](https://github.com/ryanoasis/nerd-fonts/pull/783) by calculating estimated space used which may halt users that exceeds `OpenType` font 65,535 limitations. (_Overdue_)
-
 * :pause_button: (**Paused**) [I'm planning on designing my website for blogging and portfolio purposes.](https://github.com/CodexLink/codexlink.github.io)
 
 * :pause_button: (**Paused**) [I'm about to document and probably fix up everything in Phase 1 (out of ???) as it was my thesis project.](https://github.com/CodexLink/folioblocks)
 
-* :pause_button: ~~(**Paused**) [Finish this 3 year old certification for full-stack development](https://github.com/CodexLink/VueJS_ECommerce)~~ (_Overdue_)
     </td>
     <td>
       <h3>:bar_chart: Statistics</h3>
