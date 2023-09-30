@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey Licas (`CodexLink`)
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Obliterate%20the%20Shit%20out%20of%20a%20SEWERSLVT%20Fan%20in%20WALGREENS%20for%20the%20most%20Obvious%20reasoning%20by%20EVABOY%20%7C%200%3A01%3A13%20of%200%3A02%3A40?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Grabinschrift%20der%20G%C3%B6tter%20by%20GTS%20Sound%20Team%3B%20Kagetora.%3B%20ikaruga_nex%20%7C%200%3A02%3A53%20of%200%3A05%3A10?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-00979D?style=flat&logo=linkedin)](https://www.linkedin.com/in/janrey-licas/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
