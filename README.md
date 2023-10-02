@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey Licas (`CodexLink`)
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Eat%20Sleep%20Dance%20by%20%E9%9B%BB%E9%9F%B3%E9%83%A8%3B%20Moe%20Shop%3B%20%E7%8A%AC%E5%90%A0%E5%9F%BC%E7%B4%AB%E6%9D%8F%20%28CV%3A%20%E9%95%B7%E8%B0%B7%E5%B7%9D%E7%8E%B2%E5%A5%88%29%20%7C%200%3A01%3A15%20of%200%3A03%3A16?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-00979D?style=flat&logo=linkedin)](https://www.linkedin.com/in/janrey-licas/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
