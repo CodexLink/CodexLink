@@ -8,7 +8,7 @@
 
 > `return (is_day ? "(Backend) Python(-developed) Data Engineer" : str(<object 'Future'>.result())) # type: ignore`
 
-> **Path**: C -> [C++ -> Rust (TBD)] -> Python (PyQt5 -> Django -> (Transition to Pure Backend) -> Django REST -> Flask -> (Touch up to Misc. Libraries) ->  OpenCV -> (Data Science Libraries) -> FastAPI -> **Starlette (Soon) (Current)**) <-> Vue.js -> React (_Incomplete_)
+> **Path**: C -> [C++ -> Rust (TBD)] -> Python (PyQt5 -> Django -> (Transition to Pure Backend) -> Django REST -> Flask -> (Touch up to Misc. Libraries) ->  OpenCV -> (Data Science Libraries) -> FastAPI -> **Litestar (Soon) (Current)**) <-> Vue.js -> React (_Incomplete_)
 
 > I usually contribute to OSS in a different way, such as creating examples of specific tech stacks. **Currently inactive**.
 
