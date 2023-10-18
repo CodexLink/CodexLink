@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey Licas (`CodexLink`)
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20You%20Make%20My%20Life%201UP%20-%20x127%20Long%20ver.%20by%20Nanahira%3B%20Camellia%20%7C%200%3A02%3A50%20of%200%3A04%3A40?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Comet%20Coaster%20by%20DJ%20Noriken%3B%20aran%20%7C%200%3A01%3A59%20of%200%3A02%3A30?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-00979D?style=flat&logo=linkedin)](https://www.linkedin.com/in/janrey-licas/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
