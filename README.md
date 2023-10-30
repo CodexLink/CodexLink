@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey Licas (`CodexLink`)
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Playing%20Game/Apex%20Legends%2C%2028%20minutes%20elapsed.?color=61d800&labelColor=00cd90&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Playing%20Game/Apex%20Legends%2C%2044%20minutes%20elapsed.?color=61d800&labelColor=00cd90&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-00979D?style=flat&logo=linkedin)](https://www.linkedin.com/in/janrey-licas/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
