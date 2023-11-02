@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Janrey Licas (`CodexLink`)
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Itadaki%20Babel%20by%20%E9%9B%BB%E9%9F%B3%E9%83%A8%3B%20%E9%BB%92%E9%89%84%E3%81%9F%E3%81%BE%20%28CV%3A%20%E7%A7%8B%E5%A5%88%29%20%7C%200%3A00%3A42%20of%200%3A03%3A39?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Gate%20One%20-%20Extended%20Mix%20by%20aran%20%7C%200%3A01%3A03%20of%200%3A05%3A12?color=61d800&labelColor=1db954&icon=discord)](https://github.com/CodexLink/CodexLink)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-00979D?style=flat&logo=linkedin)](https://www.linkedin.com/in/janrey-licas/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
