@@ -63,8 +63,10 @@
         <img alt="Vue.JS%20%28Pre%20Mature%29" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
     </td>
     <td>
-        <img alt="Starlette" src="https://img.shields.io/badge/-Starlette-FFEA00?style=flat&logoColor=white"/>
-        <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&style=flat&logoColor=white"/>
+        <img alt="Backtrader" src="https://img.shields.io/badge/-Backtrader-000000?style=flat&logoColor=white"/>
+        <img alt="Looker Studio" src="https://img.shields.io/badge/-Looker%20Studio-4285F4?logo=looker&style=flat&logoColor=white"/>
+        <img alt="Litestar" src="https://img.shields.io/badge/-Starlette-FFD100?style=flat&logoColor=white"/>
+        <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&style=flat&logoColor=white"/>  
         <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
     </td>
     <td>
