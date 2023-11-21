@@ -92,9 +92,9 @@
     <td>  
     <h3 style="margin-top: 0 !important">:thinking: Agendas?</h3>
 
-* :arrow_forward: Passively Reviewing for PCEP/PCAP (Python).
+* :arrow_forward: **Doing** Finishing Udemy Course: Intermediate Python: Memory, Decorator, Async, Cython & more
 
-* :arrow_forward: **???**
+* :arrow_forward: Passively Reviewing for PCEP/PCAP (Python).
 
 * :arrow_forward: **???**
 
