@@ -64,10 +64,11 @@
     </td>
     <td>
         <img alt="Backtrader" src="https://img.shields.io/badge/-Backtrader-000000?style=flat&logoColor=white"/>
-        <img alt="Looker Studio" src="https://img.shields.io/badge/-Looker%20Studio-4285F4?logo=looker&style=flat&logoColor=white"/>
         <img alt="Litestar" src="https://img.shields.io/badge/-Starlette-FFD100?style=flat&logoColor=white"/>
-        <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&style=flat&logoColor=white"/>  
+        <img alt="Looker Studio" src="https://img.shields.io/badge/-Looker%20Studio-4285F4?logo=looker&style=flat&logoColor=white"/>
+        <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
         <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
+        <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&style=flat&logoColor=white"/>
     </td>
     <td>
         <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
