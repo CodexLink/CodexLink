@@ -92,19 +92,13 @@
     <td>  
     <h3 style="margin-top: 0 !important">:thinking: Agendas?</h3>
 
-* :arrow_forward: **Doing** Finishing Udemy Course: Intermediate Python: Memory, Decorator, Async, Cython & more
+* :arrow_forward: Passively Reviewing for PCEP/PCAP (Python)
 
-* :arrow_forward: Passively Reviewing for PCEP/PCAP (Python).
+* :arrow_forward: Designing TradingView Indicators for Personal Usage
 
-* :arrow_forward: **???**
+* :arrow_forward: Developing my personal project "Elysium Monolithic"
 
-* :arrow_forward: (**Paused**) [Designing a `aiohttp` queue processor.](https://github.com/CodexLink/aiohttp-queue-wrapper)
-
-* :pause_button: (**Paused**) [Discord Activity Badge refactorization as part of revival process.](https://github.com/CodexLink/discord-activity-badge)
-
-* :pause_button: (**Paused**) [I'm planning on designing my website for blogging and portfolio purposes.](https://github.com/CodexLink/codexlink.github.io)
-
-* :pause_button: (**Paused**) [I'm about to document and probably fix up everything in Phase 1 (out of ???) as it was my thesis project.](https://github.com/CodexLink/folioblocks)
+* :pause_button: (**Paused**) [(Considering to refactor) Discord Activity Badge.](https://github.com/CodexLink/discord-activity-badge)
 
     </td>
     <td>
