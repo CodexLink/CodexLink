@@ -88,24 +88,9 @@
 > _This does include more than programming languages. It includes SaaS, IaaS, PaaS, and anything else tech-related._
 
 <div>
-<table>
-  <tr>
-    <td>  
-    <h3 style="margin-top: 0 !important">:thinking: Agendas?</h3>
-
-* :arrow_forward: Passively Reviewing for PCEP/PCAP (Python)
-
-* :arrow_forward: Designing TradingView Indicators for Personal Usage
-
-* :arrow_forward: Developing my personal project "Elysium Monolithic"
-
-* :pause_button: (**Paused**) [(Considering to refactor) Discord Activity Badge.](https://github.com/CodexLink/discord-activity-badge)
-
-    </td>
-    <td>
       <h3>:bar_chart: Statistics</h3>
       <blockquote><i>Updated via GitHub Workflows or through HTTP Requests.</i></blockquote>
-      <div align="center">
+      <div>
         <br />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink"/>
         <br />
@@ -131,7 +116,6 @@ Text     2 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <div align="right">
 
 [![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=CodexLink&label=Visitor%20Profile%20Count&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
-[![Discord Activity Badge Updater](https://github.com/CodexLink/CodexLink/actions/workflows/DiscordBadge.yml/badge.svg?branch=latest)](https://github.com/CodexLink/CodexLink/actions/workflows/DiscordBadge.yml)
 ![WakaTime Stats Updater](https://github.com/CodexLink/CodexLink/workflows/WakaTime%20Stats%20Updater/badge.svg)
 
 </div>
