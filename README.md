@@ -4,11 +4,15 @@
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
-> `return (is_day ? "(Backend) Python(-developed) Data Engineer" : str(<object 'Future'>.result())) # type: ignore`
+> `Born to be a Full-Stack Engineer`
+> `Desired to be a Backend Engineer`
+> `Only to land at Data Engineering xD`
 
-> **Path**: C -> [C++ -> Rust (TBD)] -> Python (PyQt5 -> Django -> (Transition to Pure Backend) -> Django REST -> Flask -> (Touch up to Misc. Libraries) ->  OpenCV -> (Data Science Libraries) -> FastAPI -> **Litestar (Soon) (Current)**) <-> Vue.js -> React (_Incomplete_)
+> I like things `async`; Even though I haven't really master to do things with them.`
 
-> I usually contribute to OSS in a different way, such as creating examples of specific tech stacks. **Currently inactive**.
+> **My Learning Path to Developer to Engineer Today**: Win32C++ > HTML > C > C++ > Python (PyQt5 > Django > (Transition to Pure Backend) > Django REST > Flask -> (Touch up to Misc. Libraries) >  OpenCV -> (Data Science Libraries, `numpy` & `pandas` then `polars`) > FastAPI -> ??? <- unrelated learning -> Vue.js -> React (_Incomplete Knowledge_)
+
+> I used to casually contribute to OSS; in a different way, such as creating examples of specific tech stacks, I don't do that anymore.
 
 ### :scroll: Knowledge Table
 
@@ -35,6 +39,7 @@
       <img alt="VHDL" src="https://img.shields.io/badge/-VHDL-46A2F1?style=flat&logoColor=white"/>
     </td>
     <td>
+        <img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
         <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
         <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
         <img alt="AWS API Gateway" src="https://img.shields.io/badge/-AWS%20API%20Gateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=white"/>
@@ -54,6 +59,7 @@
         <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat"/>
         <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat"/>
         <img alt="PineScript" src="https://img.shields.io/badge/TradingView-PineScript-69F0AE?&style=flat"/>
+        <img alt="Polars" src="https://img.shields.io/badge/-Polars-0075FF?style=flat&logo=polars&logoColor=white"/>
         <img alt="Powershell" src="https://img.shields.io/badge/Powershell-5391FE?logo=powershell&logoColor=white&style=flat"/>
         <img alt="Python" src="https://img.shields.io/badge/-Python-33776AB?style=flat&logo=python&logoColor=white"/>
         <img alt="Quasar%20%28Pre%20Mature%29" src="https://img.shields.io/badge/Quasar-1976E2?logo=quasar&logoColor=white&style=flat"/>
@@ -63,12 +69,7 @@
         <img alt="Vue.JS%20%28Pre%20Mature%29" src="https://img.shields.io/badge/Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=flat"/>
     </td>
     <td>
-        <img alt="Backtrader" src="https://img.shields.io/badge/-Backtrader-000000?style=flat&logoColor=white"/>
-        <img alt="Litestar" src="https://img.shields.io/badge/-Starlette-FFD100?style=flat&logoColor=white"/>
-        <img alt="Looker Studio" src="https://img.shields.io/badge/-Looker%20Studio-4285F4?logo=looker&style=flat&logoColor=white"/>
-        <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-        <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
-        <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&style=flat&logoColor=white"/>
+        <img alt="None" src="https://img.shields.io/badge/None-000000?style=flat&logoColor=white"/>
     </td>
     <td>
         <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
