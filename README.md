@@ -92,11 +92,11 @@
 
 <table width="100%" cellspacing="0" cellpadding="0" style="width: initial !important">
   <tr valign="top">
-    <td width="50%" align="center" valign="center">
+    <td width="50%" align="center" valign="middle">
       <!-- Most Used Languages Card -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink&layout=compact&langs_count=10&hide_progress=true" />
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="middle">
       <!-- GitHub Stats Card -->
       <img src="https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&line_height=20" />
     </td>
