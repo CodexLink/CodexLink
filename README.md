@@ -4,15 +4,14 @@
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
 [![Wakatime](https://wakatime.com/badge/user/b3774db8-dd9f-4205-a646-ef6d27645187.svg)](https://wakatime.com/@b3774db8-dd9f-4205-a646-ef6d27645187)
 
-> `Born to be a Full-Stack Engineer`
-> `Desired to be a Backend Engineer`
-> `Only to land at Data Engineering xD`
+`Born to be a Full-Stack Engineer` >
+`Desired to be a Backend Engineer` >
+`Unconsciously landed at Data Engineering xD`
 
-> I like things `async`; Even though I haven't really master to do things with them.`
+> Hi~! (_Did you miss me~?_) I like things `async` and `python` even though I haven't really master to do things with them. I used to casually contribute to OSS; in a different way, such as creating examples of specific tech stacks, I don't do that anymore.
 
-> **My Learning Path to Developer to Engineer Today**: Win32C++ > HTML > C > C++ > Python (PyQt5 > Django > (Transition to Pure Backend) > Django REST > Flask -> (Touch up to Misc. Libraries) >  OpenCV -> (Data Science Libraries, `numpy` & `pandas` then `polars`) > FastAPI -> ??? <- unrelated learning -> Vue.js -> React (_Incomplete Knowledge_)
-
-> I used to casually contribute to OSS; in a different way, such as creating examples of specific tech stacks, I don't do that anymore.
+### :question: Learning Path to Developer to Engineer Today
+> Win32C++ > HTML > C > C++ > Python (PyQt5 > Django > (Transition to Pure Backend) > Django REST > Flask -> (Touch up to Misc. Libraries) >  OpenCV -> (Data Science Libraries, `numpy` & `pandas` then `polars`) > FastAPI -> ??? <- unrelated learning -> Vue.js -> React (_Incomplete Knowledge_)
 
 ### :scroll: Knowledge Table
 
@@ -86,20 +85,24 @@
   </tr>
 </table>
 
-> _This does include more than programming languages. It includes SaaS, IaaS, PaaS, and anything else tech-related._
+> This includes everything from Platform, Programming Languages, Stack and Libraries.
 
-<div>
-      <h3>:bar_chart: Statistics</h3>
-      <blockquote><i>Updated via GitHub Workflows or through HTTP Requests.</i></blockquote>
-      <div>
-        <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink"/>
-        <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&line_height=20" />
-      </div>
-<hr />
-<h3>:clock10: Coding Activities</h3>
-<blockquote><i>Updates every week.</i></blockquote>
+<h3>:bar_chart: Statistics</h3>
+<blockquote><i>Updated via GitHub Workflows or through HTTP Requests.</i></blockquote>
+
+<table width="100%" cellspacing="0" cellpadding="0" style="width: initial !important">
+  <tr valign="top">
+    <td width="50%" align="center" valign="center">
+      <!-- Most Used Languages Card -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexLink&layout=compact&langs_count=10&hide_progress=true" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <!-- GitHub Stats Card -->
+      <img src="https://github-readme-stats.vercel.app/api?username=CodexLink&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&line_height=20" />
+    </td>
+  </tr>
+</table>
+  
 <!--START_SECTION:waka-->
 
 ```txt
