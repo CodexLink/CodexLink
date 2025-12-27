@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Janrey Licas (`CodexLink`)
+## 👋 Hello! I'm ___ (`CodexLink`)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-00979D?style=flat&logo=linkedin)](https://www.linkedin.com/in/janrey-licas/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5353223/codexlink)
